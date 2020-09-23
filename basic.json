@@ -758,6 +758,15 @@
     "a": "detect_us_1.mp3"
   },
   {
+    "w": "canny",
+    "p": "/ˈkæni/",
+    "s": ["shrewd", "astute", "sharp", "sharp-witted"],
+    "d": "Having or showing shrewdness and good judgment, especially in money or business matters.",
+    "e": "canny shoppers came early for a bargain",
+    "t": "adjective",
+    "a": "canny_us_1.mp3"
+  },
+  {
     "w": "deter",
     "p": "/dəˈtər/",
     "s": ["put off", "discourage", "dissuade", "scare off"],
@@ -7803,6 +7812,33 @@
     "a": "groom_us_1.mp3"
   },
   {
+    "w": "curry",
+    "p": "/ˈkəri/",
+    "s": [],
+    "d": "A dish of meat, vegetables, etc., cooked in an Indian-style sauce of hot-tasting spices and typically served with rice.",
+    "e": "",
+    "t": "noun",
+    "a": "curry_us_1.mp3"
+  },
+  {
+    "w": "peer",
+    "p": "/pɪr/",
+    "s": ["squint", "look closely", "look earnestly", "try to see"],
+    "d": "Look keenly or with difficulty at someone or something.",
+    "e": "Blake screwed up his eyes, trying to peer through the fog",
+    "t": "verb",
+    "a": "peer_us_1.mp3"
+  },
+  {
+    "w": "spatula",
+    "p": "/ˈspætʃələ/",
+    "s": [],
+    "d": "An implement with a broad, flat, blunt blade, used for mixing and spreading things, especially in cooking and painting.",
+    "e": "",
+    "t": "noun",
+    "a": "spatula_us_1.mp3"
+  },
+  {
     "w": "gross",
     "p": "/ɡroʊs/",
     "s": ["flagrant", "blatant", "glaring", "obvious"],
@@ -10421,6 +10457,24 @@
     "e": "she made to open the door, but he detained her",
     "t": "transitive verb",
     "a": "detain_us_1.mp3"
+  },
+  {
+    "w": "retaliate",
+    "p": "/rəˈtæliˌeɪt/",
+    "s": ["fight back", "strike back", "hit back", "respond"],
+    "d": "Make an attack or assault in return for a similar attack.",
+    "e": "the blow stung and she retaliated immediately",
+    "t": "intransitive verb",
+    "a": "retaliate_us_1.mp3"
+  },
+  {
+    "w": "retard",
+    "p": "/rɪˈtɑrd/",
+    "s": ["delay", "slow down", "slow up", "hold back"],
+    "d": "Delay or hold back in terms of progress, development, or accomplishment.",
+    "e": "our progress was retarded by unforeseen difficulties",
+    "t": "transitive verb",
+    "a": "retard_us_1.mp3"
   },
   {
     "w": "detergent",
@@ -17852,6 +17906,24 @@
     "e": "the sharply flavored leaves should be used sparingly",
     "t": "adverb",
     "a": "sparingly_us_1.mp3"
+  },
+  {
+    "w": "ample",
+    "p": "/ˈæmpəl/",
+    "s": ["enough", "sufficient", "adequate", "plenty of"],
+    "d": "Enough or more than enough; plentiful.",
+    "e": "there is ample time for discussion",
+    "t": "adjective",
+    "a": "ample_us_1.mp3"
+  },
+  {
+    "w": "bully",
+    "p": "/ˈbʊli/",
+    "s": ["persecutor", "oppressor", "tyrant", "tormentor"],
+    "d": "A person who habitually seeks to harm or intimidate those whom they perceive as vulnerable.",
+    "e": "he is a ranting, domineering bully",
+    "t": "noun",
+    "a": "bully_us_1.mp3"
   },
   {
     "w": "solidarity",

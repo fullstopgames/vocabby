@@ -329,24 +329,6 @@
     "a": "spatial_us_1.mp3"
   },
   {
-    "w": "spatula",
-    "p": "/ˈspætʃələ/",
-    "s": [],
-    "d": "An implement with a broad, flat, blunt blade, used for mixing and spreading things, especially in cooking and painting.",
-    "e": "",
-    "t": "noun",
-    "a": "spatula_us_1.mp3"
-  },
-  {
-    "w": "spawn",
-    "p": "/spɔn/",
-    "s": [],
-    "d": "(of a fish, frog, mollusk, crustacean, etc.) release or deposit eggs.",
-    "e": "the fish spawn among fine-leaved plants",
-    "t": "verb",
-    "a": "spawn_us_1.mp3"
-  },
-  {
     "w": "specious",
     "p": "/ˈspiʃəs/",
     "s": [],
@@ -3499,24 +3481,6 @@
     "a": "resuscitate_us_1.mp3"
   },
   {
-    "w": "retaliate",
-    "p": "/rəˈtæliˌeɪt/",
-    "s": ["fight back", "strike back", "hit back", "respond"],
-    "d": "Make an attack or assault in return for a similar attack.",
-    "e": "the blow stung and she retaliated immediately",
-    "t": "intransitive verb",
-    "a": "retaliate_us_1.mp3"
-  },
-  {
-    "w": "retard",
-    "p": "/rɪˈtɑrd/",
-    "s": ["delay", "slow down", "slow up", "hold back"],
-    "d": "Delay or hold back in terms of progress, development, or accomplishment.",
-    "e": "our progress was retarded by unforeseen difficulties",
-    "t": "transitive verb",
-    "a": "retard_us_1.mp3"
-  },
-  {
     "w": "retentive",
     "p": "/rəˈtɛn(t)ɪv/",
     "s": ["retentive", "good"],
@@ -5344,15 +5308,6 @@
     "e": "The city was gloriously clean, its classical columns and pediments and its baroque scrolls and volutes now clearly delineated by the shadows cast by an oblique sun on their pale surfaces.",
     "t": "noun",
     "a": "pediment_us_1.mp3"
-  },
-  {
-    "w": "peer",
-    "p": "/pɪr/",
-    "s": ["squint", "look closely", "look earnestly", "try to see"],
-    "d": "Look keenly or with difficulty at someone or something.",
-    "e": "Blake screwed up his eyes, trying to peer through the fog",
-    "t": "verb",
-    "a": "peer_us_1.mp3"
   },
   {
     "w": "peerless",
@@ -12682,15 +12637,6 @@
     "a": "curmudgeon_us_1.mp3"
   },
   {
-    "w": "curry",
-    "p": "/ˈkəri/",
-    "s": [],
-    "d": "A dish of meat, vegetables, etc., cooked in an Indian-style sauce of hot-tasting spices and typically served with rice.",
-    "e": "",
-    "t": "noun",
-    "a": "curry_us_1.mp3"
-  },
-  {
     "w": "cursory",
     "p": "/ˈkərs(ə)ri/",
     "s": ["perfunctory", "desultory", "casual", "superficial"],
@@ -15058,15 +15004,6 @@
     "a": "bullion_us_3.mp3"
   },
   {
-    "w": "bully",
-    "p": "/ˈbʊli/",
-    "s": ["persecutor", "oppressor", "tyrant", "tormentor"],
-    "d": "A person who habitually seeks to harm or intimidate those whom they perceive as vulnerable.",
-    "e": "he is a ranting, domineering bully",
-    "t": "noun",
-    "a": "bully_us_1.mp3"
-  },
-  {
     "w": "bulwark",
     "p": "/ˈbʊlˌwərk/",
     "s": ["wall", "rampart", "fortification", "parapet"],
@@ -15327,15 +15264,6 @@
     "e": "cut out lesions on branches caused by canker",
     "t": "noun",
     "a": "canker_us_1.mp3"
-  },
-  {
-    "w": "canny",
-    "p": "/ˈkæni/",
-    "s": ["shrewd", "astute", "sharp", "sharp-witted"],
-    "d": "Having or showing shrewdness and good judgment, especially in money or business matters.",
-    "e": "canny shoppers came early for a bargain",
-    "t": "adjective",
-    "a": "canny_us_1.mp3"
   },
   {
     "w": "canon",
@@ -17907,15 +17835,6 @@
     "e": "the opera was performed in the Roman amphitheater",
     "t": "noun",
     "a": "amphitheater_us_1.mp3"
-  },
-  {
-    "w": "ample",
-    "p": "/ˈæmpəl/",
-    "s": ["enough", "sufficient", "adequate", "plenty of"],
-    "d": "Enough or more than enough; plentiful.",
-    "e": "there is ample time for discussion",
-    "t": "adjective",
-    "a": "ample_us_1.mp3"
   },
   {
     "w": "amulet",
