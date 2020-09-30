@@ -1,0 +1,374 @@
+[
+  {
+    "w": "appreciate",
+    "p": "/əˈpriʃiˌeɪt/",
+    "s": ["value", "respect", "prize", "cherish"],
+    "d": "Recognize the full worth of.",
+    "e": "she feels that he does not appreciate her",
+    "t": "transitive verb",
+    "a": "appreciate_us_1.mp3"
+  },
+  {
+    "w": "bankrupt",
+    "p": "/ˈbæŋkˌrəpt/",
+    "s": ["insolvent", "bankrupted"],
+    "d": "(of a person or organization) declared in law unable to pay outstanding debts.",
+    "e": "his father went bankrupt and the family had to sell their home",
+    "t": "adjective",
+    "a": "bankrupt_us_1.mp3"
+  },
+  {
+    "w": "bankruptcy",
+    "p": "/ˈbæŋkˌrəp(t)si/",
+    "s": ["insolvency", "liquidation", "failure", "ruin"],
+    "d": "The state of being bankrupt.",
+    "e": "many companies were facing bankruptcy",
+    "t": "noun",
+    "a": "bankruptcy_us_1.mp3"
+  },
+  {
+    "w": "budget",
+    "p": "/ˈbədʒət/",
+    "s": [
+      "financial plan",
+      "financial estimate",
+      "financial blueprint",
+      "prediction of revenue and expenditure"
+    ],
+    "d": "An estimate of income and expenditure for a set period of time.",
+    "e": "keep within the household budget",
+    "t": "noun",
+    "a": "budget_us_1.mp3"
+  },
+  {
+    "w": "capital",
+    "p": "/ˈkæpədl/",
+    "s": [
+      "first city",
+      "most important city",
+      "seat of government",
+      "centre of administration"
+    ],
+    "d": "The most important city or town of a country or region, usually its seat of government and administrative center.A place associated more than any other with a specified activity or product.",
+    "e": "Warsaw is the capital of Poland",
+    "t": "noun",
+    "a": "capital_us_1.mp3"
+  },
+  {
+    "w": "cash",
+    "p": "/kæʃ/",
+    "s": ["money", "ready cash", "ready money", "currency"],
+    "d": "Money in coins or notes, as distinct from checks, money orders, or credit.",
+    "e": "the staff were paid in cash",
+    "t": "noun",
+    "a": "cash_us_1.mp3"
+  },
+  {
+    "w": "competition",
+    "p": "/ˌkɑmpəˈtɪʃ(ə)n/",
+    "s": ["rivalry", "competitiveness", "vying", "contesting"],
+    "d": "The activity or condition of competing.",
+    "e": "there is fierce competition between banks",
+    "t": "noun",
+    "a": "competition_us_1.mp3"
+  },
+  {
+    "w": "consumer",
+    "p": "/kənˈsumər/",
+    "s": ["purchaser", "buyer", "customer", "shopper"],
+    "d": "A person who purchases goods and services for personal use.",
+    "e": "understanding what motivates consumers is more crucial than ever",
+    "t": "noun",
+    "a": "xconsumer_us_1.mp3"
+  },
+  {
+    "w": "consumer goods",
+    "p": "",
+    "s": [],
+    "d": "Goods bought and used by consumers, rather than by manufacturers for producing other goods.",
+    "e": "Prices for most manufactured and consumer goods are either flat or declining.",
+    "t": "plural noun",
+    "a": "xconsumer_goods_1_gb_1.mp3"
+  },
+  {
+    "w": "cost",
+    "p": "/kɔst/",
+    "s": ["be priced at", "sell for", "be valued at", "fetch"],
+    "d": "(of an object or action) require the payment of (a specified sum of money) before it can be acquired or done.",
+    "e": "each issue of the magazine costs $2.25",
+    "t": "transitive verb",
+    "a": "cost_us_1.mp3"
+  },
+  {
+    "w": "crash",
+    "p": "/kræʃ/",
+    "s": [
+      "smash into",
+      "collide with",
+      "be in collision with",
+      "come into collision with"
+    ],
+    "d": "(of a vehicle) collide violently with an obstacle or another vehicle.",
+    "e": "the stolen car she was riding in crashed into a tree",
+    "t": "verb",
+    "a": "crash_us_1.mp3"
+  },
+  {
+    "w": "credit",
+    "p": "/ˈkrɛdət/",
+    "s": ["financial standing", "financial status", "solvency"],
+    "d": "The ability of a customer to obtain goods or services before payment, based on the trust that payment will be made in the future.",
+    "e": "I've got unlimited credit",
+    "t": "noun",
+    "a": "credit_us_1.mp3"
+  },
+  {
+    "w": "currency",
+    "p": "/ˈkərənsi/",
+    "s": ["money", "legal tender", "medium of exchange", "cash"],
+    "d": "A system of money in general use in a particular country.",
+    "e": "the dollar was a strong currency",
+    "t": "noun",
+    "a": "currency_us_1.mp3"
+  },
+  {
+    "w": "debt",
+    "p": "/dɛt/",
+    "s": ["bill", "account", "tally", "financial obligation"],
+    "d": "Something, typically money, that is owed or due.",
+    "e": "I paid off my debts",
+    "t": "noun",
+    "a": "debt_us_1.mp3"
+  },
+  {
+    "w": "deficit",
+    "p": "/ˈdɛfəsət/",
+    "s": ["shortfall", "deficiency", "shortage", "undersupply"],
+    "d": "The amount by which something, especially a sum of money, is too small.",
+    "e": "The fund will absorb the deficit in the Rover pension scheme, which officially stands at £67.6m.",
+    "t": "noun",
+    "a": "deficit_us_1.mp3"
+  },
+  {
+    "w": "deposit",
+    "p": "/dəˈpɑzət/",
+    "s": [],
+    "d": "A sum of money placed or kept in a bank account, usually to gain interest.",
+    "e": "cash funds which are an alternative to bank or building society deposits",
+    "t": "noun",
+    "a": "deposit_us_1.mp3"
+  },
+  {
+    "w": "depression",
+    "p": "/dəˈprɛʃ(ə)n/",
+    "s": ["melancholy", "misery", "sadness", "unhappiness"],
+    "d": "Feelings of severe despondency and dejection.",
+    "e": "self-doubt creeps in and that swiftly turns to depression",
+    "t": "noun",
+    "a": "depression_us_1.mp3"
+  },
+  {
+    "w": "economics",
+    "p": "/ˌɛkəˈnɑmɪks/",
+    "s": [
+      "financial affairs",
+      "money matters",
+      "pecuniary matters",
+      "fiscal matters"
+    ],
+    "d": "The branch of knowledge concerned with the production, consumption, and transfer of wealth.",
+    "e": "They are most likely to acquire this stock of knowledge by studying economics at school.",
+    "t": "plural noun",
+    "a": "economics_us_2_rr.mp3"
+  },
+  {
+    "w": "economy",
+    "p": "/əˈkɑnəmi/",
+    "s": ["wealth", "resources", "financial resources"],
+    "d": "The wealth and resources of a country or region, especially in terms of the production and consumption of goods and services.",
+    "e": "The slowing global economy has weakened demand for Japan's high-technology exports, causing manufacturers to cut production and workers.",
+    "t": "noun",
+    "a": "economy_us_1.mp3"
+  },
+  {
+    "w": "finance",
+    "p": "/ˈfaɪnæns/",
+    "s": [
+      "financial affairs",
+      "money matters",
+      "pecuniary matters",
+      "fiscal matters"
+    ],
+    "d": "The management of large amounts of money, especially by governments or large companies.",
+    "e": "the firm's finance department",
+    "t": "noun",
+    "a": "finance_us_1.mp3"
+  },
+  {
+    "w": "fiscal",
+    "p": "/ˈfɪsk(ə)l/",
+    "s": ["tax", "budgetary", "revenue"],
+    "d": "Relating to government revenue, especially taxes.",
+    "e": "monetary and fiscal policy",
+    "t": "adjective",
+    "a": "fiscal_us_1.mp3"
+  },
+  {
+    "w": "global",
+    "p": "/ˈɡloʊbəl/",
+    "s": ["worldwide", "international", "world", "intercontinental"],
+    "d": "Relating to the whole world; worldwide.",
+    "e": "the downturn in the global economy",
+    "t": "adjective",
+    "a": "global_us_1.mp3"
+  },
+  {
+    "w": "inflation",
+    "p": "/ɪnˈfleɪʃ(ə)n/",
+    "s": ["exaggeration", "overemphasis", "magnification", "amplification"],
+    "d": "The action of inflating something or the condition of being inflated.",
+    "e": "the inflation of a balloon",
+    "t": "noun",
+    "a": "inflation_us_1.mp3"
+  },
+  {
+    "w": "interest",
+    "p": "/ˈɪnt(ə)rəst/",
+    "s": ["attentiveness", "undivided attention", "absorption", "engrossment"],
+    "d": "The state of wanting to know or learn about something or someone.",
+    "e": "she looked about her with interest",
+    "t": "noun",
+    "a": "interest_us_1.mp3"
+  },
+  {
+    "w": "invest",
+    "p": "/ɪnˈvɛst/",
+    "s": [
+      "put money into",
+      "sink money into",
+      "lay out money on",
+      "plough money into"
+    ],
+    "d": "Expend money with the expectation of achieving a profit or material result by putting it into financial plans, shares, or property, or by using it to develop a commercial venture.",
+    "e": "the company is to invest $12 million in its new manufacturing site",
+    "t": "verb",
+    "a": "invest_us_1.mp3"
+  },
+  {
+    "w": "investment",
+    "p": "/ɪnˈvɛs(t)mənt/",
+    "s": ["investing", "speculation"],
+    "d": "The action or process of investing money for profit or material result.",
+    "e": "a debate over private investment in road-building",
+    "t": "noun",
+    "a": "investment_us_1.mp3"
+  },
+  {
+    "w": "loan",
+    "p": "/loʊn/",
+    "s": ["credit", "advance"],
+    "d": "A thing that is borrowed, especially a sum of money that is expected to be paid back with interest.",
+    "e": "borrowers can take out a loan for $84,000",
+    "t": "noun",
+    "a": "loan_us_1.mp3"
+  },
+  {
+    "w": "loss",
+    "p": "/lɔs/",
+    "s": ["mislaying", "misplacement", "dropping", "forgetting"],
+    "d": "The fact or process of losing something or someone.",
+    "e": "avoiding loss of time",
+    "t": "noun",
+    "a": "loss_us_3.mp3"
+  },
+  {
+    "w": "market",
+    "p": "/ˈmɑrkət/",
+    "s": [],
+    "d": "A regular gathering of people for the purchase and sale of provisions, livestock, and other commodities.",
+    "e": "farmers going to market",
+    "t": "noun",
+    "a": "market_us_1.mp3"
+  },
+  {
+    "w": "profit",
+    "p": "/ˈprɑfət/",
+    "s": ["financial gain", "gain", "return", "returns"],
+    "d": "A financial gain, especially the difference between the amount earned and the amount spent in buying, operating, or producing something.",
+    "e": "pretax profits",
+    "t": "noun",
+    "a": "profit_us_1.mp3"
+  },
+  {
+    "w": "recession",
+    "p": "/rəˈsɛʃ(ə)n/",
+    "s": ["economic decline", "downturn", "depression", "slump"],
+    "d": "A period of temporary economic decline during which trade and industrial activity are reduced, generally identified by a fall in GDP in two successive quarters.",
+    "e": "the country is in the depths of a recession",
+    "t": "noun",
+    "a": "recession_us_1.mp3"
+  },
+  {
+    "w": "saving",
+    "p": "/ˈseɪvɪŋ/",
+    "s": ["economizing", "economy", "frugality", "thrift"],
+    "d": "An economy of or reduction in money, time, or another resource.",
+    "e": "this resulted in a considerable saving in development costs",
+    "t": "noun",
+    "a": "saving_gb_1.mp3"
+  },
+  {
+    "w": "spend",
+    "p": "/spɛnd/",
+    "s": ["pay out", "lay out", "expend", "disburse"],
+    "d": "Give (money) to pay for goods, services, or so as to benefit someone or something.",
+    "e": "the firm has spent £100,000 on hardware",
+    "t": "verb",
+    "a": "spend_gb_1.mp3"
+  },
+  {
+    "w": "stock",
+    "p": "/stɑk/",
+    "s": ["merchandise", "goods", "wares", "articles for sale"],
+    "d": "The goods or merchandise kept on the premises of a business or warehouse and available for sale or distribution.",
+    "e": "the store has a very low turnover of stock",
+    "t": "noun",
+    "a": "stock_us_1.mp3"
+  },
+  {
+    "w": "stock market",
+    "p": "",
+    "s": [],
+    "d": "A stock exchange.",
+    "e": "he plans to invest in the stock market",
+    "t": "noun",
+    "a": "stock_market_1_gb_1.mp3"
+  },
+  {
+    "w": "tax",
+    "p": "/tæks/",
+    "s": ["levy", "tariff", "duty", "toll"],
+    "d": "A compulsory contribution to state revenue, levied by the government on workers' income and business profits, or added to the cost of some goods, services, and transactions.",
+    "e": "higher taxes will dampen consumer spending",
+    "t": "noun",
+    "a": "tax_us_1.mp3"
+  },
+  {
+    "w": "trade",
+    "p": "/treɪd/",
+    "s": ["commerce", "buying and selling", "dealing", "traffic"],
+    "d": "The action of buying and selling goods and services.",
+    "e": "a move to ban all trade in ivory",
+    "t": "noun",
+    "a": "trade_us_1.mp3"
+  },
+  {
+    "w": "value",
+    "p": "/ˈvælju/",
+    "s": ["merit", "worth", "usefulness", "use"],
+    "d": "The regard that something is held to deserve; the importance, worth, or usefulness of something.",
+    "e": "your support is of great value",
+    "t": "noun",
+    "a": "value_us_1.mp3"
+  }
+]

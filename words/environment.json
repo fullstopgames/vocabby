@@ -1,0 +1,525 @@
+[
+  {
+    "w": "global warming",
+    "p": "",
+    "s": [],
+    "d": "A gradual increase in the overall temperature of the earth's atmosphere generally attributed to the greenhouse effect caused by increased levels of carbon dioxide, CFCs, and other pollutants.",
+    "e": "The company is deeply concerned by the effects of global warming caused by the greenhouse effect.",
+    "t": "noun",
+    "a": "global_warming_1_gb_1.mp3"
+  },
+  {
+    "w": "green",
+    "p": "/ɡrin/",
+    "s": ["greenish", "viridescent"],
+    "d": "Of the color between blue and yellow in the spectrum; colored like grass or emeralds.",
+    "e": "the leaves are bright green",
+    "t": "adjective",
+    "a": "green_1_us_1.mp3"
+  },
+  {
+    "w": "greenhouse effect",
+    "p": "",
+    "s": [],
+    "d": "The trapping of the sun's warmth in a planet's lower atmosphere, due to the greater transparency of the atmosphere to visible radiation from the sun than to infrared radiation emitted from the planet's surface.",
+    "e": "Scientists predict that this increase may enhance the greenhouse effect making the planet warmer.",
+    "t": "noun",
+    "a": "greenhouse_effect_1_gb_1.mp3"
+  },
+  {
+    "w": "groundwater",
+    "p": "/ˈɡraʊndˌwɔdər/",
+    "s": [],
+    "d": "Water held underground in the soil or in pores and crevices in rock.",
+    "e": "They can contaminate underlying soils and groundwater or contaminate storm water which travels to bodies of surface water.",
+    "t": "noun",
+    "a": "groundwater_us_1_rr.mp3"
+  },
+  {
+    "w": "habitat",
+    "p": "/ˈhæbəˌtæt/",
+    "s": [
+      "natural environment",
+      "natural element",
+      "natural territory",
+      "natural surroundings"
+    ],
+    "d": "The natural home or environment of an animal, plant, or other organism.",
+    "e": "wild chimps in their natural habitat",
+    "t": "noun",
+    "a": "habitat_us_1.mp3"
+  },
+  {
+    "w": "herbicide",
+    "p": "/ˈ(h)ərbəˌsaɪd/",
+    "s": [],
+    "d": "A substance that is toxic to plants, used to destroy unwanted vegetation.",
+    "e": "farmers sprayed a protected wildflower meadow with herbicide",
+    "t": "noun",
+    "a": "herbicide_us_2.mp3"
+  },
+  {
+    "w": "landfill",
+    "p": "/ˈlæn(d)ˌfɪl/",
+    "s": [],
+    "d": "A place to dispose of refuse and other waste material by burying it and covering it over with soil, especially as a method of filling in or extending usable land.",
+    "e": "landfill sites",
+    "t": "noun",
+    "a": "landfill_us_1.mp3"
+  },
+  {
+    "w": "methane",
+    "p": "/ˈmɛθeɪn/",
+    "s": [],
+    "d": "A colorless, odorless flammable gas which is the main constituent of natural gas. It is the simplest member of the alkane series of hydrocarbons.",
+    "e": "Other trace gases include methane, nitrous oxide, carbon monoxide, sulphur dioxide, and ozone.",
+    "t": "noun",
+    "a": "methane_us_1.mp3"
+  },
+  {
+    "w": "nuclear energy",
+    "p": "",
+    "s": [],
+    "d": "The energy released during nuclear fission or fusion, especially when used to generate electricity.",
+    "e": "All the steps in the complex process of creating nuclear energy entail environmental hazards.",
+    "t": "noun",
+    "a": "nuclear_energy_1_gb_1.mp3"
+  },
+  {
+    "w": "organic",
+    "p": "/ɔrˈɡænɪk/",
+    "s": ["living", "live", "animate", "biological"],
+    "d": "Relating to or derived from living matter.",
+    "e": "organic soils",
+    "t": "adjective",
+    "a": "organic_us_1.mp3"
+  },
+  {
+    "w": "ozone layer",
+    "p": "",
+    "s": [],
+    "d": "A layer in the earth's stratosphere at an altitude of about 10 km (6.2 miles) containing a high concentration of ozone, which absorbs most of the ultraviolet radiation reaching the earth from the sun.",
+    "e": "In the absence of the ozone layer harmful ultraviolet radiation is able to reach the surface of the Earth in higher doses.",
+    "t": "noun",
+    "a": "ozone_layer_1_gb_1.mp3"
+  },
+  {
+    "w": "pesticide",
+    "p": "/ˈpɛstəˌsaɪd/",
+    "s": [],
+    "d": "A substance used for destroying insects or other organisms harmful to cultivated plants or to animals.",
+    "e": "Once volatilized, a pesticide can move in air currents away from the treated surface.",
+    "t": "noun",
+    "a": "pesticide_us_1.mp3"
+  },
+  {
+    "w": "petroleum",
+    "p": "/pəˈtroʊliəm/",
+    "s": ["lubricant", "lubrication", "grease"],
+    "d": "A liquid mixture of hydrocarbons that is present in certain rock strata and can be extracted and refined to produce fuels including gasoline, kerosene, and diesel oil; oil.",
+    "e": "Liquid paraffin is a mixture of liquid hydrocarbons obtained from petroleum.",
+    "t": "noun",
+    "a": "petroleum_us_1.mp3"
+  },
+  {
+    "w": "pollutant",
+    "p": "/pəˈlutnt/",
+    "s": [],
+    "d": "A substance that pollutes something, especially water or the atmosphere.",
+    "e": "chemical pollutants",
+    "t": "noun",
+    "a": "pollutant_us_1.mp3"
+  },
+  {
+    "w": "pollution",
+    "p": "/pəˈluʃ(ə)n/",
+    "s": ["contamination", "contaminating", "adulteration", "adulterating"],
+    "d": "The presence in or introduction into the environment of a substance or thing that has harmful or poisonous effects.",
+    "e": "the level of pollution in the air is rising",
+    "t": "noun",
+    "a": "pollution_us_1.mp3"
+  },
+  {
+    "w": "radiation",
+    "p": "/ˌreɪdiˈeɪʃ(ə)n/",
+    "s": ["discharge", "release", "outpouring", "outflow"],
+    "d": "The emission of energy as electromagnetic waves or as moving subatomic particles, especially high-energy particles which cause ionization.",
+    "e": "Because it uses sound waves instead of radiation, ultrasound is safer than X-rays.",
+    "t": "noun",
+    "a": "radiation_us_1.mp3"
+  },
+  {
+    "w": "rainforest",
+    "p": "/ˈreɪnfɒrɪst/",
+    "s": ["tropical forest", "rainforest", "tropical rainforest"],
+    "d": "A luxuriant, dense forest rich in biodiversity, found typically in tropical areas with consistently heavy rainfall.",
+    "e": "save the rainforests",
+    "t": "noun",
+    "a": "rainforest_gb_1.mp3"
+  },
+  {
+    "w": "recycle",
+    "p": "/riˈsaɪk(ə)l/",
+    "s": ["reuse", "reprocess", "convert into something", "reclaim"],
+    "d": "Convert (waste) into reusable material.",
+    "e": "car hulks were recycled into new steel",
+    "t": "transitive verb",
+    "a": "recycle_us_1.mp3"
+  },
+  {
+    "w": "renewable",
+    "p": "/rəˈn(j)uəb(ə)l/",
+    "s": [],
+    "d": "(of a contract, agreement, etc.) capable of being renewed.",
+    "e": "the 30-day truce is renewable by mutual agreement",
+    "t": "adjective",
+    "a": "renewable_us_1.mp3"
+  },
+  {
+    "w": "smog",
+    "p": "/smɑɡ/",
+    "s": ["exhaust fumes", "fumes", "smoke", "pollution"],
+    "d": "Fog or haze combined with smoke and other atmospheric pollutants.",
+    "e": "exhaust emissions are mainly responsible for the smog",
+    "t": "noun",
+    "a": "smog_us_1_rr.mp3"
+  },
+  {
+    "w": "solar",
+    "p": "/ˈsoʊlər/",
+    "s": [],
+    "d": "Relating to or determined by the sun.",
+    "e": "solar radiation",
+    "t": "adjective",
+    "a": "solar_us_1.mp3"
+  },
+  {
+    "w": "sustainable",
+    "p": "/səˈsteɪnəb(ə)l/",
+    "s": ["acceptable", "trustworthy", "reliable", "dependable"],
+    "d": "Able to be maintained at a certain rate or level.",
+    "e": "sustainable fusion reactions",
+    "t": "adjective",
+    "a": "sustainable_us_1.mp3"
+  },
+  {
+    "w": "toxic",
+    "p": "/ˈtɑksɪk/",
+    "s": ["poisonous", "venomous", "virulent", "noxious"],
+    "d": "Poisonous.",
+    "e": "the dumping of toxic waste",
+    "t": "adjective",
+    "a": "_toxic_1_us_1.mp3"
+  },
+  {
+    "w": "toxic waste",
+    "p": "",
+    "s": [],
+    "d": "Waste, especially industrial waste, that is hazardous to human health or the environment and which requires special facilities for its disposal; also occasionally as a count noun.",
+    "e": "",
+    "t": "noun",
+    "a": ""
+  },
+  {
+    "w": "waste",
+    "p": "/weɪst/",
+    "s": ["squander", "fritter away", "misspend", "misuse"],
+    "d": "Use or expend carelessly, extravagantly, or to no purpose.",
+    "e": "we can't afford to waste electricity",
+    "t": "verb",
+    "a": "waste_us_1.mp3"
+  },
+  {
+    "w": "wetland",
+    "p": "/ˈwɛtˌlænd/",
+    "s": ["marsh", "marshland", "swamp", "swampland"],
+    "d": "Land consisting of marshes or swamps; saturated land.",
+    "e": "the draining of British wetlands",
+    "t": "noun",
+    "a": "wetland_us_2_rr.mp3"
+  },
+  {
+    "w": "wildlife",
+    "p": "/ˈwaɪl(d)laɪf/",
+    "s": ["animals", "wild animals", "fauna"],
+    "d": "Wild animals collectively; the native fauna (and sometimes flora) of a region.",
+    "e": "you can watch the wildlife",
+    "t": "noun",
+    "a": "wildlife_us_1.mp3"
+  },
+  {
+    "w": "windmill",
+    "p": "/ˈwɪn(d)mil/",
+    "s": [],
+    "d": "A building with sails or vanes that turn in the wind and generate power to grind grain into flour.",
+    "e": "In the past windmills were used to grind corn into flour.",
+    "t": "noun",
+    "a": "windmill_us_1.mp3"
+  },
+  {
+    "w": "aquifer",
+    "p": "/ˈɑkwəfər/",
+    "s": [],
+    "d": "A body of permeable rock which can contain or transmit groundwater.",
+    "e": "Because of the long residence times typical of most bodies of groundwater, contaminated aquifers are not readily restored by natural processes.",
+    "t": "noun",
+    "a": "aquifer_us_2_rr.mp3"
+  },
+  {
+    "w": "atmosphere",
+    "p": "/ˈætməsˌfɪr/",
+    "s": ["air", "aerosphere", "airspace", "sky"],
+    "d": "The envelope of gases surrounding the earth or another planet.",
+    "e": "part of the sun's energy is absorbed by the earth's atmosphere",
+    "t": "noun",
+    "a": "atmosphere_us_1.mp3"
+  },
+  {
+    "w": "biodegradable",
+    "p": "/ˌbaɪoʊdəˈɡreɪdəb(ə)l/",
+    "s": ["disposable", "expendable", "one-use", "non-returnable"],
+    "d": "(of a substance or object) capable of being decomposed by bacteria or other living organisms.",
+    "e": "consumers have forced a shift to more biodegradable products",
+    "t": "adjective",
+    "a": "biodegradable_us_1.mp3"
+  },
+  {
+    "w": "biodiversity",
+    "p": "/ˌbaɪoʊdɪˈvərsədi/",
+    "s": [],
+    "d": "The variety of life in the world or in a particular habitat or ecosystem.",
+    "e": "To discover the patterns of biodiversity, information on biodiversity has to be collected.",
+    "t": "noun",
+    "a": "biodiversity_us_3.mp3"
+  },
+  {
+    "w": "carbon dioxide",
+    "p": "/ˌkɑːb(ə)n dʌɪˈɒksʌɪd/",
+    "s": [],
+    "d": "A colourless, odourless gas produced by burning carbon and organic compounds and by respiration. It is naturally present in air (about 0.03 per cent) and is absorbed by plants in photosynthesis.",
+    "e": "This fixed air is carbon dioxide, into which carbonates decompose when heated.",
+    "t": "noun",
+    "a": "carbon_dioxide_1_gb_1.mp3"
+  },
+  {
+    "w": "carbon monoxide",
+    "p": "",
+    "s": [],
+    "d": "A colourless, odourless toxic flammable gas formed by incomplete combustion of carbon.",
+    "e": "Other trace gases include methane, nitrous oxide, carbon monoxide, sulphur dioxide, and ozone.",
+    "t": "noun",
+    "a": "carbon_monoxide_1_gb_1.mp3"
+  },
+  {
+    "w": "carcinogen",
+    "p": "/kɑrˈsɪnədʒən/",
+    "s": [],
+    "d": "A substance capable of causing cancer in living tissue.",
+    "e": "The combination of cigarette smoking and exposure to many occupational carcinogens increases risk of cancer.",
+    "t": "noun",
+    "a": "carcinogen_us_1_rr.mp3"
+  },
+  {
+    "w": "climate",
+    "p": "/ˈklaɪmɪt/",
+    "s": [
+      "weather pattern",
+      "weather conditions",
+      "weather",
+      "atmospheric conditions"
+    ],
+    "d": "The weather conditions prevailing in an area in general or over a long period.",
+    "e": "our cold, wet climate",
+    "t": "noun",
+    "a": "climate_us_1.mp3"
+  },
+  {
+    "w": "coal",
+    "p": "/koʊl/",
+    "s": [],
+    "d": "A combustible black or dark brown rock consisting mainly of carbonized plant matter, found mainly in underground deposits and widely used as fuel.",
+    "e": "a coal fire",
+    "t": "noun",
+    "a": "coal_us_1.mp3"
+  },
+  {
+    "w": "compost",
+    "p": "/ˈkɑmˌpoʊst/",
+    "s": ["fertilizer", "plant food", "dressing", "organic matter"],
+    "d": "Decayed organic material used as a plant fertilizer.",
+    "e": "cover with a layer of fine compost",
+    "t": "noun",
+    "a": "compost_us_1.mp3"
+  },
+  {
+    "w": "conservation",
+    "p": "/ˌkɑnsərˈveɪʃ(ə)n/",
+    "s": ["conservation", "careful management", "good housekeeping", "economy"],
+    "d": "Prevention of wasteful use of a resource.",
+    "e": "",
+    "t": "noun",
+    "a": "xconservation_us_1.mp3"
+  },
+  {
+    "w": "conservationist",
+    "p": "/ˌkɑnsərˈveɪʃənəst/",
+    "s": [],
+    "d": "A person who advocates or acts for the protection and preservation of the environment and wildlife.",
+    "e": "conservationist groups",
+    "t": "noun",
+    "a": "xconservationist_us_1.mp3"
+  },
+  {
+    "w": "contaminant",
+    "p": "/kənˈtæmənənt/",
+    "s": [],
+    "d": "A polluting or poisonous substance that makes something impure.",
+    "e": "people were exposed to airborne contaminants",
+    "t": "noun",
+    "a": "xcontaminant_us_1.mp3"
+  },
+  {
+    "w": "contamination",
+    "p": "/kənˌtæməˈneɪʃ(ə)n/",
+    "s": [],
+    "d": "The action or state of making or being made impure by polluting or poisoning.",
+    "e": "the risk of contamination by dangerous bacteria",
+    "t": "noun",
+    "a": "xcontamination_us_1.mp3"
+  },
+  {
+    "w": "deforestation",
+    "p": "/diˌfɔrəˈsteɪʃən/",
+    "s": [],
+    "d": "The action of clearing a wide area of trees.",
+    "e": "a key aim is to try to halt widespread deforestation in the Amazon",
+    "t": "noun",
+    "a": "deforestation_us_1_rr.mp3"
+  },
+  {
+    "w": "disposable",
+    "p": "/dəˈspoʊzəb(ə)l/",
+    "s": ["throwaway", "expendable", "one-use", "non-returnable"],
+    "d": "(of an article) intended to be used once, or until no longer useful, and then thrown away.",
+    "e": "disposable diapers",
+    "t": "adjective",
+    "a": "disposable_us_1.mp3"
+  },
+  {
+    "w": "diversity",
+    "p": "/dəˈvərsədi/",
+    "s": [],
+    "d": "The state of being diverse; variety.",
+    "e": "there was considerable diversity in the style of the reports",
+    "t": "noun",
+    "a": "diversity_us_2_rr.mp3"
+  },
+  {
+    "w": "ecology",
+    "p": "/iˈkɑlədʒi/",
+    "s": ["preservation", "protection", "safeguarding", "safe keeping"],
+    "d": "The branch of biology that deals with the relations of organisms to one another and to their physical surroundings.",
+    "e": "",
+    "t": "noun",
+    "a": "ecology_us_1.mp3"
+  },
+  {
+    "w": "ecosystem",
+    "p": "/ˈikoʊˌsɪstəm/",
+    "s": ["living things", "living beings", "living creatures", "the living"],
+    "d": "A biological community of interacting organisms and their physical environment.",
+    "e": "the marine ecosystem of the northern Gulf had suffered irreparable damage",
+    "t": "noun",
+    "a": "ecosystem_us_1.mp3"
+  },
+  {
+    "w": "emission",
+    "p": "/əˈmɪʃ(ə)n/",
+    "s": ["discharge", "release", "outpouring", "outflow"],
+    "d": "The production and discharge of something, especially gas or radiation.",
+    "e": "the effects of lead emission on health",
+    "t": "noun",
+    "a": "emission_us_1.mp3"
+  },
+  {
+    "w": "endangered",
+    "p": "/ɪnˈdeɪndʒərd/",
+    "s": ["in danger", "in peril", "in jeopardy", "at risk"],
+    "d": "(of a species) seriously at risk of extinction.",
+    "e": "legislation to protect endangered species",
+    "t": "adjective",
+    "a": "endangered_us_2.mp3"
+  },
+  {
+    "w": "energy",
+    "p": "/ˈɛnərdʒi/",
+    "s": ["vitality", "vigour", "life", "liveliness"],
+    "d": "The strength and vitality required for sustained physical or mental activity.",
+    "e": "changes in the levels of vitamins can affect energy and well-being",
+    "t": "noun",
+    "a": "energy_us_1.mp3"
+  },
+  {
+    "w": "environment",
+    "p": "/ɪnˈvaɪrənmənt/",
+    "s": ["habitat", "territory", "domain", "home"],
+    "d": "The surroundings or conditions in which a person, animal, or plant lives or operates.",
+    "e": "survival in an often hostile environment",
+    "t": "noun",
+    "a": "environment_us_1.mp3"
+  },
+  {
+    "w": "environmentalist",
+    "p": "/ɪnˌvaɪrənˈmɛn(t)ələst/",
+    "s": ["conservationist", "preservationist", "ecologist", "green"],
+    "d": "A person who is concerned with or advocates the protection of the environment.",
+    "e": "the environmentalist movement",
+    "t": "noun",
+    "a": "environmentalist_us_1.mp3"
+  },
+  {
+    "w": "erosion",
+    "p": "/əˈroʊʒən/",
+    "s": [],
+    "d": "The process of eroding or being eroded by wind, water, or other natural agents.",
+    "e": "the problem of soil erosion",
+    "t": "noun",
+    "a": "erosion_us_1.mp3"
+  },
+  {
+    "w": "extinct",
+    "p": "/ɪkˈstɪŋ(k)t/",
+    "s": ["vanished", "lost", "died out", "dead"],
+    "d": "(of a species, family, or other group of animals or plants) having no living members; no longer in existence.",
+    "e": "trilobites and dinosaurs are extinct",
+    "t": "adjective",
+    "a": "extinct_us_1.mp3"
+  },
+  {
+    "w": "extinction",
+    "p": "/ɪkˈstɪŋ(k)ʃ(ə)n/",
+    "s": ["dying out", "disappearance", "vanishing", "death"],
+    "d": "The fact or process of a species, family, or other group of animals or plants becoming extinct.",
+    "e": "preventing the extinction of this unique frog will require the restoration of ponds and surrounding habitats",
+    "t": "noun",
+    "a": "extinction_us_1.mp3"
+  },
+  {
+    "w": "fossil fuel",
+    "p": "",
+    "s": [],
+    "d": "A natural fuel such as coal or gas, formed in the geological past from the remains of living organisms.",
+    "e": "So burning coal or oil, which releases carbon from when the fossil fuel was formed, has a serious global warming effect.",
+    "t": "noun",
+    "a": "fossil_fuel_1_gb_1.mp3"
+  },
+  {
+    "w": "geothermal",
+    "p": "/ˌdʒioʊˈθərməl/",
+    "s": [],
+    "d": "Relating to or produced by the internal heat of the earth.",
+    "e": "some 70% of Iceland's energy needs are met from geothermal sources",
+    "t": "adjective",
+    "a": "geothermal_us_1.mp3"
+  }
+]

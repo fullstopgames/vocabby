@@ -1,0 +1,685 @@
+[
+  {
+    "w": "ago",
+    "p": "/əˈɡoʊ/",
+    "s": ["in the past", "before the present", "before", "earlier"],
+    "d": "(used after a measurement of time) before the present; earlier.",
+    "e": "he went five minutes ago",
+    "t": "adverb",
+    "a": "ago_us_1.mp3"
+  },
+  {
+    "w": "already",
+    "p": "/ˌɔlˈrɛdi/",
+    "s": ["by that time", "by this time", "by now", "by then"],
+    "d": "Before or by now or the time in question.",
+    "e": "Anna has suffered a great deal already",
+    "t": "adverb",
+    "a": "already_us_1.mp3"
+  },
+  {
+    "w": "always",
+    "p": "/ˈɔlˌweɪz/",
+    "s": ["every time", "each time", "at all times", "all the time"],
+    "d": "At all times; on all occasions.",
+    "e": "the sun always rises in the east",
+    "t": "adverb",
+    "a": "always_us_1_rr.mp3"
+  },
+  {
+    "w": "annually",
+    "p": "/ˈænjuəli/",
+    "s": ["yearly", "once a year", "each year", "by the year"],
+    "d": "Once a year; every year.",
+    "e": "the prize is awarded annually",
+    "t": "adverb",
+    "a": "annually_us_1.mp3"
+  },
+  {
+    "w": "before",
+    "p": "/bəˈfɔr/",
+    "s": ["previously", "before now", "before then", "until now"],
+    "d": "During the period of time preceding a particular event or time.",
+    "e": "my playing days had ended six years before",
+    "t": "adverb",
+    "a": "before_us_1.mp3"
+  },
+  {
+    "w": "constantly",
+    "p": "/ˈkɑnst(ə)ntli/",
+    "s": ["always", "all the time", "the entire time", "continually"],
+    "d": "Continuously over a period of time; always.",
+    "e": "the world is constantly changing",
+    "t": "adverb",
+    "a": "xconstantly_us_1.mp3"
+  },
+  {
+    "w": "continually",
+    "p": "/kənˈtɪnjuəli/",
+    "s": ["frequently", "regularly", "repeatedly", "recurrently"],
+    "d": "Repeated frequently in the same way; regularly.",
+    "e": "this information is continually updated",
+    "t": "adverb",
+    "a": "xcontinually_us_1.mp3"
+  },
+  {
+    "w": "continuously",
+    "p": "/kənˈtɪnjʊəsli/",
+    "s": [],
+    "d": "Without interruption or gaps.",
+    "e": "these images loop continuously",
+    "t": "adverb",
+    "a": "xcontinuously_us_1.mp3"
+  },
+  {
+    "w": "daily",
+    "p": "/ˈdeɪli/",
+    "s": [
+      "done every day",
+      "occurring every day",
+      "produced every day",
+      "everyday"
+    ],
+    "d": "Done, produced, or occurring every day or every weekday.",
+    "e": "a daily newspaper",
+    "t": "adjective",
+    "a": "daily_us_1.mp3"
+  },
+  {
+    "w": "early",
+    "p": "/ˈəːli/",
+    "s": ["untimely", "premature"],
+    "d": "Happening or done before the usual or expected time.",
+    "e": "we ate an early lunch",
+    "t": "adjective",
+    "a": "early_gb_1.mp3"
+  },
+  {
+    "w": "early",
+    "p": "/ˈərli/",
+    "s": ["untimely", "premature"],
+    "d": "Happening or done before the usual or expected time.",
+    "e": "we ate an early lunch",
+    "t": "adjective",
+    "a": "early_us_1.mp3"
+  },
+  {
+    "w": "eventually",
+    "p": "/əˈvɛn(t)ʃ(u)əli/",
+    "s": ["in the end", "in due course", "by and by", "in time"],
+    "d": "In the end, especially after a long delay, dispute, or series of problems.",
+    "e": "eventually, after midnight, I arrived at the hotel",
+    "t": "adverb",
+    "a": "eventually_us_1.mp3"
+  },
+  {
+    "w": "ever",
+    "p": "/ˈɛvər/",
+    "s": [
+      "at any time",
+      "at any point",
+      "on any occasion",
+      "under any circumstances"
+    ],
+    "d": "At any time.",
+    "e": "nothing ever seemed to ruffle her",
+    "t": "adverb",
+    "a": "ever_us_1.mp3"
+  },
+  {
+    "w": "everyday",
+    "p": "/ˈɛvrɪdeɪ/",
+    "s": ["daily", "day-to-day", "quotidian"],
+    "d": "Happening or used every day; daily.",
+    "e": "everyday chores like shopping and housework",
+    "t": "adjective",
+    "a": "everyday_gb_1_8.mp3"
+  },
+  {
+    "w": "finally",
+    "p": "/ˈfaɪn(ə)li/",
+    "s": ["eventually", "ultimately", "in the end", "by and by"],
+    "d": "After a long time, typically involving difficulty or delay.",
+    "e": "he finally arrived to join us",
+    "t": "adverb",
+    "a": "finally_us_1.mp3"
+  },
+  {
+    "w": "first",
+    "p": "/fərst/",
+    "s": ["earliest", "initial", "opening", "introductory"],
+    "d": "Coming before all others in time or order; earliest; 1st.",
+    "e": "his first wife",
+    "t": "ordinal number",
+    "a": "first_us_1.mp3"
+  },
+  {
+    "w": "forever",
+    "p": "/fəˈrɛvər/",
+    "s": ["forever", "for ever", "for all time", "for ever and ever"],
+    "d": "For all future time; for always.",
+    "e": "she would love him forever",
+    "t": "adverb",
+    "a": "forever_us_2.mp3"
+  },
+  {
+    "w": "formerly",
+    "p": "/ˈfɔrmərli/",
+    "s": ["previously", "earlier", "earlier on", "before"],
+    "d": "In the past; in earlier times.",
+    "e": "the building formerly housed their accounting offices",
+    "t": "adverb",
+    "a": "formerly_us_1.mp3"
+  },
+  {
+    "w": "frequently",
+    "p": "/ˈfrikwəntli/",
+    "s": ["regularly", "often", "very often", "all the time"],
+    "d": "Regularly or habitually; often.",
+    "e": "they go abroad frequently",
+    "t": "adverb",
+    "a": "frequently_us_1.mp3"
+  },
+  {
+    "w": "hourly",
+    "p": "/ˈaʊ(ə)rli/",
+    "s": [],
+    "d": "Done or occurring every hour.",
+    "e": "there is an hourly bus service",
+    "t": "adjective",
+    "a": "hourly_us_1.mp3"
+  },
+  {
+    "w": "infrequently",
+    "p": "",
+    "s": [],
+    "d": "Not often; rarely.",
+    "e": "a storage area for infrequently used items",
+    "t": "adverb",
+    "a": ""
+  },
+  {
+    "w": "last",
+    "p": "/læst/",
+    "s": ["rearmost", "rear", "hindmost", "bringing up the rear"],
+    "d": "Coming after all others in time or order; final.",
+    "e": "they caught the last bus",
+    "t": "adjective",
+    "a": "last_us_1.mp3"
+  },
+  {
+    "w": "late",
+    "p": "/leɪt/",
+    "s": ["behind time", "behind schedule", "behind", "behindhand"],
+    "d": "Doing something or taking place after the expected, proper, or usual time.",
+    "e": "his late arrival",
+    "t": "adjective",
+    "a": "late_us_1.mp3"
+  },
+  {
+    "w": "lately",
+    "p": "/ˈleɪtli/",
+    "s": ["recently", "of late", "latterly", "in the past few days"],
+    "d": "Recently; not long ago.",
+    "e": "she hasn't been looking too well lately",
+    "t": "adverb",
+    "a": "lately_us_1.mp3"
+  },
+  {
+    "w": "later",
+    "p": "/ˈleɪdər/",
+    "s": ["farewell", "adieu"],
+    "d": "Goodbye for the present; see you later.",
+    "e": "",
+    "t": "exclamation",
+    "a": "later_us_1.mp3"
+  },
+  {
+    "w": "monthly",
+    "p": "/ˈmənθli/",
+    "s": [],
+    "d": "Done, produced, or occurring once a month.",
+    "e": "the Council held monthly meetings",
+    "t": "adjective",
+    "a": "monthly_us_1.mp3"
+  },
+  {
+    "w": "next",
+    "p": "/nɛkst/",
+    "s": ["following", "succeeding", "to come", "upcoming"],
+    "d": "(of a time or season) coming immediately after the time of writing or speaking.",
+    "e": "we'll go next year",
+    "t": "adjective",
+    "a": "next_us_1.mp3"
+  },
+  {
+    "w": "normally",
+    "p": "/ˈnɔrməli/",
+    "s": ["usually", "ordinarily", "commonly", "as a rule"],
+    "d": "Under normal or usual conditions; as a rule.",
+    "e": "normally, it takes three or four years to complete the training",
+    "t": "adverb",
+    "a": "normally_us_1.mp3"
+  },
+  {
+    "w": "now",
+    "p": "/naʊ/",
+    "s": ["at the moment", "at present", "just now", "right now"],
+    "d": "At the present time or moment.",
+    "e": "where are you living now?",
+    "t": "adverb",
+    "a": "now_us_1.mp3"
+  },
+  {
+    "w": "occasionally",
+    "p": "/əˈkeɪʒ(ə)nəli/",
+    "s": [
+      "sometimes",
+      "from time to time",
+      "now and then",
+      "every now and then"
+    ],
+    "d": "At infrequent or irregular intervals; now and then.",
+    "e": "very occasionally the condition can result in death",
+    "t": "adverb",
+    "a": "occasionally_us_1.mp3"
+  },
+  {
+    "w": "often",
+    "p": "/ˈɔf(t)ən/",
+    "s": ["frequently", "many times", "many a time", "on many occasions"],
+    "d": "Frequently; many times.",
+    "e": "he often goes for long walks by himself",
+    "t": "adverb",
+    "a": "often_us_3.mp3"
+  },
+  {
+    "w": "previously",
+    "p": "/ˈpriviəsli/",
+    "s": ["formerly", "earlier", "earlier on", "before"],
+    "d": "At a previous or earlier time; before.",
+    "e": "museums and art galleries that had previously been open to the public",
+    "t": "adverb",
+    "a": "previously_us_1.mp3"
+  },
+  {
+    "w": "quarterly",
+    "p": "/ˈkwɔrdərli/",
+    "s": [],
+    "d": "Done, produced, or occurring once every quarter of a year.",
+    "e": "a quarterly newsletter is distributed to members",
+    "t": "adjective",
+    "a": "quarterly_us_1.mp3"
+  },
+  {
+    "w": "rarely",
+    "p": "/ˈrɛrli/",
+    "s": ["seldom", "infrequently", "on rare occasions", "hardly ever"],
+    "d": "Not often; seldom.",
+    "e": "I rarely drive above 60 mph",
+    "t": "adverb",
+    "a": "rarely_us_1.mp3"
+  },
+  {
+    "w": "recently",
+    "p": "/ˈris(ə)ntli/",
+    "s": [
+      "not long ago",
+      "a short time ago",
+      "in the last few days",
+      "in the last few months"
+    ],
+    "d": "At a recent time; not long ago.",
+    "e": "I recently bought a CD player",
+    "t": "adverb",
+    "a": "recently_us_1.mp3"
+  },
+  {
+    "w": "seldom",
+    "p": "/ˈsɛldəm/",
+    "s": ["rarely", "infrequently", "on rare occasions", "hardly ever"],
+    "d": "Not often; rarely.",
+    "e": "Islay is seldom visited by tourists",
+    "t": "adverb",
+    "a": "seldom_us_1.mp3"
+  },
+  {
+    "w": "sometimes",
+    "p": "/ˈsəmˌtaɪmz/",
+    "s": ["occasionally", "from time to time", "now and again", "now and then"],
+    "d": "Occasionally, rather than all of the time.",
+    "e": "sometimes I want to do things on my own",
+    "t": "adverb",
+    "a": "sometimes_us_1.mp3"
+  },
+  {
+    "w": "soon",
+    "p": "/sun/",
+    "s": ["in a short time", "shortly", "presently", "in the near future"],
+    "d": "In or after a short time.",
+    "e": "everyone will soon know the truth",
+    "t": "adverb",
+    "a": "soon_us_1.mp3"
+  },
+  {
+    "w": "still",
+    "p": "/stɪl/",
+    "s": [
+      "motionless",
+      "unmoving",
+      "without moving",
+      "without moving a muscle"
+    ],
+    "d": "Not moving or making a sound.",
+    "e": "the still body of the young man",
+    "t": "adjective",
+    "a": "still_us_1.mp3"
+  },
+  {
+    "w": "then",
+    "p": "/ðɛn/",
+    "s": ["at that time", "at that point", "in those days"],
+    "d": "At that time; at the time in question.",
+    "e": "I was living in Cairo then",
+    "t": "adverb",
+    "a": "then_us_1.mp3"
+  },
+  {
+    "w": "usually",
+    "p": "/ˈjuʒ(u)əli/",
+    "s": ["normally", "generally", "habitually", "customarily"],
+    "d": "Under normal conditions; generally.",
+    "e": "he usually arrives home about one o'clock",
+    "t": "adverb",
+    "a": "usually_us_1_rr.mp3"
+  },
+  {
+    "w": "weekly",
+    "p": "/ˈwikli/",
+    "s": ["once a week", "seven-day"],
+    "d": "Done, produced, or occurring once a week.",
+    "e": "there was a weekly dance on Wednesdays",
+    "t": "adjective",
+    "a": "weekly_us_1.mp3"
+  },
+  {
+    "w": "yearly",
+    "p": "/ˈjɪrli/",
+    "s": ["annual", "once a year", "every year", "each year"],
+    "d": "Done, produced, or occurring once a year or every year.",
+    "e": "yearly visits to Africa",
+    "t": "adjective",
+    "a": "yearly_us_1.mp3"
+  },
+  {
+    "w": "yesterday",
+    "p": "/ˈjɛstərˌdeɪ/",
+    "s": [],
+    "d": "On the day before today.",
+    "e": "he returned to a hero's welcome yesterday",
+    "t": "adverb",
+    "a": "yesterday_us_1_rr.mp3"
+  },
+  {
+    "w": "yet",
+    "p": "/jɛt/",
+    "s": ["so far", "thus far", "as yet", "still"],
+    "d": "Up until the present or a specified or implied time; by now or then.",
+    "e": "I haven't told anyone else yet",
+    "t": "adverb",
+    "a": "yet_us_1.mp3"
+  },
+  {
+    "w": "afternoon",
+    "p": "/ˌæftərˈnun/",
+    "s": [],
+    "d": "The time from noon or lunchtime to evening.",
+    "e": "I telephoned this afternoon",
+    "t": "noun",
+    "a": "afternoon_us_1.mp3"
+  },
+  {
+    "w": "autumn",
+    "p": "/ˈɔdəm/",
+    "s": ["decline", "waning", "downturn", "ebb"],
+    "d": "The third season of the year, when crops and fruits are gathered and leaves fall, in the northern hemisphere from September to November and in the southern hemisphere from March to May.",
+    "e": "the countryside is ablaze with color in autumn",
+    "t": "noun",
+    "a": "autumn_us_1.mp3"
+  },
+  {
+    "w": "century",
+    "p": "/ˈsɛn(t)ʃ(ə)ri/",
+    "s": [],
+    "d": "A period of one hundred years.",
+    "e": "a century ago most people walked to work",
+    "t": "noun",
+    "a": "century_us_1.mp3"
+  },
+  {
+    "w": "dawn",
+    "p": "/dɔn/",
+    "s": ["daybreak", "break of day", "crack of dawn", "sunrise"],
+    "d": "The first appearance of light in the sky before sunrise.",
+    "e": "the rose-pink light of dawn",
+    "t": "noun",
+    "a": "dawn_us_1.mp3"
+  },
+  {
+    "w": "day",
+    "p": "/deɪ/",
+    "s": [
+      "twenty-four-hour period",
+      "full day",
+      "twenty-four hours",
+      "working day"
+    ],
+    "d": "A period of twenty-four hours as a unit of time, reckoned from one midnight to the next, corresponding to a rotation of the earth on its axis.",
+    "e": "they only met a few days ago",
+    "t": "noun",
+    "a": "day_us_1.mp3"
+  },
+  {
+    "w": "decade",
+    "p": "/ˈdɛkeɪd/",
+    "s": [],
+    "d": "A period of ten years.",
+    "e": "he taught at the university for nearly a decade",
+    "t": "noun",
+    "a": "decade_us_1.mp3"
+  },
+  {
+    "w": "dusk",
+    "p": "/dəsk/",
+    "s": ["twilight", "nightfall", "sunset", "sundown"],
+    "d": "The darker stage of twilight.",
+    "e": "dusk was falling rapidly",
+    "t": "noun",
+    "a": "dusk_us_1.mp3"
+  },
+  {
+    "w": "evening",
+    "p": "/ˈivnɪŋ/",
+    "s": ["night", "late afternoon", "end of day", "close of day"],
+    "d": "The period of time at the end of the day, usually from about 6 p.m. to bedtime.",
+    "e": "it was seven o'clock in the evening",
+    "t": "noun",
+    "a": "evening_us_1.mp3"
+  },
+  {
+    "w": "fall",
+    "p": "/fɔl/",
+    "s": ["drop", "drop down", "plummet", "descend"],
+    "d": "Move downward, typically rapidly and freely without control, from a higher to a lower level.",
+    "e": "five inches of snow fell through the night",
+    "t": "verb",
+    "a": "fall_us_1.mp3"
+  },
+  {
+    "w": "hour",
+    "p": "/ˈaʊ(ə)r/",
+    "s": ["moment", "time", "point in time", "moment in time"],
+    "d": "A period of time equal to a twenty-fourth part of a day and night and divided into 60 minutes.",
+    "e": "a two-hour operation",
+    "t": "noun",
+    "a": "hour_us_1.mp3"
+  },
+  {
+    "w": "instant",
+    "p": "/ˈɪnstənt/",
+    "s": ["immediate", "instantaneous", "on-the-spot", "prompt"],
+    "d": "Happening or coming immediately.",
+    "e": "the offense justified instant dismissal",
+    "t": "adjective",
+    "a": "instant_us_1.mp3"
+  },
+  {
+    "w": "midnight",
+    "p": "/ˈmɪdˌnaɪt/",
+    "s": [
+      "twelve midnight",
+      "twelve at night",
+      "twelve o'clock",
+      "dead of night"
+    ],
+    "d": "Twelve o'clock at night.",
+    "e": "I left at midnight",
+    "t": "noun",
+    "a": "midnight_us_1.mp3"
+  },
+  {
+    "w": "minute",
+    "p": "/ˈmɪnɪt/",
+    "s": [],
+    "d": "A period of time equal to sixty seconds or a sixtieth of an hour.",
+    "e": "he stood in the shower for twenty minutes",
+    "t": "noun",
+    "a": "minute_us_1.mp3"
+  },
+  {
+    "w": "moment",
+    "p": "/ˈmoʊmənt/",
+    "s": ["little while", "short time", "bit", "minute"],
+    "d": "A very brief period of time.",
+    "e": "she was silent for a moment before replying",
+    "t": "noun",
+    "a": "moment_us_1.mp3"
+  },
+  {
+    "w": "month",
+    "p": "/mənθ/",
+    "s": [],
+    "d": "Each of the twelve named periods into which a year is divided.A period of time between the same dates in successive calendar months.A period of 28 days or four weeks.",
+    "e": "the first six months of 1992",
+    "t": "noun",
+    "a": "month_us_1.mp3"
+  },
+  {
+    "w": "morning",
+    "p": "/ˈmɔrnɪŋ/",
+    "s": ["before noon", "before lunch", "before lunchtime", "a.m."],
+    "d": "The period of time between midnight and noon, especially from sunrise to noon.",
+    "e": "it was a beautiful sunny morning",
+    "t": "noun",
+    "a": "morning_us_1.mp3"
+  },
+  {
+    "w": "night",
+    "p": "/naɪt/",
+    "s": ["darkness", "dark", "hours of darkness", "night-time"],
+    "d": "The period of darkness in each twenty-four hours; the time from sunset to sunrise.",
+    "e": "a moonless night",
+    "t": "noun",
+    "a": "night_us_1.mp3"
+  },
+  {
+    "w": "noon",
+    "p": "/nun/",
+    "s": ["midday", "twelve noon", "twelve midday", "twelve o'clock"],
+    "d": "Twelve o'clock in the day; midday.",
+    "e": "the service starts at twelve noon",
+    "t": "noun",
+    "a": "noon_us_1.mp3"
+  },
+  {
+    "w": "pause",
+    "p": "/pɔz/",
+    "s": ["stop", "cease", "halt", "discontinue"],
+    "d": "Interrupt action or speech briefly.",
+    "e": "she paused, at a loss for words",
+    "t": "intransitive verb",
+    "a": "pause_us_1.mp3"
+  },
+  {
+    "w": "phase",
+    "p": "/feɪz/",
+    "s": ["stage", "period", "chapter", "episode"],
+    "d": "A distinct period or stage in a series of events or a process of change or development.",
+    "e": "the final phases of the war",
+    "t": "noun",
+    "a": "phase_us_1.mp3"
+  },
+  {
+    "w": "second",
+    "p": "/ˈsɛkənd/",
+    "s": ["next", "following", "after the first", "subsequent"],
+    "d": "Constituting number two in a sequence; coming after the first in time or order; 2nd.",
+    "e": "he married for a second time",
+    "t": "ordinal number",
+    "a": "second_us_1.mp3"
+  },
+  {
+    "w": "spring",
+    "p": "/sprɪŋ/",
+    "s": ["leap", "jump", "bound", "vault"],
+    "d": "Move or jump suddenly or rapidly upward or forward.",
+    "e": "I sprang out of bed",
+    "t": "verb",
+    "a": "spring_us_3.mp3"
+  },
+  {
+    "w": "summer",
+    "p": "/ˈsəmər/",
+    "s": [],
+    "d": "The warmest season of the year, in the northern hemisphere from June to August and in the southern hemisphere from December to February.",
+    "e": "the plant flowers in late summer",
+    "t": "noun",
+    "a": "summer_us_1.mp3"
+  },
+  {
+    "w": "week",
+    "p": "/wik/",
+    "s": ["break", "rest", "period of leave", "day off"],
+    "d": "A period of seven days.",
+    "e": "the course lasts sixteen weeks",
+    "t": "noun",
+    "a": "week_us_1.mp3"
+  },
+  {
+    "w": "weekend",
+    "p": "/ˈwikˌɛnd/",
+    "s": [],
+    "d": "The period from Friday evening through Sunday evening, especially regarded as a time for leisure.",
+    "e": "she spent the weekend camping",
+    "t": "noun",
+    "a": "weekend_us_1.mp3"
+  },
+  {
+    "w": "winter",
+    "p": "/ˈwɪn(t)ər/",
+    "s": [],
+    "d": "The coldest season of the year, in the northern hemisphere from December to February and in the southern hemisphere from June to August.",
+    "e": "the tree has a good crop of berries in winter",
+    "t": "noun",
+    "a": "winter_us_2.mp3"
+  },
+  {
+    "w": "year",
+    "p": "/jɪr/",
+    "s": [],
+    "d": "The time taken by the earth to make one revolution around the sun.",
+    "e": "Roughly half of the American people know that it takes a year for the Earth to go around the Sun.",
+    "t": "noun",
+    "a": "year_us_1.mp3"
+  }
+]

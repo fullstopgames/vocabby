@@ -1,0 +1,354 @@
+[
+  {
+    "w": "barometer",
+    "p": "/bəˈrɑmədər/",
+    "s": ["measure", "indicator", "barometer", "basis"],
+    "d": "An instrument measuring atmospheric pressure, used especially in forecasting the weather and determining altitude.",
+    "e": "Various instruments like thermometers and barometers are used to measure this.",
+    "t": "noun",
+    "a": "barometer_us_1.mp3"
+  },
+  {
+    "w": "blizzard",
+    "p": "/ˈblɪzərd/",
+    "s": ["snowstorm", "snow blast", "snow squall"],
+    "d": "A severe snowstorm with high winds and low visibility.",
+    "e": "And then there are the weather warnings for hurricanes, tornadoes, blizzards, floods, winds, and tides.",
+    "t": "noun",
+    "a": "blizzard_us_1.mp3"
+  },
+  {
+    "w": "breezy",
+    "p": "/ˈbrizi/",
+    "s": ["windy", "fresh", "brisk", "airy"],
+    "d": "Pleasantly windy.",
+    "e": "it was a bright, breezy day",
+    "t": "adjective",
+    "a": "breezy_us_1.mp3"
+  },
+  {
+    "w": "chilly",
+    "p": "/ˈtʃɪli/",
+    "s": ["cold", "cool", "crisp", "fresh"],
+    "d": "Uncomfortably cool or cold.",
+    "e": "it had turned chilly",
+    "t": "adjective",
+    "a": "chilly_us_1.mp3"
+  },
+  {
+    "w": "clear",
+    "p": "/ˈklɪr/",
+    "s": [
+      "understandable",
+      "comprehensible",
+      "intelligible",
+      "easy to understand"
+    ],
+    "d": "Easy to perceive, understand, or interpret.",
+    "e": "clear and precise directions",
+    "t": "adjective",
+    "a": "clear_us_1.mp3"
+  },
+  {
+    "w": "cloudy",
+    "p": "/ˈklaʊdi/",
+    "s": ["overcast", "clouded", "clouded over", "overclouded"],
+    "d": "(of the sky or weather) covered with or characterized by clouds; overcast.",
+    "e": "next morning was cloudy",
+    "t": "adjective",
+    "a": "cloudy_us_1.mp3"
+  },
+  {
+    "w": "cold front",
+    "p": "",
+    "s": [],
+    "d": "The boundary of an advancing mass of cold air, in particular the trailing edge of the warm sector of a low-pressure system.",
+    "e": "Although cold fronts associated with southern low pressure systems penetrate the ridge from time to time during summer, they generally fail to produce much useful rain.",
+    "t": "noun",
+    "a": ""
+  },
+  {
+    "w": "flurry",
+    "p": "/ˈflʌri/",
+    "s": ["swirl", "whirl", "eddy", "billow"],
+    "d": "A small swirling mass of something, especially snow or leaves, moved by sudden gusts of wind.",
+    "e": "a flurry of snow",
+    "t": "noun",
+    "a": "flurry_gb_1.mp3"
+  },
+  {
+    "w": "fog",
+    "p": "/fɔɡ/",
+    "s": ["mist", "mistiness", "fogginess", "haar"],
+    "d": "A thick cloud of tiny water droplets suspended in the atmosphere at or near the earth's surface which obscures or restricts visibility (to a greater extent than mist; strictly, reducing visibility to below 1 km)",
+    "e": "the collision occurred in thick fog",
+    "t": "noun",
+    "a": "fog_us_1_rr.mp3"
+  },
+  {
+    "w": "forecast",
+    "p": "/ˈfɔrˌkæst/",
+    "s": ["predict", "prophesy", "prognosticate", "augur"],
+    "d": "Predict or estimate (a future event or trend)",
+    "e": "rain is forecast for eastern Ohio",
+    "t": "transitive verb",
+    "a": "forecast_us_1.mp3"
+  },
+  {
+    "w": "global warming",
+    "p": "",
+    "s": [],
+    "d": "A gradual increase in the overall temperature of the earth's atmosphere generally attributed to the greenhouse effect caused by increased levels of carbon dioxide, CFCs, and other pollutants.",
+    "e": "The company is deeply concerned by the effects of global warming caused by the greenhouse effect.",
+    "t": "noun",
+    "a": "global_warming_1_gb_1.mp3"
+  },
+  {
+    "w": "gust",
+    "p": "/ɡəst/",
+    "s": ["flurry", "blast", "puff", "blow"],
+    "d": "A brief, strong rush of wind.",
+    "e": "As the players went back on to the court there were incredibly strong gusts of wind blowing through the stadium.",
+    "t": "noun",
+    "a": "gust_us_1.mp3"
+  },
+  {
+    "w": "hail",
+    "p": "/heɪl/",
+    "s": ["frozen rain", "hailstones", "sleet", "precipitation"],
+    "d": "Pellets of frozen rain which fall in showers from cumulonimbus clouds.",
+    "e": "rain and hail bounced on the tiled roof",
+    "t": "noun",
+    "a": "hail_us_2.mp3"
+  },
+  {
+    "w": "hazy",
+    "p": "/ˈheɪzi/",
+    "s": ["misty", "foggy", "cloudy", "clouded"],
+    "d": "Covered by a haze.",
+    "e": "the sky was hazy from irrigation evaporation",
+    "t": "adjective",
+    "a": "hazy_us_1.mp3"
+  },
+  {
+    "w": "heat",
+    "p": "/hit/",
+    "s": ["hotness", "warmth", "warmness", "high temperature"],
+    "d": "The quality of being hot; high temperature.",
+    "e": "it is sensitive to both heat and cold",
+    "t": "noun",
+    "a": "heat_us_1.mp3"
+  },
+  {
+    "w": "high pressure",
+    "p": "/ˈhaɪ ˈˌprɛʃər/",
+    "s": [],
+    "d": "A condition of the atmosphere in which the pressure is above average (e.g. in an anticyclone)",
+    "e": "",
+    "t": "noun",
+    "a": "high_pressure_1_us_1.mp3"
+  },
+  {
+    "w": "humid",
+    "p": "/ˈ(h)juməd/",
+    "s": ["muggy", "close", "sultry", "sticky"],
+    "d": "Marked by a relatively high level of water vapor in the atmosphere.",
+    "e": "a hot and humid day",
+    "t": "adjective",
+    "a": "humid_us_1.mp3"
+  },
+  {
+    "w": "humidity",
+    "p": "/(h)juˈmɪdədi/",
+    "s": [],
+    "d": "The state or quality of being humid.",
+    "e": "Of course, keeping beautiful amid the heat and humidity is no easy task, so the Shanghai Star brings you some new and effective ways to help you look your best in the hot weather.",
+    "t": "noun",
+    "a": "humidity_us_1.mp3"
+  },
+  {
+    "w": "hurricane",
+    "p": "/ˈhərɪˌkeɪn/",
+    "s": ["cyclone", "typhoon", "tornado", "storm"],
+    "d": "A storm with a violent wind, in particular a tropical cyclone in the Caribbean.",
+    "e": "a powerful hurricane hit the Florida coast",
+    "t": "noun",
+    "a": "hurricane_us_2.mp3"
+  },
+  {
+    "w": "lightning",
+    "p": "/ˈlaɪtnɪŋ/",
+    "s": [],
+    "d": "The occurrence of a natural electrical discharge of very short duration and high voltage between a cloud and the ground or within a cloud, accompanied by a bright flash and typically also thunder.",
+    "e": "a tremendous flash of lightning",
+    "t": "noun",
+    "a": "lightning_us_1.mp3"
+  },
+  {
+    "w": "muggy",
+    "p": "/ˈməɡi/",
+    "s": ["humid", "close", "sultry", "sticky"],
+    "d": "(of the weather) unpleasantly warm and humid.",
+    "e": "it was a hot, very muggy evening",
+    "t": "adjective",
+    "a": "muggy_us_1.mp3"
+  },
+  {
+    "w": "overcast",
+    "p": "/ˈoʊvərˌkæst/",
+    "s": ["cloudy", "clouded", "clouded over", "overclouded"],
+    "d": "(of the sky or weather) marked by a covering of gray clouds; dull.",
+    "e": "a chilly, overcast day",
+    "t": "adjective",
+    "a": "overcast_us_1.mp3"
+  },
+  {
+    "w": "pollution",
+    "p": "/pəˈluʃ(ə)n/",
+    "s": ["contamination", "contaminating", "adulteration", "adulterating"],
+    "d": "The presence in or introduction into the environment of a substance or thing that has harmful or poisonous effects.",
+    "e": "the level of pollution in the air is rising",
+    "t": "noun",
+    "a": "pollution_us_1.mp3"
+  },
+  {
+    "w": "pour",
+    "p": "/pɔr/",
+    "s": ["stream", "flow", "run", "gush"],
+    "d": "Flow rapidly in a steady stream.",
+    "e": "water poured off the roof",
+    "t": "verb",
+    "a": "pour_us_1.mp3"
+  },
+  {
+    "w": "precipitation",
+    "p": "/prəˌsɪpəˈteɪʃ(ə)n/",
+    "s": [],
+    "d": "The action or process of precipitating a substance from a solution.",
+    "e": "Acidic proteins are known to trigger carbonate precipitation via matrix mediated processes in microbialites.",
+    "t": "noun",
+    "a": "precipitation_us_1.mp3"
+  },
+  {
+    "w": "rain",
+    "p": "/reɪn/",
+    "s": ["rainfall", "precipitation", "raindrops", "rainwater"],
+    "d": "Moisture condensed from the atmosphere that falls visibly in separate drops.",
+    "e": "the rain had not stopped for days",
+    "t": "noun",
+    "a": "rain_us_1.mp3"
+  },
+  {
+    "w": "shower",
+    "p": "/ˈʃaʊ(ə)r/",
+    "s": ["fall", "light fall", "drizzle", "flurry"],
+    "d": "A brief and usually light fall of rain, hail, sleet, or snow.",
+    "e": "a day of sunny spells and scattered showers",
+    "t": "noun",
+    "a": "shower_us_3.mp3"
+  },
+  {
+    "w": "smog",
+    "p": "/smɑɡ/",
+    "s": ["exhaust fumes", "fumes", "smoke", "pollution"],
+    "d": "Fog or haze combined with smoke and other atmospheric pollutants.",
+    "e": "exhaust emissions are mainly responsible for the smog",
+    "t": "noun",
+    "a": "smog_us_1_rr.mp3"
+  },
+  {
+    "w": "snow",
+    "p": "/snoʊ/",
+    "s": ["snowflakes", "flakes", "snowdrift", "snowfield"],
+    "d": "Atmospheric water vapor frozen into ice crystals and falling in light white flakes or lying on the ground as a white layer.",
+    "e": "we were trudging through deep snow",
+    "t": "noun",
+    "a": "snow_us_1.mp3"
+  },
+  {
+    "w": "storm",
+    "p": "/stɔrm/",
+    "s": ["tempest", "squall"],
+    "d": "A violent disturbance of the atmosphere with strong winds and usually rain, thunder, lightning, or snow.",
+    "e": "These kinds of storms can produce rain, hail snow, thunder and lightning.",
+    "t": "noun",
+    "a": "storm_us_1.mp3"
+  },
+  {
+    "w": "sunny",
+    "p": "/ˈsəni/",
+    "s": ["bright", "sunshiny", "sunlit", "brilliant"],
+    "d": "Bright with sunlight.",
+    "e": "",
+    "t": "adjective",
+    "a": "sunny_us_1.mp3"
+  },
+  {
+    "w": "temperature",
+    "p": "/ˈtɛmp(ə)rətʃər/",
+    "s": [
+      "meteorological conditions",
+      "atmospheric conditions",
+      "meteorology",
+      "climate"
+    ],
+    "d": "The degree or intensity of heat present in a substance or object, especially as expressed according to a comparative scale and shown by a thermometer or perceived by touch.",
+    "e": "With the outside temperature touching 43 degrees Celsius, the extreme heat policy was in force.",
+    "t": "noun",
+    "a": "temperature_us_1.mp3"
+  },
+  {
+    "w": "thunder",
+    "p": "/ˈθəndər/",
+    "s": ["thunderclap", "thunder crack", "thunder roll", "roll of thunder"],
+    "d": "A loud rumbling or crashing noise heard after a lightning flash due to the expansion of rapidly heated air.",
+    "e": "there was a crash of thunder",
+    "t": "noun",
+    "a": "thunder_us_1.mp3"
+  },
+  {
+    "w": "thunderstorm",
+    "p": "/ˈθəndərˌstɔrm/",
+    "s": ["tempest", "squall"],
+    "d": "A storm with thunder and lightning and typically also heavy rain or hail.",
+    "e": "Tornadic thunderstorms can also produce waterspouts and downbursts.",
+    "t": "noun",
+    "a": "thunderstorm_us_1.mp3"
+  },
+  {
+    "w": "tornado",
+    "p": "/tɔrˈneɪdoʊ/",
+    "s": ["whirlwind", "windstorm", "cyclone", "typhoon"],
+    "d": "A mobile, destructive vortex of violently rotating winds having the appearance of a funnel-shaped cloud and advancing beneath a large storm system.",
+    "e": "These clouds often bring thunder and lightning, and can also bring funnel clouds or even tornadoes.",
+    "t": "noun",
+    "a": "tornado_us_1.mp3"
+  },
+  {
+    "w": "warm front",
+    "p": "",
+    "s": [],
+    "d": "The boundary of an advancing mass of warm air, in particular the leading edge of the warm sector of a low-pressure system.",
+    "e": "Since neither the warm air nor the cold air are advancing, the stationary front weather map symbols combine both the cold front and the warm front symbols.",
+    "t": "noun",
+    "a": ""
+  },
+  {
+    "w": "windchill",
+    "p": "/ˈwɪn(d)ˌtʃɪl/",
+    "s": [],
+    "d": "A quantity expressing the effective lowering of the air temperature caused by the wind, especially as affecting the rate of heat loss from an object or human body or as perceived by an exposed person.",
+    "e": "",
+    "t": "noun",
+    "a": "windchill_us_1.mp3"
+  },
+  {
+    "w": "windy",
+    "p": "/ˈwɪndi/",
+    "s": ["breezy", "blowy", "fresh", "blustery"],
+    "d": "(of weather, a period of time, or a place) marked by or exposed to strong winds.",
+    "e": "a very windy day",
+    "t": "adjective",
+    "a": "windy_us_1.mp3"
+  }
+]

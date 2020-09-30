@@ -1,0 +1,393 @@
+[
+  {
+    "w": "aisle",
+    "p": "/aɪl/",
+    "s": ["passage", "passageway", "corridor", "gangway"],
+    "d": "A passage between rows of seats in a building such as a church or theater, an airplane, or a train.",
+    "e": "the musical had the audience dancing in the aisles",
+    "t": "noun",
+    "a": "aisle_us_1.mp3"
+  },
+  {
+    "w": "arrival",
+    "p": "/əˈraɪvəl/",
+    "s": ["coming", "advent", "appearance", "entrance"],
+    "d": "The action or process of arriving.",
+    "e": "Ruth's arrival in New York",
+    "t": "noun",
+    "a": "arrival_us_2.mp3"
+  },
+  {
+    "w": "baggage",
+    "p": "/ˈbæɡɪdʒ/",
+    "s": ["luggage", "suitcases", "cases", "bags"],
+    "d": "Personal belongings packed in suitcases for traveling; luggage.",
+    "e": "we collected our baggage before clearing customs",
+    "t": "noun",
+    "a": "baggage_us_1.mp3"
+  },
+  {
+    "w": "board",
+    "p": "/bɔrd/",
+    "s": ["plank", "beam", "panel", "slat"],
+    "d": "A long, thin, flat piece of wood or other hard material, used for floors or other building purposes.",
+    "e": "loose boards creaked as I walked on them",
+    "t": "noun",
+    "a": "board_us_1.mp3"
+  },
+  {
+    "w": "boarding pass",
+    "p": "",
+    "s": [],
+    "d": "A pass for boarding an aircraft, given to passengers when checking in.",
+    "e": "In the second step, the passenger takes the boarding pass to the bag check location, where an agent scans in the pass and luggage tags are printed and attached.",
+    "t": "noun",
+    "a": ""
+  },
+  {
+    "w": "bulkhead",
+    "p": "/ˈbəlkˌhɛd/",
+    "s": [],
+    "d": "A dividing wall or barrier between compartments in a ship, aircraft, or other vehicle.",
+    "e": "The frigates have a double-skinned hull divided by ten bulkheads into watertight compartments.",
+    "t": "noun",
+    "a": "bulkhead_us_1.mp3"
+  },
+  {
+    "w": "carry-on",
+    "p": "/ˈkɛriˌɑn/",
+    "s": [],
+    "d": "A bag or suitcase taken onto an aircraft as handheld luggage.",
+    "e": "",
+    "t": "noun",
+    "a": "carry_on_1_us_1.mp3"
+  },
+  {
+    "w": "coach",
+    "p": "/koʊtʃ/",
+    "s": ["horse-drawn carriage", "trap", "hackney", "hansom"],
+    "d": "A horse-drawn carriage, especially a closed one.",
+    "e": "It was a wonderful sight to see because many of the guests arrived in horse-drawn coaches and carriages.",
+    "t": "noun",
+    "a": "coach_us_1.mp3"
+  },
+  {
+    "w": "cockpit",
+    "p": "/ˈkɑkˌpɪt/",
+    "s": [],
+    "d": "A compartment for the pilot, and sometimes also the crew, in an aircraft or spacecraft.",
+    "e": "Today, the Air Force involuntarily removes young pilots from the cockpits of manned aircraft for 36 months to ‘fly’ unmanned aerial vehicles.",
+    "t": "noun",
+    "a": "cockpit_us_1.mp3"
+  },
+  {
+    "w": "connection",
+    "p": "/kəˈnɛkʃ(ə)n/",
+    "s": ["link", "relationship", "relation", "relatedness"],
+    "d": "A relationship in which a person, thing, or idea is linked or associated with something else.",
+    "e": "the connections between social attitudes and productivity",
+    "t": "noun",
+    "a": "xconnection_us_1.mp3"
+  },
+  {
+    "w": "crew",
+    "p": "/kru/",
+    "s": [],
+    "d": "A group of people who work on and operate a ship, boat, aircraft, spacecraft, or train.",
+    "e": "he was one of nine members of the crew killed when the plane went down",
+    "t": "noun",
+    "a": "crew_us_1.mp3"
+  },
+  {
+    "w": "declare",
+    "p": "/dɪˈklɛr/",
+    "s": ["proclaim", "announce", "make known", "state"],
+    "d": "Say something in a solemn and emphatic manner.",
+    "e": "“I was under too much pressure,” he declared",
+    "t": "verb",
+    "a": "declare_us_1.mp3"
+  },
+  {
+    "w": "departure",
+    "p": "/dəˈpɑrtʃər/",
+    "s": ["leaving", "going", "going away", "going off"],
+    "d": "The action of leaving, especially to start a journey.",
+    "e": "the day of departure",
+    "t": "noun",
+    "a": "departure_us_1.mp3"
+  },
+  {
+    "w": "duty-free",
+    "p": "/ˈˌd(j)udi ˈˌfri/",
+    "s": [],
+    "d": "Exempt from payment of duty.",
+    "e": "the permitted number of duty-free goods",
+    "t": "adjective",
+    "a": "duty_free_1_us_1.mp3"
+  },
+  {
+    "w": "first class",
+    "p": "/fəːst ˈklɑːs/",
+    "s": [],
+    "d": "A set of people or things grouped together as the best.",
+    "e": "",
+    "t": "noun",
+    "a": "first_class_1_gb_1.mp3"
+  },
+  {
+    "w": "flight attendant",
+    "p": "",
+    "s": ["flight attendant", "cabin attendant", "member of the cabin staff"],
+    "d": "A steward or stewardess on an aircraft.",
+    "e": "The flight engineer became unconscious after reviving the flight attendant.",
+    "t": "noun",
+    "a": "flight_attendant_1_gb_1.mp3"
+  },
+  {
+    "w": "flight deck",
+    "p": "",
+    "s": [],
+    "d": "The cockpit of a large aircraft.",
+    "e": "The aircraft has state-of-the-art flight deck, avionics and navigation equipment.",
+    "t": "noun",
+    "a": "flight_deck_1_gb_1.mp3"
+  },
+  {
+    "w": "gate",
+    "p": "/ɡeɪt/",
+    "s": ["barrier", "wicket", "wicket gate", "lychgate"],
+    "d": "A hinged barrier used to close an opening in a wall, fence, or hedge.",
+    "e": "she closed the front gate",
+    "t": "noun",
+    "a": "gate_us_1.mp3"
+  },
+  {
+    "w": "itinerary",
+    "p": "/aɪˈtɪnəˌrɛri/",
+    "s": [],
+    "d": "A planned route or journey.",
+    "e": "his itinerary included an official visit to Canada",
+    "t": "noun",
+    "a": "itinerary_us_1.mp3"
+  },
+  {
+    "w": "jet engine",
+    "p": "",
+    "s": [],
+    "d": "An engine using jet propulsion for forward thrust, mainly used for aircraft.",
+    "e": "Most modern high-speed aircraft use a very different type of engine - the jet engine.",
+    "t": "noun",
+    "a": "jet_engine_1_gb_1.mp3"
+  },
+  {
+    "w": "jet lag",
+    "p": "",
+    "s": ["tiredness", "fatigue", "exhaustion", "prostration"],
+    "d": "Extreme tiredness and other physical effects felt by a person after a long flight across different time zones.",
+    "e": "she was suffering from jet lag and needed to rest",
+    "t": "noun",
+    "a": "jet_lag_1_gb_1.mp3"
+  },
+  {
+    "w": "jumbo",
+    "p": "/ˈdʒʌmbəʊ/",
+    "s": ["monster", "brute", "beast", "giant"],
+    "d": "A very large person or thing.",
+    "e": "",
+    "t": "noun",
+    "a": "jumbo_gb_1.mp3"
+  },
+  {
+    "w": "landing",
+    "p": "/ˈlændɪŋ/",
+    "s": ["alighting", "arrival", "coming in", "deplaning"],
+    "d": "An instance of coming or bringing something to land, either from the air or from water.",
+    "e": "we made a perfect landing at the airstrip",
+    "t": "noun",
+    "a": "landing_us_1.mp3"
+  },
+  {
+    "w": "lavatory",
+    "p": "/ˈlævəˌtɔri/",
+    "s": ["toilet", "bathroom", "facilities", "urinal"],
+    "d": "A room or compartment with a toilet and washbasin; a bathroom.",
+    "e": "he locked himself in the downstairs lavatory",
+    "t": "noun",
+    "a": "lavatory_us_1.mp3"
+  },
+  {
+    "w": "luggage",
+    "p": "/ˈləɡɪdʒ/",
+    "s": ["baggage", "bag and baggage", "things", "gear"],
+    "d": "Suitcases or other bags in which to pack personal belongings for traveling.",
+    "e": "upon landing, we waited and waited for our luggage",
+    "t": "noun",
+    "a": "luggage_us_1.mp3"
+  },
+  {
+    "w": "one-way",
+    "p": "/ˈwən ˈˌweɪ/",
+    "s": [],
+    "d": "Moving or allowing movement in one direction only.",
+    "e": "a one-way valve",
+    "t": "adjective",
+    "a": "one_way_1_us_1.mp3"
+  },
+  {
+    "w": "overbook",
+    "p": "/ˌoʊvərˈbʊk/",
+    "s": [],
+    "d": "Accept more reservations for (a flight or hotel) than there is room for.",
+    "e": "airlines deliberately overbook some scheduled flights",
+    "t": "transitive verb",
+    "a": "overbook_us_1.mp3"
+  },
+  {
+    "w": "oxygen mask",
+    "p": "",
+    "s": ["face mask", "protective mask", "gas mask", "oxygen mask"],
+    "d": "A mask placed over the nose and mouth and connected to a supply of oxygen, used when the body is not able to gain enough oxygen by breathing air, for example at high altitudes, or because of a medical condition.",
+    "e": "When you wake up you may find that you have an oxygen mask over your mouth and nose.",
+    "t": "noun",
+    "a": "oxygen_mask_1_gb_1.mp3"
+  },
+  {
+    "w": "passport",
+    "p": "/ˈpæsˌpɔrt/",
+    "s": ["travel document", "travel papers", "papers", "travel permit"],
+    "d": "An official document issued by a government, certifying the holder's identity and citizenship and entitling them to travel under its protection to and from foreign countries.",
+    "e": "a British citizen with a valid passport does not need a visa to visit the US",
+    "t": "noun",
+    "a": "passport_us_1.mp3"
+  },
+  {
+    "w": "pilot",
+    "p": "/ˈpaɪlət/",
+    "s": ["airman", "airwoman", "flyer", "aeronaut"],
+    "d": "A person who operates the flying controls of an aircraft.",
+    "e": "a strike by local airline pilots",
+    "t": "noun",
+    "a": "pilot_us_1.mp3"
+  },
+  {
+    "w": "propeller",
+    "p": "/prəˈpɛlər/",
+    "s": ["screw", "airscrew", "rotor", "vane"],
+    "d": "A mechanical device for propelling a boat or aircraft, consisting of a revolving shaft with two or more broad, angled blades attached to it.",
+    "e": "One engine on the top of the aircraft is attached to large propellers that produce lift, much like a helicopter.",
+    "t": "noun",
+    "a": "propeller_us_1.mp3"
+  },
+  {
+    "w": "round trip",
+    "p": "",
+    "s": [],
+    "d": "A journey to one or more places and back again, especially by a route that does not cover the same ground twice.",
+    "e": "The round trip is a whopping 12,400 miles, and Nicole's journey is the fastest known return migration of any swimming animal, the researchers say.",
+    "t": "noun",
+    "a": "round_trip_1_gb_1.mp3"
+  },
+  {
+    "w": "runway",
+    "p": "/ˈrənˌweɪ/",
+    "s": [],
+    "d": "A leveled strip of smooth ground along which aircraft take off and land.",
+    "e": "the jet braked hard as its wheels touched the runway",
+    "t": "noun",
+    "a": "runway_us_1.mp3"
+  },
+  {
+    "w": "seat belt",
+    "p": "",
+    "s": [],
+    "d": "A belt used to secure someone in the seat of a motor vehicle or aircraft.",
+    "e": "They should only wear a two-point lap belt if a three-point seat belt is not available.",
+    "t": "noun",
+    "a": "seat_belt_1_gb_1.mp3"
+  },
+  {
+    "w": "security",
+    "p": "/səˈkjʊrədi/",
+    "s": ["protection", "defence", "guard", "shelter"],
+    "d": "The state of being free from danger or threat.",
+    "e": "the system is designed to provide maximum security against toxic spills",
+    "t": "noun",
+    "a": "security_us_1.mp3"
+  },
+  {
+    "w": "standby",
+    "p": "/ˈstæn(d)ˌbaɪ/",
+    "s": [],
+    "d": "Readiness for duty or immediate deployment.",
+    "e": "buses were placed on standby for the trip to Washington",
+    "t": "noun",
+    "a": "standby_us_1.mp3"
+  },
+  {
+    "w": "stopover",
+    "p": "/ˈstɑpˌoʊvər/",
+    "s": ["stay", "stop", "break", "stop-off"],
+    "d": "A break in a journey.",
+    "e": "the one-day stopover in Honolulu",
+    "t": "noun",
+    "a": "stopover_us_1.mp3"
+  },
+  {
+    "w": "takeoff",
+    "p": "/ˈteɪkˌɔf/",
+    "s": ["departure", "lift-off", "launch", "blast-off"],
+    "d": "The action of becoming airborne.",
+    "e": "the plane accelerated down the runway for takeoff",
+    "t": "noun",
+    "a": "take_off_1_us_1_rr.mp3"
+  },
+  {
+    "w": "taxi",
+    "p": "/ˈtæksi/",
+    "s": ["taxi", "cab", "taxi cab", "minicab"],
+    "d": "A boat or other means of transportation used to convey passengers in return for payment of a fare.",
+    "e": "I'll take a taxi from the air terminal",
+    "t": "noun",
+    "a": "taxi_us_1.mp3"
+  },
+  {
+    "w": "turbulence",
+    "p": "/ˈtərbjələns/",
+    "s": [
+      "rough air currents",
+      "irregular atmospheric motion",
+      "uneven air movement"
+    ],
+    "d": "Violent or unsteady movement of air or water, or of some other fluid.",
+    "e": "the plane shuddered as it entered some turbulence",
+    "t": "noun",
+    "a": "turbulence_us_1.mp3"
+  },
+  {
+    "w": "visa",
+    "p": "/ˈvizə/",
+    "s": ["authorization", "licence", "pass", "voucher"],
+    "d": "An endorsement on a passport indicating that the holder is allowed to enter, leave, or stay for a specified period of time in a country.",
+    "e": "a tourist visa",
+    "t": "noun",
+    "a": "visa_us_1_rr.mp3"
+  },
+  {
+    "w": "window seat",
+    "p": "",
+    "s": [],
+    "d": "A seat below a window, especially one in a bay or alcove.",
+    "e": "It had a huge wardrobe with mirror doors and a window with a padded window seat that looked out at the quiet tree-lined street below.",
+    "t": "noun",
+    "a": ""
+  },
+  {
+    "w": "wing",
+    "p": "/wɪŋ/",
+    "s": ["pinion", "van"],
+    "d": "(in a bird) a modified forelimb that bears large feathers and is used for flying.",
+    "e": "Besides having forelimbs that resemble the wings of modern birds, the animal sported long feathers from thigh to foot on each hind limb.",
+    "t": "noun",
+    "a": "wing_us_1.mp3"
+  }
+]

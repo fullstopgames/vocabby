@@ -1,0 +1,629 @@
+[
+  {
+    "w": "accountant",
+    "p": "/əˈkaʊnt(ə)nt/",
+    "s": ["clerk", "bank clerk", "teller", "bank teller"],
+    "d": "A person whose job is to keep, inspect, and analyse financial accounts.",
+    "e": "Financial control is not as popular with qualified accountants as it used to be.",
+    "t": "noun",
+    "a": "accountant_us_1.mp3"
+  },
+  {
+    "w": "actor",
+    "p": "/ˈæktər/",
+    "s": ["performer", "player", "trouper", "theatrical"],
+    "d": "A person whose profession is acting on the stage, in movies, or on television.",
+    "e": "Fincher usually gets great performances from his actors, and this film was no different.",
+    "t": "noun",
+    "a": "actor_us_1.mp3"
+  },
+  {
+    "w": "actress",
+    "p": "/ˈæktrəs/",
+    "s": ["actor", "performer", "player", "trouper"],
+    "d": "A woman whose profession is acting on the stage, in movies, or on television.",
+    "e": "she is one of the great actresses of her generation",
+    "t": "noun",
+    "a": "actress_us_1.mp3"
+  },
+  {
+    "w": "architect",
+    "p": "/ˈɑrkəˌtɛkt/",
+    "s": ["designer", "planner", "builder", "building consultant"],
+    "d": "A person who designs buildings and in many cases also supervises their construction.",
+    "e": "the great Norman architect of Durham Cathedral",
+    "t": "noun",
+    "a": "architect_us_1.mp3"
+  },
+  {
+    "w": "artist",
+    "p": "/ˈɑrdəst/",
+    "s": ["creator", "originator", "designer", "producer"],
+    "d": "A person who produces paintings or drawings as a profession or hobby.",
+    "e": "There he met all the other famous artists like Henri Matisse, Joan Miro and George Braques.",
+    "t": "noun",
+    "a": "artist_us_1.mp3"
+  },
+  {
+    "w": "attorney",
+    "p": "/əˈtərni/",
+    "s": ["deputy", "representative", "substitute", "delegate"],
+    "d": "A person appointed to act for another in business or legal matters.",
+    "e": "Other important intermediaries were legal attorneys, who represented the Christian groups in their dealings with the state.",
+    "t": "noun",
+    "a": "attorney_us_1.mp3"
+  },
+  {
+    "w": "banker",
+    "p": "/ˈbæŋkər/",
+    "s": ["investor", "speculator", "banker", "capitalist"],
+    "d": "An officer or owner of a bank or group of banks.",
+    "e": "They do it to bulge the bank accounts of bankers, company managers, and investors all over the world.",
+    "t": "noun",
+    "a": "banker_us_1.mp3"
+  },
+  {
+    "w": "bartender",
+    "p": "/ˈbɑrˌtɛndər/",
+    "s": [],
+    "d": "A person who mixes and serves drinks at a bar.",
+    "e": "They also say changing the system will allow unscrupulous bartenders to water down drinks.",
+    "t": "noun",
+    "a": "bartender_us_1.mp3"
+  },
+  {
+    "w": "barber",
+    "p": "/ˈbɑrbər/",
+    "s": [],
+    "d": "A person who cuts hair, especially men's, and shaves or trims beards as an occupation.",
+    "e": "he had his hair cut at the local barber's",
+    "t": "noun",
+    "a": "barber_us_1.mp3"
+  },
+  {
+    "w": "bookkeeper",
+    "p": "/ˈbʊ(k)ˌkipər/",
+    "s": [],
+    "d": "A person whose job is to keep records of the financial affairs of a business.",
+    "e": "the business had grown enough to justify hiring a bookkeeper",
+    "t": "noun",
+    "a": "bookkeeper_us_1.mp3"
+  },
+  {
+    "w": "builder",
+    "p": "/ˈbɪldər/",
+    "s": ["designer", "planner", "maker", "constructor"],
+    "d": "A person who constructs something by putting parts or material together over a period of time.",
+    "e": "a boat builder",
+    "t": "noun",
+    "a": "builder_us_1.mp3"
+  },
+  {
+    "w": "businessman",
+    "p": "/ˈbɪznɪsˌmæn/",
+    "s": [],
+    "d": "A man who works in business or commerce, especially at an executive level.",
+    "e": "They're the essence of traditional New England Republican businessmen.",
+    "t": "noun",
+    "a": "businessman_us_1.mp3"
+  },
+  {
+    "w": "businesswoman",
+    "p": "/ˈbɪznəsˌwʊmən/",
+    "s": [],
+    "d": "A woman who works in business or commerce, especially at an executive level.",
+    "e": "a successful and self-reliant businesswoman",
+    "t": "noun",
+    "a": "businesswoman_us_1.mp3"
+  },
+  {
+    "w": "butcher",
+    "p": "/ˈbʊtʃər/",
+    "s": ["meat seller", "meat merchant", "meat trader"],
+    "d": "A person whose trade is cutting up and selling meat in a shop.",
+    "e": "Markets often have butchers or cooked meat shops that specialize in the head and trotters, that is, the non-organ meats that are not suitable for stews and kebabs.",
+    "t": "noun",
+    "a": "butcher_us_1.mp3"
+  },
+  {
+    "w": "carpenter",
+    "p": "/ˈkɑrpən(t)ər/",
+    "s": ["woodworker", "joiner", "cabinetmaker"],
+    "d": "A person who makes and repairs wooden objects and structures.",
+    "e": "Tom Searles worked as a carpenter repairing the inside of the wooden mills and stayed for seventeen years.",
+    "t": "noun",
+    "a": "carpenter_us_1.mp3"
+  },
+  {
+    "w": "cashier",
+    "p": "/kæˈʃɪr/",
+    "s": ["clerk", "bank clerk", "teller", "bank teller"],
+    "d": "A person handling payments and receipts in a store, bank, or other business.",
+    "e": "For much of the last fifty years the country's banks have operated as cashiers for often insolvent state enterprises, paying little attention to their ability to repay, and building up a mountain of bad debt.",
+    "t": "noun",
+    "a": "cashier_us_1.mp3"
+  },
+  {
+    "w": "chef",
+    "p": "/ʃɛf/",
+    "s": ["cook", "cordon bleu cook", "food preparer"],
+    "d": "A professional cook, typically the chief cook in a restaurant or hotel.",
+    "e": "Their livers were then cut out and borne in triumph to a local restaurant, where the chef was ordered to cook them.",
+    "t": "noun",
+    "a": "chef_us_1.mp3"
+  },
+  {
+    "w": "coach",
+    "p": "/koʊtʃ/",
+    "s": ["horse-drawn carriage", "trap", "hackney", "hansom"],
+    "d": "A horse-drawn carriage, especially a closed one.",
+    "e": "It was a wonderful sight to see because many of the guests arrived in horse-drawn coaches and carriages.",
+    "t": "noun",
+    "a": "coach_us_1.mp3"
+  },
+  {
+    "w": "dental hygienist",
+    "p": "",
+    "s": [],
+    "d": "An ancillary dental worker specializing in scaling and polishing teeth, and giving advice on oral hygiene.",
+    "e": "General dentists and dental hygienists can also provide more limited periodontal care.",
+    "t": "noun",
+    "a": "dental_hygienist_1_gb_1.mp3"
+  },
+  {
+    "w": "dentist",
+    "p": "/ˈdɛn(t)əst/",
+    "s": [],
+    "d": "A person qualified to treat the diseases and conditions that affect the teeth and gums, especially the repair and extraction of teeth and the insertion of artificial ones.",
+    "e": "his mouth is still sore from his visit to the dentist's",
+    "t": "noun",
+    "a": "dentist_us_1.mp3"
+  },
+  {
+    "w": "designer",
+    "p": "/dəˈzaɪnər/",
+    "s": ["creator", "deviser", "producer", "inventor"],
+    "d": "A person who plans the form, look, or workings of something before its being made or built, typically by drawing it in detail.",
+    "e": "he's one of the world's leading car designers",
+    "t": "noun",
+    "a": "designer_us_1.mp3"
+  },
+  {
+    "w": "developer",
+    "p": "/dəˈvɛləpər/",
+    "s": ["originator", "creator", "initiator", "institutor"],
+    "d": "A person or thing that develops something.",
+    "e": "a property developer",
+    "t": "noun",
+    "a": "developer_us_1.mp3"
+  },
+  {
+    "w": "dietician",
+    "p": "/dʌɪəˈtɪʃ(ə)n/",
+    "s": [],
+    "d": "An expert on diet and nutrition.",
+    "e": "we have a team of dieticians to ensure patients get healthy, balanced meals",
+    "t": "noun",
+    "a": "dietitian_gb_1.mp3"
+  },
+  {
+    "w": "doctor",
+    "p": "/ˈdɑktər/",
+    "s": ["physician", "medical practitioner", "medical man", "medical woman"],
+    "d": "A qualified practitioner of medicine; a physician.",
+    "e": "Doctor Thornhill",
+    "t": "noun",
+    "a": "doctor_us_1.mp3"
+  },
+  {
+    "w": "economist",
+    "p": "/əˈkɑnəməst/",
+    "s": [],
+    "d": "An expert in economics.",
+    "e": "One of North America's leading agricultural economists said Tuesday that farms will have to adapt or perish.",
+    "t": "noun",
+    "a": "economist_us_1.mp3"
+  },
+  {
+    "w": "editor",
+    "p": "/ˈɛdədər/",
+    "s": [],
+    "d": "A person who is in charge of and determines the final content of a text, particularly a newspaper or magazine.",
+    "e": "the editor of The New York Times",
+    "t": "noun",
+    "a": "editor_us_1.mp3"
+  },
+  {
+    "w": "electrician",
+    "p": "/əˌlɛkˈtrɪʃən/",
+    "s": [],
+    "d": "A person who installs and maintains electrical equipment.",
+    "e": "Members also discussed tenders from electricians to commission and install Christmas lights for 2005.",
+    "t": "noun",
+    "a": "electrician_us_2.mp3"
+  },
+  {
+    "w": "engineer",
+    "p": "/ˌɛndʒəˈnɪr/",
+    "s": ["designer", "planner", "builder", "architect"],
+    "d": "A person who designs, builds, or maintains engines, machines, or public works.",
+    "e": "This is important to the engineers who design and build products, because it gives them a tool to determine what the future costs will be.",
+    "t": "noun",
+    "a": "engineer_us_1.mp3"
+  },
+  {
+    "w": "farmer",
+    "p": "/ˈfɑrmər/",
+    "s": ["agriculturalist", "agronomist", "smallholder", "grazier"],
+    "d": "A person who owns or manages a farm.",
+    "e": "It helped farmers and farm owners to stay in their property with government help.",
+    "t": "noun",
+    "a": "farmer_us_1.mp3"
+  },
+  {
+    "w": "filmmaker",
+    "p": "/ˈfɪlmˌmeɪkər/",
+    "s": [],
+    "d": "A person who directs or produces movies for the theater or television.",
+    "e": "Exit strategies can be as complicated for documentary filmmakers as they are for politicians and generals.",
+    "t": "noun",
+    "a": "film_maker_1_us_1.mp3"
+  },
+  {
+    "w": "fisherman",
+    "p": "/ˈfɪʃərmən/",
+    "s": ["angler"],
+    "d": "A person who catches fish for a living or for sport.",
+    "e": "That would drive prices down and encourage fishermen to catch more fish to make the same amount of money.",
+    "t": "noun",
+    "a": "fisherman_us_1.mp3"
+  },
+  {
+    "w": "flight attendant",
+    "p": "",
+    "s": ["flight attendant", "cabin attendant", "member of the cabin staff"],
+    "d": "A steward or stewardess on an aircraft.",
+    "e": "The flight engineer became unconscious after reviving the flight attendant.",
+    "t": "noun",
+    "a": "flight_attendant_1_gb_1.mp3"
+  },
+  {
+    "w": "jeweler",
+    "p": "/ˈdʒu(ə)lər/",
+    "s": ["lapidary", "gemmologist"],
+    "d": "A person or company that makes or sells jewels or jewelry.",
+    "e": "he is managing director of Britain's biggest jeweler",
+    "t": "noun",
+    "a": "jeweler_us_1.mp3"
+  },
+  {
+    "w": "judge",
+    "p": "/dʒədʒ/",
+    "s": ["justice", "magistrate", "Her Honour", "His Honour"],
+    "d": "A public official appointed to decide cases in a court of law.",
+    "e": "The judges made this particular aspect of public policy and the judges are entitled to change it.",
+    "t": "noun",
+    "a": "judge_us_1.mp3"
+  },
+  {
+    "w": "lawyer",
+    "p": "/ˈlɔɪər/",
+    "s": ["legal practitioner", "attorney", "legal officer", "legal adviser"],
+    "d": "A person who practices or studies law; an attorney or a counselor.",
+    "e": "Despite the pleas of defence lawyers, the attorney general appeared to do nothing to urge restraint.",
+    "t": "noun",
+    "a": "lawyer_us_1_rr.mp3"
+  },
+  {
+    "w": "mechanic",
+    "p": "/məˈkænɪk/",
+    "s": ["technician", "engineer", "artificer", "repairman"],
+    "d": "A person who repairs and maintains machinery.",
+    "e": "a car mechanic",
+    "t": "noun",
+    "a": "mechanic_us_1.mp3"
+  },
+  {
+    "w": "musician",
+    "p": "/mjuˈzɪʃən/",
+    "s": ["player", "performer", "instrumentalist", "accompanist"],
+    "d": "A person who plays a musical instrument, especially as a profession, or is musically talented.",
+    "e": "your father was a fine musician",
+    "t": "noun",
+    "a": "musician_us_1.mp3"
+  },
+  {
+    "w": "nutritionist",
+    "p": "/n(j)uˈtrɪʃ(ə)nəst/",
+    "s": [],
+    "d": "A person who studies or is an expert in nutrition.",
+    "e": "A nutritionist and a fitness expert will develop a personalised weight-loss diet plan and an exercise regimen.",
+    "t": "noun",
+    "a": "nutritionist_us_1.mp3"
+  },
+  {
+    "w": "nurse",
+    "p": "/nərs/",
+    "s": ["caregiver", "attendant"],
+    "d": "A person trained to care for the sick or infirm, especially in a hospital.",
+    "e": "To be valuable health care practitioners, nurses must commit to lifelong learning.",
+    "t": "noun",
+    "a": "nurse_us_1.mp3"
+  },
+  {
+    "w": "optician",
+    "p": "/ɑpˈtɪʃən/",
+    "s": [],
+    "d": "A person qualified to make and supply eyeglasses and contact lenses for correction of vision.",
+    "e": "If you are diagnosed as long-sighted, it is likely that your optician will prescribe glasses or contact lenses to correct your vision.",
+    "t": "noun",
+    "a": "optician_us_1.mp3"
+  },
+  {
+    "w": "painter",
+    "p": "/ˈpeɪn(t)ər/",
+    "s": [],
+    "d": "An artist who paints pictures.",
+    "e": "a German landscape painter",
+    "t": "noun",
+    "a": "painter_us_1.mp3"
+  },
+  {
+    "w": "pharmacist",
+    "p": "/ˈfɑrməsəst/",
+    "s": [],
+    "d": "A person who is professionally qualified to prepare and dispense medicinal drugs.",
+    "e": "We examined data on all NHS methadone prescriptions dispensed by community pharmacists in England.",
+    "t": "noun",
+    "a": "pharmacist_us_1.mp3"
+  },
+  {
+    "w": "photographer",
+    "p": "/fəˈtɑɡrəfər/",
+    "s": ["lensman", "paparazzo", "documentarian"],
+    "d": "A person who takes photographs, especially as a job.",
+    "e": "a freelance press photographer",
+    "t": "noun",
+    "a": "photographer_us_1.mp3"
+  },
+  {
+    "w": "physician",
+    "p": "/fəˈzɪʃən/",
+    "s": ["doctor", "doctor of medicine", "MD", "medical practitioner"],
+    "d": "A person qualified to practice medicine.",
+    "e": "our family physician",
+    "t": "noun",
+    "a": "physician_us_1.mp3"
+  },
+  {
+    "w": "pilot",
+    "p": "/ˈpaɪlət/",
+    "s": ["airman", "airwoman", "flyer", "aeronaut"],
+    "d": "A person who operates the flying controls of an aircraft.",
+    "e": "a strike by local airline pilots",
+    "t": "noun",
+    "a": "pilot_us_1.mp3"
+  },
+  {
+    "w": "plumber",
+    "p": "/ˈpləmər/",
+    "s": [],
+    "d": "A person who installs and repairs the pipes and fittings of water supply, sanitation, or heating systems.",
+    "e": "When the plumber fitted the new central heating/water system he fitted a manual shower mixer tap for us.",
+    "t": "noun",
+    "a": "plumber_us_1.mp3"
+  },
+  {
+    "w": "police officer",
+    "p": "",
+    "s": [
+      "policeman",
+      "policewoman",
+      "officer of the law",
+      "law enforcement agent"
+    ],
+    "d": "A policeman or policewoman.",
+    "e": "He stated that he had not spoken to the police officers prior to the arrest of the Appellants.",
+    "t": "noun",
+    "a": "police_officer_1_gb_1.mp3"
+  },
+  {
+    "w": "politician",
+    "p": "/ˌpɑləˈtɪʃən/",
+    "s": ["legislator", "Member of Parliament", "MP", "representative"],
+    "d": "A person who is professionally involved in politics, especially as a holder of or a candidate for an elected office.",
+    "e": "a veteran communist politician",
+    "t": "noun",
+    "a": "politician_us_1.mp3"
+  },
+  {
+    "w": "professor",
+    "p": "/prəˈfɛsər/",
+    "s": [
+      "holder of a chair",
+      "chair",
+      "head of faculty",
+      "head of department"
+    ],
+    "d": "A teacher of the highest rank in a college or university.An associate professor or an assistant professor.Any instructor, especially in a specialized field.",
+    "e": "Professor Goodwin",
+    "t": "noun",
+    "a": "professor_us_1.mp3"
+  },
+  {
+    "w": "programmer",
+    "p": "/ˈproʊˌɡræmər/",
+    "s": [],
+    "d": "A person who writes computer programs.",
+    "e": "computer programmers and analysts",
+    "t": "noun",
+    "a": "programmer_us_1.mp3"
+  },
+  {
+    "w": "psychologist",
+    "p": "/saɪˈkɑlədʒəst/",
+    "s": ["adviser", "consultant", "guide", "mentor"],
+    "d": "An expert or specialist in psychology.",
+    "e": "Many cognitive psychologists also examine the effects of selective attention.",
+    "t": "noun",
+    "a": "psychologist_us_1.mp3"
+  },
+  {
+    "w": "receptionist",
+    "p": "/rəˈsɛpʃ(ə)nəst/",
+    "s": [],
+    "d": "A person employed in an office or other establishment to answer the telephone, deal with clients, and greet visitors.",
+    "e": "Just as GPs need surgeries and receptionists MPs need offices and staff.",
+    "t": "noun",
+    "a": "receptionist_us_1.mp3"
+  },
+  {
+    "w": "salesman",
+    "p": "/ˈseɪlzmən/",
+    "s": [
+      "sales assistant",
+      "shop assistant",
+      "retail assistant",
+      "salesperson"
+    ],
+    "d": "A man whose job involves selling or promoting commercial products, either in a store or visiting locations to get orders.",
+    "e": "an insurance salesman",
+    "t": "noun",
+    "a": "salesman_us_1.mp3"
+  },
+  {
+    "w": "salesperson",
+    "p": "/ˈseɪlzˌpərs(ə)n/",
+    "s": ["salesman", "saleswoman", "sales assistant", "assistant"],
+    "d": "A salesman or saleswoman (used as a neutral alternative).",
+    "e": "In the showroom John McCormack is the Principal salesman with three expert salespeople working under him.",
+    "t": "noun",
+    "a": "salesperson_us_1.mp3"
+  },
+  {
+    "w": "saleswoman",
+    "p": "/ˈseɪlzˌwʊmən/",
+    "s": ["seller", "salesperson", "salesman", "saleswoman"],
+    "d": "A woman whose job involves selling or promoting commercial products.",
+    "e": "a saleswoman came out from behind the counter and asked if she could help",
+    "t": "noun",
+    "a": "saleswoman_us_1.mp3"
+  },
+  {
+    "w": "secretary",
+    "p": "/ˈsɛkrəˌtɛri/",
+    "s": [],
+    "d": "A person employed by an individual or in an office to assist with correspondence, keep records, make appointments, and carry out similar tasks.",
+    "e": "If necessary, counsel may contact my secretary to arrange an appointment to speak to the issue of costs on this motion.",
+    "t": "noun",
+    "a": "secretary_us_1.mp3"
+  },
+  {
+    "w": "singer",
+    "p": "/ˈsɪŋər/",
+    "s": ["vocalist", "soloist", "songster", "songstress"],
+    "d": "A person who sings, especially professionally.",
+    "e": "a pop singer",
+    "t": "noun",
+    "a": "singer_us_1.mp3"
+  },
+  {
+    "w": "surgeon",
+    "p": "/ˈsərdʒən/",
+    "s": [],
+    "d": "A medical practitioner qualified to practice surgery.",
+    "e": "Early group portraits show noble surgeons parading their medical knowledge with elitist pomp.",
+    "t": "noun",
+    "a": "surgeon_us_1.mp3"
+  },
+  {
+    "w": "teacher",
+    "p": "/ˈtitʃər/",
+    "s": ["educator", "tutor", "instructor", "pedagogue"],
+    "d": "A person who teaches, especially in a school.",
+    "e": "a history teacher",
+    "t": "noun",
+    "a": "teacher_us_1.mp3"
+  },
+  {
+    "w": "therapist",
+    "p": "/ˈθɛrəpəst/",
+    "s": ["psychologist", "psychotherapist", "analyst", "psychoanalyst"],
+    "d": "A person skilled in a particular kind of therapy.",
+    "e": "a certified massage therapist",
+    "t": "noun",
+    "a": "therapist_us_1.mp3"
+  },
+  {
+    "w": "translator",
+    "p": "/ˈtrænzˌleɪdər/",
+    "s": ["interpreter", "transcriber", "transliterator", "paraphraser"],
+    "d": "A person who translates from one language into another, especially as a profession.",
+    "e": "Professional women such as translators, doctors, lawyers, artists and writers have been forced from their jobs and told to stay in their homes.",
+    "t": "noun",
+    "a": "translator_us_1_rr.mp3"
+  },
+  {
+    "w": "translator",
+    "p": "/ˈtrænzˌleɪdər/",
+    "s": ["interpreter", "transcriber", "transliterator", "paraphraser"],
+    "d": "A person who translates from one language into another, especially as a profession.",
+    "e": "Professional women such as translators, doctors, lawyers, artists and writers have been forced from their jobs and told to stay in their homes.",
+    "t": "noun",
+    "a": "translator_us_1_rr.mp3"
+  },
+  {
+    "w": "undertaker",
+    "p": "/ˈəndərˌteɪkər/",
+    "s": ["funeral director"],
+    "d": "A person whose business is preparing dead bodies for burial or cremation and making arrangements for funerals.",
+    "e": "",
+    "t": "noun",
+    "a": "undertaker_us_1.mp3"
+  },
+  {
+    "w": "veterinarian",
+    "p": "/ˌvɛdərəˈnɛriən/",
+    "s": [],
+    "d": "A person qualified to treat diseased or injured animals.",
+    "e": "For instance, the Act requires that fees paid by veterinarians to the Veterinary Council be established by regulations.",
+    "t": "noun",
+    "a": "veterinarian_us_3.mp3"
+  },
+  {
+    "w": "videographer",
+    "p": "/ˌvɪdiˈɑɡrəfər/",
+    "s": [],
+    "d": "A person who makes video films.",
+    "e": "a professional wedding videographer",
+    "t": "noun",
+    "a": "videographer_us_2.mp3"
+  },
+  {
+    "w": "waiter",
+    "p": "/ˈweɪdər/",
+    "s": ["server", "waitress", "stewardess", "steward"],
+    "d": "A man whose job is to serve customers at their tables in a restaurant.",
+    "e": "Arriving passengers greet their cabin stewards and table waiters like long-lost family friends with smiling handshakes, hugs and much backslapping.",
+    "t": "noun",
+    "a": "waiter_us_1.mp3"
+  },
+  {
+    "w": "waitress",
+    "p": "/ˈweɪtrɪs/",
+    "s": ["steward", "waiter", "waitress", "porter"],
+    "d": "A woman whose job is to serve customers at their tables in a restaurant.",
+    "e": "We didn't have long to wait before a cheerful waitress seated us at a small table for two near a window.",
+    "t": "noun",
+    "a": "waitress_us_1.mp3"
+  },
+  {
+    "w": "writer",
+    "p": "/ˈraɪdər/",
+    "s": [],
+    "d": "A person who has written a particular text.",
+    "e": "the writer of the letter",
+    "t": "noun",
+    "a": "writer_us_1.mp3"
+  }
+]

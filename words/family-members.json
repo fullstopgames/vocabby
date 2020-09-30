@@ -1,0 +1,299 @@
+[
+  {
+    "w": "mother",
+    "p": "/ˈməðər/",
+    "s": ["female parent"],
+    "d": "A woman in relation to her child or children.",
+    "e": "she returned to Bristol to nurse her aging mother",
+    "t": "noun",
+    "a": "mother_us_1.mp3"
+  },
+  {
+    "w": "mom",
+    "p": "/mɑm/",
+    "s": [],
+    "d": "One's mother.",
+    "e": "",
+    "t": "noun",
+    "a": "mom_us_1.mp3"
+  },
+  {
+    "w": "father",
+    "p": "/ˈfɑðər/",
+    "s": ["male parent"],
+    "d": "A man in relation to his child or children.",
+    "e": "Margaret's father died at an early age",
+    "t": "noun",
+    "a": "father_us_1.mp3"
+  },
+  {
+    "w": "dad",
+    "p": "/dæd/",
+    "s": ["male parent"],
+    "d": "One's father.",
+    "e": "",
+    "t": "noun",
+    "a": "dad_us_1.mp3"
+  },
+  {
+    "w": "parent",
+    "p": "/ˈpɛrənt/",
+    "s": ["mother", "father"],
+    "d": "A father or mother.",
+    "e": "the parents of the bride",
+    "t": "noun",
+    "a": "parent_us_1.mp3"
+  },
+  {
+    "w": "child",
+    "p": "/tʃʌɪld/",
+    "s": ["youngster", "young one", "little one", "boy"],
+    "d": "A young human being below the age of puberty or below the legal age of majority.",
+    "e": "she'd been playing tennis since she was a child",
+    "t": "noun",
+    "a": "child_gb_1.mp3"
+  },
+  {
+    "w": "son",
+    "p": "/sən/",
+    "s": ["male child", "boy", "son and heir"],
+    "d": "A boy or man in relation to either or both of his parents.",
+    "e": "Throughout their relationship, they had been the main parents to four sons, all of whom had been conceived in previous marriages.",
+    "t": "noun",
+    "a": "son_us_1.mp3"
+  },
+  {
+    "w": "daughter",
+    "p": "/ˈdɔdər/",
+    "s": ["female child", "girl"],
+    "d": "A girl or woman in relation to either or both of her parents.",
+    "e": "",
+    "t": "noun",
+    "a": "daughter_us_1.mp3"
+  },
+  {
+    "w": "sister",
+    "p": "/ˈsɪstər/",
+    "s": ["female sibling"],
+    "d": "A woman or girl in relation to other daughters and sons of her parents.",
+    "e": "I had nine brothers and sisters",
+    "t": "noun",
+    "a": "sister_us_1.mp3"
+  },
+  {
+    "w": "brother",
+    "p": "/ˈbrəðər/",
+    "s": ["male sibling"],
+    "d": "A man or boy in relation to other sons and daughters of his parents.",
+    "e": "he recognized her from her strong resemblance to her brother",
+    "t": "noun",
+    "a": "brother_us_1.mp3"
+  },
+  {
+    "w": "grandmother",
+    "p": "/ˈɡræn(d)ˌməðər/",
+    "s": ["grandma", "granny"],
+    "d": "The mother of one's father or mother.",
+    "e": "my grandmother is ill",
+    "t": "noun",
+    "a": "grandmother_us_1.mp3"
+  },
+  {
+    "w": "grandfather",
+    "p": "/ˈɡræn(d)ˌfɑðər/",
+    "s": ["grandad", "grandpa", "grandpop"],
+    "d": "The father of one's father or mother.",
+    "e": "His grandmother was a singer, both his grandfather and father were principal dancers and his mother danced in the corps.",
+    "t": "noun",
+    "a": "grandfather_us_1.mp3"
+  },
+  {
+    "w": "grandparent",
+    "p": "/ˈɡræn(d)ˌpɛrənt/",
+    "s": ["forebear", "ancestor", "predecessor", "progenitor"],
+    "d": "A parent of one's father or mother; a grandmother or grandfather.",
+    "e": "it must be a great blessing to have Chloe's grandparents living nearby",
+    "t": "noun",
+    "a": "grandparent_us_1.mp3"
+  },
+  {
+    "w": "grandson",
+    "p": "/ˈɡræn(d)ˌsən/",
+    "s": [],
+    "d": "The son of one's son or daughter.",
+    "e": "She could not believe that her mother, who was devoted to her daughter and her two grandsons, would have ignored them in her will.",
+    "t": "noun",
+    "a": "grandson_us_1.mp3"
+  },
+  {
+    "w": "granddaughter",
+    "p": "/ˈɡrænˌdɔdər/",
+    "s": [],
+    "d": "A daughter of one's son or daughter.",
+    "e": "I was blessed with three daughters, two granddaughters and a grandson.",
+    "t": "noun",
+    "a": "granddaughter_us_1.mp3"
+  },
+  {
+    "w": "grandchild",
+    "p": "/ˈɡræn(d)ˌtʃaɪld/",
+    "s": [],
+    "d": "A child of one's son or daughter.",
+    "e": "They have one daughter and two grandchildren, who now live at their old farmhouse in South Cerney.",
+    "t": "noun",
+    "a": "grandchild_us_1.mp3"
+  },
+  {
+    "w": "aunt",
+    "p": "/ænt/",
+    "s": ["relative", "relation", "blood relation", "blood relative"],
+    "d": "The sister of one's father or mother or the wife of one's uncle.",
+    "e": "she was brought up by her aunt and uncle",
+    "t": "noun",
+    "a": "aunt_us_1_rr.mp3"
+  },
+  {
+    "w": "uncle",
+    "p": "/ˈəŋk(ə)l/",
+    "s": ["relative", "relation", "blood relation", "blood relative"],
+    "d": "The brother of one's father or mother or the husband of one's aunt.",
+    "e": "he visited his uncle",
+    "t": "noun",
+    "a": "uncle_us_1.mp3"
+  },
+  {
+    "w": "niece",
+    "p": "/nis/",
+    "s": ["relative", "relation", "blood relation", "blood relative"],
+    "d": "A daughter of one's brother or sister, or of one's brother-in-law or sister-in-law.",
+    "e": "Gerry is survived by his brothers, sister, nieces, nephews and other relatives.",
+    "t": "noun",
+    "a": "niece_us_1.mp3"
+  },
+  {
+    "w": "nephew",
+    "p": "/ˈnɛfju/",
+    "s": ["relative", "relation", "blood relation", "blood relative"],
+    "d": "A son of one's brother or sister, or of one's brother-in-law or sister-in-law.",
+    "e": "His is regretted by his brother, sisters, nephews, nieces, relatives and friends.",
+    "t": "noun",
+    "a": "nephew_us_1.mp3"
+  },
+  {
+    "w": "cousin",
+    "p": "/ˈkəz(ə)n/",
+    "s": ["relative", "relation", "blood relation", "blood relative"],
+    "d": "A child of one's uncle or aunt.",
+    "e": "Not just the immediate family, but including all my aunts, uncles, cousins, nieces, nephews.",
+    "t": "noun",
+    "a": "cousin_us_1.mp3"
+  },
+  {
+    "w": "husband",
+    "p": "/ˈhəzbənd/",
+    "s": ["spouse", "partner", "man", "mate"],
+    "d": "A married man considered in relation to his spouse.",
+    "e": "she and her husband are both retired",
+    "t": "noun",
+    "a": "husband_us_1.mp3"
+  },
+  {
+    "w": "wife",
+    "p": "/waɪf/",
+    "s": ["spouse", "partner", "mate", "consort"],
+    "d": "A married woman considered in relation to her spouse.",
+    "e": "he and his wife are keen gardeners",
+    "t": "noun",
+    "a": "wife_us_1.mp3"
+  },
+  {
+    "w": "sister-in-law",
+    "p": "/ˈsɪstər ən ˌlɔ/",
+    "s": [],
+    "d": "The sister of one's wife or husband.",
+    "e": "",
+    "t": "noun",
+    "a": "sister_in_law_1_us_1.mp3"
+  },
+  {
+    "w": "brother-in-law",
+    "p": "/ˈbrəðərɪnˌlɔ/",
+    "s": [],
+    "d": "The brother of one's wife or husband.",
+    "e": "Mike picked up the snapshot of the late Mr Piggot, his brother-in-law and the two wives.",
+    "t": "noun",
+    "a": "brother_in_law_1_us_1.mp3"
+  },
+  {
+    "w": "mother-in-law",
+    "p": "/ˈməðər ən ˌlɔ/",
+    "s": [],
+    "d": "The mother of one's husband or wife.",
+    "e": "Whenever possible, we go back to relieve his wife and my mother-in-law Judith of her bedside vigil.",
+    "t": "noun",
+    "a": "mother_in_law_1_us_1.mp3"
+  },
+  {
+    "w": "father-in-law",
+    "p": "/ˈfɑðər ən ˌlɔ/",
+    "s": [],
+    "d": "The father of one's spouse.",
+    "e": "It will have to be signed by his wife, his father-in-law and his father jointly.",
+    "t": "noun",
+    "a": "father_in_law_1_us_1.mp3"
+  },
+  {
+    "w": "partner",
+    "p": "/ˈpɑrtnər/",
+    "s": [],
+    "d": "Either of a pair of people engaged together in the same activity.",
+    "e": "arrange the children in pairs so that each person has a partner",
+    "t": "noun",
+    "a": "partner_us_1.mp3"
+  },
+  {
+    "w": "fiancé",
+    "p": "/fɪˈɒnseɪ/",
+    "s": ["sweetheart", "loved one", "love", "true love"],
+    "d": "A man to whom someone is engaged to be married.",
+    "e": "my fiancé and I were childhood sweethearts",
+    "t": "noun",
+    "a": "fiance_1_gb_1_8.mp3"
+  },
+  {
+    "w": "fiancée",
+    "p": "/fɪˈɒnseɪ/",
+    "s": ["betrothed", "wife-to-be", "bride-to-be", "future wife"],
+    "d": "A woman to whom someone is engaged to be married.",
+    "e": "he went back to the valley to marry his fiancée",
+    "t": "noun",
+    "a": "fiancee_1_gb_2.mp3"
+  },
+  {
+    "w": "stepmother",
+    "p": "/ˈstɛpˌməðər/",
+    "s": [],
+    "d": "A woman who is the wife or partner of one's father after the divorce or separation of one's parents or the death of one's mother.",
+    "e": "My mother is dead, and my father lives with my stepmother in a town just outside of London.",
+    "t": "noun",
+    "a": "stepmother_us_1.mp3"
+  },
+  {
+    "w": "stepfather",
+    "p": "/ˈstɛpˌfɑðər/",
+    "s": ["mother", "father"],
+    "d": "A man who is the husband or partner of one's mother after the divorce or separation of one's parents or the death of one's father.",
+    "e": "Researchers interviewed all 162 children (initially at an average age of eight and a half) about their relationship with their mothers, fathers and stepfathers.",
+    "t": "noun",
+    "a": "stepfather_us_1.mp3"
+  },
+  {
+    "w": "ex",
+    "p": "/ɛks/",
+    "s": [],
+    "d": "A former husband, wife, or other partner in a relationship.",
+    "e": "",
+    "t": "noun",
+    "a": "ex_us_1.mp3"
+  }
+]

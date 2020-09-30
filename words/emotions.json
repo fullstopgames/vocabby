@@ -1,0 +1,670 @@
+[
+  {
+    "w": "acceptance",
+    "p": "/əkˈsɛptəns/",
+    "s": ["receipt", "receiving", "taking", "obtaining"],
+    "d": "The action of consenting to receive or undertake something offered.",
+    "e": "charges involving the acceptance of bribes",
+    "t": "noun",
+    "a": "acceptance_us_1.mp3"
+  },
+  {
+    "w": "admiration",
+    "p": "/ˌædməˈreɪʃ(ə)n/",
+    "s": ["commendation", "acclaim", "applause", "approbation"],
+    "d": "Respect and warm approval.",
+    "e": "their admiration for each other was genuine",
+    "t": "noun",
+    "a": "admiration_us_1.mp3"
+  },
+  {
+    "w": "affection",
+    "p": "/əˈfɛkʃ(ə)n/",
+    "s": ["fondness", "love", "liking", "endearment"],
+    "d": "A gentle feeling of fondness or liking.",
+    "e": "she felt affection for the wise old lady",
+    "t": "noun",
+    "a": "affection_us_1.mp3"
+  },
+  {
+    "w": "aggravation",
+    "p": "/ˌæɡrəˈveɪʃ(ə)n/",
+    "s": ["worsening", "exacerbation", "compounding"],
+    "d": "An intensification of a negative quality or aspect.",
+    "e": "Negotiators were optimistic despite the aggravation of the standoff caused by the press release",
+    "t": "noun",
+    "a": "aggravation_us_1.mp3"
+  },
+  {
+    "w": "anger",
+    "p": "/ˈæŋɡər/",
+    "s": ["annoyance", "vexation", "exasperation", "crossness"],
+    "d": "A strong feeling of annoyance, displeasure, or hostility.",
+    "e": "the colonel's anger at his daughter's disobedience",
+    "t": "noun",
+    "a": "anger_us_1.mp3"
+  },
+  {
+    "w": "anguish",
+    "p": "/ˈæŋɡwɪʃ/",
+    "s": ["agony", "pain", "torment", "torture"],
+    "d": "Severe mental or physical pain or suffering.",
+    "e": "she shut her eyes in anguish",
+    "t": "noun",
+    "a": "anguish_us_1.mp3"
+  },
+  {
+    "w": "anxiety",
+    "p": "/æŋˈzaɪədi/",
+    "s": ["worry", "concern", "apprehension", "apprehensiveness"],
+    "d": "A feeling of worry, nervousness, or unease, typically about an imminent event or something with an uncertain outcome.",
+    "e": "he felt a surge of anxiety",
+    "t": "noun",
+    "a": "anxiety_us_1.mp3"
+  },
+  {
+    "w": "attraction",
+    "p": "/əˈtrækʃ(ə)n/",
+    "s": ["appeal", "attractiveness", "desirability", "seductiveness"],
+    "d": "The action or power of evoking interest, pleasure, or liking for someone or something.",
+    "e": "the timeless attraction of a good tune",
+    "t": "noun",
+    "a": "attraction_us_1.mp3"
+  },
+  {
+    "w": "boredom",
+    "p": "/ˈbɔrdəm/",
+    "s": ["weariness", "ennui", "lack of enthusiasm", "lack of interest"],
+    "d": "The state of feeling bored.",
+    "e": "the boredom of afternoon duty could be relieved by friendly conversation",
+    "t": "noun",
+    "a": "boredom_us_1.mp3"
+  },
+  {
+    "w": "caution",
+    "p": "/ˈkɔʃ(ə)n/",
+    "s": ["care", "carefulness", "wariness", "awareness"],
+    "d": "Care taken to avoid danger or mistakes.",
+    "e": "anyone receiving a suspect package should exercise extreme caution",
+    "t": "noun",
+    "a": "caution_us_1.mp3"
+  },
+  {
+    "w": "certainty",
+    "p": "/ˈsərtnti/",
+    "s": ["confidence", "sureness", "positiveness", "conviction"],
+    "d": "Firm conviction that something is the case.",
+    "e": "she knew with absolute certainty that they were dead",
+    "t": "noun",
+    "a": "certainty_us_1.mp3"
+  },
+  {
+    "w": "compassion",
+    "p": "/kəmˈpæʃən/",
+    "s": ["pity", "sympathy", "feeling", "fellow feeling"],
+    "d": "Sympathetic pity and concern for the sufferings or misfortunes of others.",
+    "e": "the victims should be treated with compassion",
+    "t": "noun",
+    "a": "compassion_us_1.mp3"
+  },
+  {
+    "w": "confidence",
+    "p": "/ˈkɑnfədəns/",
+    "s": ["trust", "belief", "faith", "credence"],
+    "d": "The feeling or belief that one can rely on someone or something; firm trust.",
+    "e": "we had every confidence in the staff",
+    "t": "noun",
+    "a": "xconfidence_us_1.mp3"
+  },
+  {
+    "w": "confusion",
+    "p": "/kənˈfjuʒən/",
+    "s": ["uncertainty", "lack of certainty", "unsureness", "indecision"],
+    "d": "Lack of understanding; uncertainty.",
+    "e": "there seems to be some confusion about which system does what",
+    "t": "noun",
+    "a": "xconfusion_us_1.mp3"
+  },
+  {
+    "w": "contentment",
+    "p": "/kənˈtɛntmənt/",
+    "s": ["contentedness", "content", "satisfaction", "fulfilment"],
+    "d": "A state of happiness and satisfaction.",
+    "e": "he found contentment in living a simple life in the country",
+    "t": "noun",
+    "a": "xcontentment_us_1.mp3"
+  },
+  {
+    "w": "courage",
+    "p": "/ˈkərɪdʒ/",
+    "s": [],
+    "d": "The ability to do something that frightens one.",
+    "e": "she called on all her courage to face the ordeal",
+    "t": "noun",
+    "a": "courage_us_1.mp3"
+  },
+  {
+    "w": "curiosity",
+    "p": "/ˌkjʊriˈɑsədi/",
+    "s": ["inquisitiveness", "interest", "spirit of inquiry"],
+    "d": "A strong desire to know or learn something.",
+    "e": "filled with curiosity, she peered through the window",
+    "t": "noun",
+    "a": "curiosity_us_1.mp3"
+  },
+  {
+    "w": "defeat",
+    "p": "/dəˈfit/",
+    "s": ["beat", "conquer", "win against", "win a victory over"],
+    "d": "Win a victory over (someone) in a battle or other contest; overcome or beat.",
+    "e": "Arab armies defeated the Byzantine garrison",
+    "t": "transitive verb",
+    "a": "defeat_us_6.mp3"
+  },
+  {
+    "w": "defiance",
+    "p": "/dəˈfaɪəns/",
+    "s": ["resistance", "opposition", "confrontation"],
+    "d": "Open resistance; bold disobedience.",
+    "e": "the demonstration was held in defiance of official warnings",
+    "t": "noun",
+    "a": "defiance_us_1.mp3"
+  },
+  {
+    "w": "delight",
+    "p": "/dəˈlaɪt/",
+    "s": ["please greatly", "charm", "enchant", "captivate"],
+    "d": "Please (someone) greatly.",
+    "e": "an experience guaranteed to delight both young and old",
+    "t": "transitive verb",
+    "a": "delight_us_1.mp3"
+  },
+  {
+    "w": "dependence",
+    "p": "/dəˈpɛndəns/",
+    "s": ["helplessness", "weakness", "defencelessness", "vulnerability"],
+    "d": "The state of relying on or being controlled by someone or something else.",
+    "e": "Japan's dependence on imported oil",
+    "t": "noun",
+    "a": "dependence_us_1.mp3"
+  },
+  {
+    "w": "depression",
+    "p": "/dəˈprɛʃ(ə)n/",
+    "s": ["melancholy", "misery", "sadness", "unhappiness"],
+    "d": "Feelings of severe despondency and dejection.",
+    "e": "self-doubt creeps in and that swiftly turns to depression",
+    "t": "noun",
+    "a": "depression_us_1.mp3"
+  },
+  {
+    "w": "desire",
+    "p": "/dəˈzaɪ(ə)r/",
+    "s": ["wish", "want"],
+    "d": "A strong feeling of wanting to have something or wishing for something to happen.",
+    "e": "a desire to work in the dirt with your bare hands",
+    "t": "noun",
+    "a": "desire_us_1.mp3"
+  },
+  {
+    "w": "disappointment",
+    "p": "/ˌdɪsəˈpɔɪntmənt/",
+    "s": ["sadness", "regret", "dismay", "sorrow"],
+    "d": "Sadness or displeasure caused by the nonfulfillment of one's hopes or expectations.",
+    "e": "to her disappointment, there was no chance to talk privately with Luke",
+    "t": "noun",
+    "a": "disappointment_us_1.mp3"
+  },
+  {
+    "w": "dislike",
+    "p": "/dɪsˈlaɪk/",
+    "s": ["hate", "detest", "loathe", "abominate"],
+    "d": "Feel distaste for or hostility toward.",
+    "e": "he was not distressed by the death of a man he had always disliked",
+    "t": "transitive verb",
+    "a": "dislike_us_1.mp3"
+  },
+  {
+    "w": "dismay",
+    "p": "/dɪsˈmeɪ/",
+    "s": ["alarm", "shock", "surprise", "consternation"],
+    "d": "Consternation and distress, typically that caused by something unexpected.",
+    "e": "to his dismay, she left him",
+    "t": "noun",
+    "a": "dismay_us_1.mp3"
+  },
+  {
+    "w": "distress",
+    "p": "/dəˈstrɛs/",
+    "s": ["anguish", "suffering", "pain", "agony"],
+    "d": "Extreme anxiety, sorrow, or pain.",
+    "e": "to his distress he saw that she was trembling",
+    "t": "noun",
+    "a": "distress_us_1.mp3"
+  },
+  {
+    "w": "embarrassment",
+    "p": "/əmˈbɛrəsmənt/",
+    "s": ["awkwardness", "self-consciousness", "unease", "uneasiness"],
+    "d": "A feeling of self-consciousness, shame, or awkwardness.",
+    "e": "I turned red with embarrassment",
+    "t": "noun",
+    "a": "embarrassment_us_1.mp3"
+  },
+  {
+    "w": "enthusiasm",
+    "p": "/ɪnˈθ(j)uziˌæzəm/",
+    "s": ["eagerness", "keenness", "ardour", "fervour"],
+    "d": "Intense and eager enjoyment, interest, or approval.",
+    "e": "her energy and enthusiasm for life",
+    "t": "noun",
+    "a": "enthusiasm_us_1.mp3"
+  },
+  {
+    "w": "envy",
+    "p": "/ˈɛnvi/",
+    "s": ["jealousy", "enviousness", "covetousness", "desire"],
+    "d": "A feeling of discontented or resentful longing aroused by someone else's possessions, qualities, or luck.",
+    "e": "she felt a twinge of envy for the people on board",
+    "t": "noun",
+    "a": "envy_us_1.mp3"
+  },
+  {
+    "w": "excitement",
+    "p": "/ɪkˈsaɪtmənt/",
+    "s": ["exhilaration", "elation", "animation", "enthusiasm"],
+    "d": "A feeling of great enthusiasm and eagerness.",
+    "e": "her cheeks were flushed with excitement",
+    "t": "noun",
+    "a": "excitement_us_1.mp3"
+  },
+  {
+    "w": "fear",
+    "p": "/ˈfɪr/",
+    "s": ["terror", "fright", "fearfulness", "horror"],
+    "d": "An unpleasant emotion caused by the belief that someone or something is dangerous, likely to cause pain, or a threat.",
+    "e": "he is prey to irrational fears",
+    "t": "noun",
+    "a": "fear_us_1.mp3"
+  },
+  {
+    "w": "frustration",
+    "p": "/frəˈstreɪʃ(ə)n/",
+    "s": ["exasperation", "annoyance", "anger", "vexation"],
+    "d": "The feeling of being upset or annoyed, especially because of inability to change or achieve something.",
+    "e": "I sometimes feel like screaming with frustration",
+    "t": "noun",
+    "a": "frustration_us_1.mp3"
+  },
+  {
+    "w": "fury",
+    "p": "/ˈfjʊri/",
+    "s": ["rage", "anger", "wrath", "passion"],
+    "d": "Wild or violent anger.",
+    "e": "tears of fury and frustration",
+    "t": "noun",
+    "a": "fury_us_1.mp3"
+  },
+  {
+    "w": "generosity",
+    "p": "/ˌdʒɛnəˈrɑsədi/",
+    "s": ["liberality", "lavishness", "magnanimity", "magnanimousness"],
+    "d": "The quality of being kind and generous.",
+    "e": "I was overwhelmed by the generosity of friends and neighbors",
+    "t": "noun",
+    "a": "generosity_us_1.mp3"
+  },
+  {
+    "w": "greed",
+    "p": "/ɡrid/",
+    "s": ["avarice", "greediness", "acquisitiveness", "covetousness"],
+    "d": "Intense and selfish desire for something, especially wealth, power, or food.",
+    "e": "mercenaries who had allowed greed to overtake their principles",
+    "t": "noun",
+    "a": "greed_us_1.mp3"
+  },
+  {
+    "w": "grief",
+    "p": "/ɡrif/",
+    "s": ["sorrow", "misery", "sadness", "anguish"],
+    "d": "Deep sorrow, especially that caused by someone's death.",
+    "e": "she was overcome with grief",
+    "t": "noun",
+    "a": "grief_us_1.mp3"
+  },
+  {
+    "w": "guilt",
+    "p": "/ɡɪlt/",
+    "s": ["culpability", "guiltiness", "blameworthiness", "wrongdoing"],
+    "d": "The fact of having committed a specified or implied offense or crime.",
+    "e": "it is the duty of the prosecution to prove the prisoner's guilt",
+    "t": "noun",
+    "a": "guilt_us_1.mp3"
+  },
+  {
+    "w": "hate",
+    "p": "/heɪt/",
+    "s": ["loathe", "detest", "dislike greatly", "abhor"],
+    "d": "Feel intense or passionate dislike for (someone)",
+    "e": "the boys hate each other",
+    "t": "transitive verb",
+    "a": "hate_us_1.mp3"
+  },
+  {
+    "w": "hatred",
+    "p": "/ˈheɪtrəd/",
+    "s": ["loathing", "hate", "detestation", "dislike"],
+    "d": "Intense dislike or ill will.",
+    "e": "racial hatred",
+    "t": "noun",
+    "a": "hatred_us_2.mp3"
+  },
+  {
+    "w": "hope",
+    "p": "/hoʊp/",
+    "s": ["aspiration", "desire", "wish", "expectation"],
+    "d": "A feeling of expectation and desire for a certain thing to happen.",
+    "e": "he looked through her belongings in the hope of coming across some information",
+    "t": "noun",
+    "a": "hope_us_1.mp3"
+  },
+  {
+    "w": "horror",
+    "p": "/ˈhɔrər/",
+    "s": ["terror", "fear", "fear and trembling", "fearfulness"],
+    "d": "An intense feeling of fear, shock, or disgust.",
+    "e": "children screamed in horror",
+    "t": "noun",
+    "a": "horror_us_1_rr.mp3"
+  },
+  {
+    "w": "hostility",
+    "p": "/hɑˈstɪlədi/",
+    "s": ["antagonism", "unfriendliness", "bitterness", "malevolence"],
+    "d": "Hostile behavior; unfriendliness or opposition.",
+    "e": "their hostility to all outsiders",
+    "t": "noun",
+    "a": "hostility_us_1.mp3"
+  },
+  {
+    "w": "impatience",
+    "p": "/ˌɪmˈpeɪʃəns/",
+    "s": ["restlessness", "restiveness", "frustration", "agitation"],
+    "d": "The tendency to be impatient; irritability or restlessness.",
+    "e": "she crumpled up the pages in a burst of impatience",
+    "t": "noun",
+    "a": "impatience_us_1.mp3"
+  },
+  {
+    "w": "jealousy",
+    "p": "/ˈdʒɛləsi/",
+    "s": ["envy", "enviousness", "covetousness", "desire"],
+    "d": "The state or feeling of being jealous.",
+    "e": "a sharp pang of jealousy",
+    "t": "noun",
+    "a": "jealousy_us_1.mp3"
+  },
+  {
+    "w": "joy",
+    "p": "/dʒɔɪ/",
+    "s": ["delight", "great pleasure", "joyfulness", "jubilation"],
+    "d": "A feeling of great pleasure and happiness.",
+    "e": "tears of joy",
+    "t": "noun",
+    "a": "joy_us_1.mp3"
+  },
+  {
+    "w": "kindness",
+    "p": "/ˈkaɪn(d)nəs/",
+    "s": [
+      "kindliness",
+      "kind-heartedness",
+      "warm-heartedness",
+      "tender-heartedness"
+    ],
+    "d": "The quality of being friendly, generous, and considerate.",
+    "e": "he thanked them for their kindness and support",
+    "t": "noun",
+    "a": "kindness_us_1.mp3"
+  },
+  {
+    "w": "loneliness",
+    "p": "/ˈloʊnlinəs/",
+    "s": [
+      "isolation",
+      "friendlessness",
+      "lack of companions",
+      "lack of friends"
+    ],
+    "d": "Sadness because one has no friends or company.",
+    "e": "feelings of depression and loneliness",
+    "t": "noun",
+    "a": "loneliness_us_1.mp3"
+  },
+  {
+    "w": "longing",
+    "p": "/ˈlɔŋɪŋ/",
+    "s": ["yearning", "pining", "craving", "ache"],
+    "d": "A yearning desire.",
+    "e": "Miranda felt a wistful longing for the old days",
+    "t": "noun",
+    "a": "longing_us_8.mp3"
+  },
+  {
+    "w": "love",
+    "p": "/ləv/",
+    "s": ["deep affection", "fondness", "tenderness", "warmth"],
+    "d": "An intense feeling of deep affection.",
+    "e": "babies fill parents with feelings of love",
+    "t": "noun",
+    "a": "love_us_1.mp3"
+  },
+  {
+    "w": "lust",
+    "p": "/ləst/",
+    "s": [
+      "sexual desire",
+      "sexual appetite",
+      "sexual longing",
+      "sexual passion"
+    ],
+    "d": "Very strong sexual desire.",
+    "e": "he knew that his lust for her had returned",
+    "t": "noun",
+    "a": "lust_us_1.mp3"
+  },
+  {
+    "w": "malice",
+    "p": "/ˈmæləs/",
+    "s": ["spitefulness", "spite", "malevolence", "maliciousness"],
+    "d": "The intention or desire to do evil; ill will.",
+    "e": "I bear no malice toward anybody",
+    "t": "noun",
+    "a": "malice_us_1.mp3"
+  },
+  {
+    "w": "misery",
+    "p": "/ˈmɪz(ə)ri/",
+    "s": ["unhappiness", "distress", "wretchedness", "hardship"],
+    "d": "A state or feeling of great distress or discomfort of mind or body.",
+    "e": "she went upstairs and cried in misery",
+    "t": "noun",
+    "a": "misery_us_1.mp3"
+  },
+  {
+    "w": "optimism",
+    "p": "/ˈɑptəˌmɪzəm/",
+    "s": ["hopefulness", "hope", "confidence", "buoyancy"],
+    "d": "Hopefulness and confidence about the future or the successful outcome of something.",
+    "e": "the talks had been amicable and there were grounds for optimism",
+    "t": "noun",
+    "a": "optimism_us_1.mp3"
+  },
+  {
+    "w": "panic",
+    "p": "/ˈpænɪk/",
+    "s": ["alarm", "anxiety", "nervousness", "fear"],
+    "d": "Sudden uncontrollable fear or anxiety, often causing wildly unthinking behavior.",
+    "e": "she hit him in panic",
+    "t": "noun",
+    "a": "panic_us_1.mp3"
+  },
+  {
+    "w": "patience",
+    "p": "/ˈpeɪʃəns/",
+    "s": ["forbearance", "tolerance", "restraint", "self-restraint"],
+    "d": "The capacity to accept or tolerate delay, trouble, or suffering without getting angry or upset.",
+    "e": "you can find bargains if you have the patience to sift through the dross",
+    "t": "noun",
+    "a": "patience_us_1.mp3"
+  },
+  {
+    "w": "pessimism",
+    "p": "/ˈpɛsəˌmɪzəm/",
+    "s": [
+      "defeatism",
+      "negative thinking",
+      "negativity",
+      "expecting the worst"
+    ],
+    "d": "A tendency to see the worst aspect of things or believe that the worst will happen; a lack of hope or confidence in the future.",
+    "e": "the dispute cast an air of deep pessimism over the future of the peace talks",
+    "t": "noun",
+    "a": "pessimism_us_1.mp3"
+  },
+  {
+    "w": "pity",
+    "p": "/ˈpɪdi/",
+    "s": ["compassion", "commiseration", "condolence", "sorrow"],
+    "d": "The feeling of sorrow and compassion caused by the suffering and misfortunes of others.",
+    "e": "her voice was full of pity",
+    "t": "noun",
+    "a": "pity_us_1.mp3"
+  },
+  {
+    "w": "pleasure",
+    "p": "/ˈplɛʒər/",
+    "s": ["happiness", "delight", "joy", "gladness"],
+    "d": "A feeling of happy satisfaction and enjoyment.",
+    "e": "she smiled with pleasure at being praised",
+    "t": "noun",
+    "a": "pleasure_us_1.mp3"
+  },
+  {
+    "w": "pride",
+    "p": "/praɪd/",
+    "s": ["pleasure", "joy", "delight", "gratification"],
+    "d": "A feeling of deep pleasure or satisfaction derived from one's own achievements, the achievements of those with whom one is closely associated, or from qualities or possessions that are widely admired.",
+    "e": "the team was bursting with pride after recording a sensational victory",
+    "t": "noun",
+    "a": "pride_us_1.mp3"
+  },
+  {
+    "w": "rage",
+    "p": "/reɪdʒ/",
+    "s": ["temper", "fit of anger", "fit of fury", "fit of rage"],
+    "d": "Violent, uncontrollable anger.",
+    "e": "her face was distorted with rage",
+    "t": "noun",
+    "a": "rage_us_1.mp3"
+  },
+  {
+    "w": "relief",
+    "p": "/rəˈlif/",
+    "s": ["reassurance", "consolation", "comfort", "solace"],
+    "d": "A feeling of reassurance and relaxation following release from anxiety or distress.",
+    "e": "much to her relief, she saw the door open",
+    "t": "noun",
+    "a": "relief_us_1.mp3"
+  },
+  {
+    "w": "sadness",
+    "p": "/ˈsædnəs/",
+    "s": ["unhappiness", "sorrow", "dejection", "regret"],
+    "d": "The condition or quality of being sad.",
+    "e": "a source of great sadness",
+    "t": "noun",
+    "a": "sadness_us_1.mp3"
+  },
+  {
+    "w": "satisfaction",
+    "p": "/ˌsædəsˈfækʃ(ə)n/",
+    "s": ["contentment", "contentedness", "content", "pleasure"],
+    "d": "Fulfillment of one's wishes, expectations, or needs, or the pleasure derived from this.",
+    "e": "he smiled with satisfaction",
+    "t": "noun",
+    "a": "satisfaction_us_1.mp3"
+  },
+  {
+    "w": "scorn",
+    "p": "/skɔrn/",
+    "s": ["contempt", "derision", "contemptuousness", "disdain"],
+    "d": "The feeling or belief that someone or something is worthless or despicable; contempt.",
+    "e": "I do not wish to become the object of scorn",
+    "t": "noun",
+    "a": "scorn_us_1.mp3"
+  },
+  {
+    "w": "shame",
+    "p": "/ʃeɪm/",
+    "s": ["humiliation", "mortification", "chagrin", "ignominy"],
+    "d": "A painful feeling of humiliation or distress caused by the consciousness of wrong or foolish behavior.",
+    "e": "she was hot with shame",
+    "t": "noun",
+    "a": "shame_us_1.mp3"
+  },
+  {
+    "w": "sorrow",
+    "p": "/ˈsɑroʊ/",
+    "s": ["sadness", "unhappiness", "dejection", "regret"],
+    "d": "A feeling of deep distress caused by loss, disappointment, or other misfortune suffered by oneself or others.",
+    "e": "he understood the sorrow and discontent underlying his brother's sigh",
+    "t": "noun",
+    "a": "sorrow_us_1_rr.mp3"
+  },
+  {
+    "w": "sympathy",
+    "p": "/ˈsɪmpəθi/",
+    "s": ["commiseration", "pity", "condolence", "consolation"],
+    "d": "Feelings of pity and sorrow for someone else's misfortune.",
+    "e": "they had great sympathy for the flood victims",
+    "t": "noun",
+    "a": "sympathy_us_1.mp3"
+  },
+  {
+    "w": "terror",
+    "p": "/ˈtɛrər/",
+    "s": ["extreme fear", "dread", "horror", "fear and trembling"],
+    "d": "Extreme fear.",
+    "e": "people fled in terror",
+    "t": "noun",
+    "a": "terror_us_1.mp3"
+  },
+  {
+    "w": "unhappiness",
+    "p": "/ənˈhæpinəs/",
+    "s": [],
+    "d": "The feeling of not being happy; sadness.",
+    "e": "I've seen too much unhappiness caused by broken marriages",
+    "t": "noun",
+    "a": "unhappiness_us_1.mp3"
+  },
+  {
+    "w": "wonder",
+    "p": "/ˈwəndər/",
+    "s": ["awe", "admiration", "wonderment", "fascination"],
+    "d": "A feeling of surprise mingled with admiration, caused by something beautiful, unexpected, unfamiliar, or inexplicable.",
+    "e": "he had stood in front of it, observing the intricacy of the ironwork with the wonder of a child",
+    "t": "noun",
+    "a": "wonder_us_1.mp3"
+  },
+  {
+    "w": "wrath",
+    "p": "/ræθ/",
+    "s": ["anger", "rage", "fury", "annoyance"],
+    "d": "Extreme anger (chiefly used for humorous or rhetorical effect)",
+    "e": "he hid his pipe for fear of incurring his father's wrath",
+    "t": "noun",
+    "a": "wrath_us_2.mp3"
+  }
+]

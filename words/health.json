@@ -1,0 +1,466 @@
+[
+  {
+    "w": "ache",
+    "p": "/eɪk/",
+    "s": ["pain", "dull pain", "pang", "twinge"],
+    "d": "A continuous or prolonged dull pain in a part of one's body.",
+    "e": "the ache in her head worsened",
+    "t": "noun",
+    "a": "ache_us_1.mp3"
+  },
+  {
+    "w": "allergy",
+    "p": "/ˈælərdʒi/",
+    "s": ["hypersensitivity", "sensitivity", "susceptibility"],
+    "d": "A damaging immune response by the body to a substance, especially pollen, fur, a particular food, or dust, to which it has become hypersensitive.",
+    "e": "Symptoms of a food allergy usually develop within about an hour after eating the offending food.",
+    "t": "noun",
+    "a": "allergy_us_1.mp3"
+  },
+  {
+    "w": "antihistamine",
+    "p": "/ˌæn(t)iˈhɪstəmin/",
+    "s": [],
+    "d": "A drug or other compound that inhibits the physiological effects of histamine, used especially in the treatment of allergies.",
+    "e": "Hay fever or some old fashioned antihistamine treatments with side effect drowsiness can generally impede your life style.",
+    "t": "noun",
+    "a": "antihistamine_us_3.mp3"
+  },
+  {
+    "w": "appetite",
+    "p": "/ˈæpəˌtaɪt/",
+    "s": ["hunger", "ravenousness", "hungriness", "need for food"],
+    "d": "A natural desire to satisfy a bodily need, especially for food.",
+    "e": "he has a healthy appetite",
+    "t": "noun",
+    "a": "appetite_us_1.mp3"
+  },
+  {
+    "w": "aspirin",
+    "p": "/ˈæsp(ə)rən/",
+    "s": [],
+    "d": "A synthetic compound used medicinally to relieve mild or chronic pain and to reduce fever and inflammation.",
+    "e": "Ask any medical student and he or she will tell you that aspirin reduces fever, pain, and inflammation but may cause ulcers.",
+    "t": "noun",
+    "a": "aspirin_us_1.mp3"
+  },
+  {
+    "w": "bandage",
+    "p": "/ˈbændɪdʒ/",
+    "s": ["dressing", "covering", "gauze", "lint"],
+    "d": "A strip of material used to bind a wound or to protect an injured part of the body.",
+    "e": "her leg was swathed in bandages",
+    "t": "noun",
+    "a": "bandage_us_1.mp3"
+  },
+  {
+    "w": "blood",
+    "p": "/bləd/",
+    "s": ["gore", "lifeblood", "vital fluid"],
+    "d": "The red liquid that circulates in the arteries and veins of humans and other vertebrate animals, carrying oxygen to and carbon dioxide from the tissues of the body.",
+    "e": "drops of blood",
+    "t": "noun",
+    "a": "blood_us_1.mp3"
+  },
+  {
+    "w": "bone",
+    "p": "/boʊn/",
+    "s": [],
+    "d": "Any of the pieces of hard whitish tissue making up the skeleton in humans and other vertebrates.",
+    "e": "his injuries included many broken bones",
+    "t": "noun",
+    "a": "bone_us_1.mp3"
+  },
+  {
+    "w": "broken",
+    "p": "/ˈbroʊkən/",
+    "s": ["smashed", "shattered", "burst", "fragmented"],
+    "d": "Having been fractured or damaged and no longer in one piece or in working order.",
+    "e": "he had a broken arm",
+    "t": "adjective",
+    "a": "broken_us_1.mp3"
+  },
+  {
+    "w": "bronchitis",
+    "p": "/brɑŋˈkaɪdəs/",
+    "s": [],
+    "d": "Inflammation of the mucous membrane in the bronchial tubes. It typically causes bronchospasm and coughing.",
+    "e": "Rarely, flu can develop into a high fever, acute bronchitis, encephalitis and pneumonia.",
+    "t": "noun",
+    "a": "bronchitis_us_1.mp3"
+  },
+  {
+    "w": "bruise",
+    "p": "/bruz/",
+    "s": ["contusion", "lesion", "mark", "injury"],
+    "d": "An injury appearing as an area of discolored skin on the body, caused by a blow or impact rupturing underlying blood vessels.",
+    "e": "his body was a mass of bruises after he had been attacked",
+    "t": "noun",
+    "a": "bruise_us_1.mp3"
+  },
+  {
+    "w": "cast",
+    "p": "/kæst/",
+    "s": ["emit", "give off", "send out", "send forth"],
+    "d": "Cause (light or shadow) to appear on a surface.",
+    "e": "the moon cast a pale light over the cottages",
+    "t": "transitive verb",
+    "a": "_cast_1_us_1.mp3"
+  },
+  {
+    "w": "clinic",
+    "p": "/ˈklɪnɪk/",
+    "s": [
+      "medical centre",
+      "health centre",
+      "outpatients' department",
+      "surgery"
+    ],
+    "d": "An establishment or hospital department where outpatients are given medical treatment or advice, especially of a specialist nature.",
+    "e": "a mental health clinic",
+    "t": "noun",
+    "a": "clinic_us_1.mp3"
+  },
+  {
+    "w": "cold",
+    "p": "/koʊld/",
+    "s": ["chilly", "cool", "freezing", "icy"],
+    "d": "Of or at a low or relatively low temperature, especially when compared with the human body.",
+    "e": "a freezing cold day",
+    "t": "adjective",
+    "a": "cold_us_1.mp3"
+  },
+  {
+    "w": "contagious",
+    "p": "/kənˈteɪdʒəs/",
+    "s": ["infectious", "communicable", "transmittable", "transmissible"],
+    "d": "(of a disease) spread from one person or organism to another by direct or indirect contact.",
+    "e": "a contagious infection",
+    "t": "adjective",
+    "a": "xcontagious_us_1.mp3"
+  },
+  {
+    "w": "cough",
+    "p": "/kɑf/",
+    "s": [],
+    "d": "Expel air from the lungs with a sudden sharp sound.",
+    "e": "he tried to speak and started to cough",
+    "t": "intransitive verb",
+    "a": "cough_us_1.mp3"
+  },
+  {
+    "w": "crutch",
+    "p": "/krətʃ/",
+    "s": ["walking stick", "cane", "staff"],
+    "d": "A long stick with a crosspiece at the top, used as a support under the armpit by a person with an injury or disability.",
+    "e": "It's difficult to understand why so many crutches, white sticks and wheelchairs remain unclaimed.",
+    "t": "noun",
+    "a": "crutch_us_1.mp3"
+  },
+  {
+    "w": "cut",
+    "p": "/kət/",
+    "s": ["gash", "slash", "lacerate", "slit"],
+    "d": "Make an opening, incision, or wound in (something) with a sharp-edged tool or object.",
+    "e": "he cut his toe on a sharp stone",
+    "t": "transitive verb",
+    "a": "cut_us_1.mp3"
+  },
+  {
+    "w": "decongestant",
+    "p": "/ˌdikənˈdʒɛstənt/",
+    "s": [],
+    "d": "(chiefly of a medicine) used to relieve nasal congestion.",
+    "e": "decongestant nasal sprays can ease swollen nasal passages",
+    "t": "adjective",
+    "a": "decongestant_us_1.mp3"
+  },
+  {
+    "w": "diarrhea",
+    "p": "/ˌdaɪəˈriə/",
+    "s": ["loose motions", "looseness of the bowels"],
+    "d": "A condition in which feces are discharged from the bowels frequently and in a liquid form.",
+    "e": "a range of symptoms including diarrhea and vomiting",
+    "t": "noun",
+    "a": "diarrhea_us_1.mp3"
+  },
+  {
+    "w": "dizzy",
+    "p": "/ˈdɪzi/",
+    "s": ["giddy", "light-headed", "faint", "weak"],
+    "d": "Having or involving a sensation of spinning around and losing one's balance.",
+    "e": "Jonathan had begun to suffer dizzy spells",
+    "t": "adjective",
+    "a": "dizzy_us_1.mp3"
+  },
+  {
+    "w": "fever",
+    "p": "/ˈfivər/",
+    "s": ["feverishness", "high temperature", "febricity", "febrility"],
+    "d": "An abnormally high body temperature, usually accompanied by shivering, headache, and in severe instances, delirium.",
+    "e": "I would take aspirin to help me with the pain and reduce the fever",
+    "t": "noun",
+    "a": "fever_us_1.mp3"
+  },
+  {
+    "w": "first aid",
+    "p": "",
+    "s": [],
+    "d": "Help given to a sick or injured person until full medical treatment is available.",
+    "e": "an expert in emergency first aid",
+    "t": "noun",
+    "a": "first_aid_1_gb_1.mp3"
+  },
+  {
+    "w": "flu",
+    "p": "/flu/",
+    "s": [],
+    "d": "short for influenza",
+    "e": "I had a bad case of the flu",
+    "t": "noun",
+    "a": "flu_us_1.mp3"
+  },
+  {
+    "w": "headache",
+    "p": "/ˈhɛdˌeɪk/",
+    "s": ["sore head", "migraine"],
+    "d": "A continuous pain in the head.",
+    "e": "I've got a splitting headache",
+    "t": "noun",
+    "a": "headache_us_1.mp3"
+  },
+  {
+    "w": "hives",
+    "p": "/haɪvz/",
+    "s": [],
+    "d": "A rash of round, red welts on the skin that itch intensely, sometimes with dangerous swelling, caused by an allergic reaction, typically to specific foods.",
+    "e": "Stress worsens many skin conditions - such as psoriasis, eczema, hives and acne - and can be a trigger for asthma attacks.",
+    "t": "plural noun",
+    "a": "hives_us_1.mp3"
+  },
+  {
+    "w": "indigestion",
+    "p": "/ˌɪndəˈdʒɛstʃ(ə)n/",
+    "s": ["dyspepsia", "hyperacidity", "acidity", "heartburn"],
+    "d": "Pain or discomfort in the stomach associated with difficulty in digesting food.",
+    "e": "you know chips give me indigestion",
+    "t": "noun",
+    "a": "indigestion_us_1_rr.mp3"
+  },
+  {
+    "w": "infection",
+    "p": "/ɪnˈfɛkʃ(ə)n/",
+    "s": ["contamination", "poison"],
+    "d": "The process of infecting or the state of being infected.",
+    "e": "strict hygiene will limit the risk of infection",
+    "t": "noun",
+    "a": "infection_us_1.mp3"
+  },
+  {
+    "w": "influenza",
+    "p": "/ˌɪnfləˈwɛnzə/",
+    "s": [],
+    "d": "A highly contagious viral infection of the respiratory passages causing fever, severe aching, and catarrh, and often occurring in epidemics.",
+    "e": "Other viral illnesses include influenza, the common cold, Lassa fever, and ebola.",
+    "t": "noun",
+    "a": "influenza_us_1.mp3"
+  },
+  {
+    "w": "injection",
+    "p": "/ɪnˈdʒɛkʃ(ə)n/",
+    "s": ["inoculation", "vaccination", "vaccine", "immunization"],
+    "d": "An instance of injecting or being injected.",
+    "e": "painkilling injections",
+    "t": "noun",
+    "a": "injection_us_1.mp3"
+  },
+  {
+    "w": "injury",
+    "p": "/ˈɪndʒ(ə)ri/",
+    "s": ["wound", "bruise", "cut", "gash"],
+    "d": "An instance of being injured.",
+    "e": "she suffered an injury to her back",
+    "t": "noun",
+    "a": "injury_us_1.mp3"
+  },
+  {
+    "w": "medication",
+    "p": "/ˌmɛdəˈkeɪʃ(ə)n/",
+    "s": ["medicine", "drug", "medication", "remedy"],
+    "d": "A substance used for medical treatment, especially a medicine or drug.",
+    "e": "certain medications can cause dizziness",
+    "t": "noun",
+    "a": "medication_us_1.mp3"
+  },
+  {
+    "w": "muscle",
+    "p": "/ˈməsəl/",
+    "s": ["thew"],
+    "d": "A band or bundle of fibrous tissue in a human or animal body that has the ability to contract, producing movement in or maintaining the position of parts of the body.",
+    "e": "the calf muscle",
+    "t": "noun",
+    "a": "muscle_us_1.mp3"
+  },
+  {
+    "w": "nausea",
+    "p": "/ˈnɔziə/",
+    "s": ["sickness", "biliousness", "queasiness"],
+    "d": "A feeling of sickness with an inclination to vomit.",
+    "e": "a wave of nausea engulfed him",
+    "t": "noun",
+    "a": "nausea_us_1_rr.mp3"
+  },
+  {
+    "w": "pain",
+    "p": "/peɪn/",
+    "s": ["suffering", "agony", "affliction", "torture"],
+    "d": "Physical suffering or discomfort caused by illness or injury.",
+    "e": "she's in great pain",
+    "t": "noun",
+    "a": "pain_us_1.mp3"
+  },
+  {
+    "w": "painful",
+    "p": "/ˈpeɪnfəl/",
+    "s": ["sore", "hurting", "hurt", "tender"],
+    "d": "(of a part of the body) affected with pain.",
+    "e": "her ankle was very painful",
+    "t": "adjective",
+    "a": "painful_us_1.mp3"
+  },
+  {
+    "w": "prescribe",
+    "p": "/prəˈskraɪb/",
+    "s": ["order", "advise", "authorize", "direct"],
+    "d": "(of a medical practitioner) advise and authorize the use of (a medicine or treatment) for someone, especially in writing.",
+    "e": "Dr. Greene prescribed magnesium sulfate",
+    "t": "transitive verb",
+    "a": "prescribe_us_1.mp3"
+  },
+  {
+    "w": "prescription",
+    "p": "/prəˈskrɪpʃ(ə)n/",
+    "s": ["instruction", "order", "direction", "authorization"],
+    "d": "An instruction written by a medical practitioner that authorizes a patient to be provided a medicine or treatment.",
+    "e": "he scribbled a prescription for tranquilizers",
+    "t": "noun",
+    "a": "prescription_us_1.mp3"
+  },
+  {
+    "w": "rash",
+    "p": "/ræʃ/",
+    "s": ["reckless", "impetuous", "impulsive", "hasty"],
+    "d": "Displaying or proceeding from a lack of careful consideration of the possible consequences of an action.",
+    "e": "it would be extremely rash to make such an assumption",
+    "t": "adjective",
+    "a": "rash_us_1.mp3"
+  },
+  {
+    "w": "shot",
+    "p": "/ʃɑt/",
+    "s": ["report", "crack", "bang", "blast"],
+    "d": "The firing of a gun or cannon.",
+    "e": "he brought down a caribou with a single shot to the neck",
+    "t": "noun",
+    "a": "shot_us_1.mp3"
+  },
+  {
+    "w": "sneeze",
+    "p": "/sniz/",
+    "s": [],
+    "d": "Make a sudden involuntary expulsion of air from the nose and mouth due to irritation of one's nostrils.",
+    "e": "the smoke made her sneeze",
+    "t": "intransitive verb",
+    "a": "sneeze_us_1.mp3"
+  },
+  {
+    "w": "sore",
+    "p": "/sɔr/",
+    "s": ["painful", "in pain", "hurting", "hurt"],
+    "d": "(of a part of one's body) painful or aching.",
+    "e": "my feet were sore and my head ached",
+    "t": "adjective",
+    "a": "sore_us_1.mp3"
+  },
+  {
+    "w": "splint",
+    "p": "/splɪnt/",
+    "s": [],
+    "d": "A strip of rigid material used for supporting and immobilizing a broken bone when it has been set.",
+    "e": "she had to wear splints on her legs",
+    "t": "noun",
+    "a": "splint_us_1.mp3"
+  },
+  {
+    "w": "sprain",
+    "p": "/spreɪn/",
+    "s": ["wrench", "twist", "turn", "strain"],
+    "d": "Wrench or twist the ligaments of (an ankle, wrist, or other joint) violently so as to cause pain and swelling but not dislocation.",
+    "e": "he left in a wheelchair after spraining an ankle",
+    "t": "transitive verb",
+    "a": "sprain_us_1.mp3"
+  },
+  {
+    "w": "stomach",
+    "p": "/ˈstəmək/",
+    "s": ["abdomen", "belly", "gut", "middle"],
+    "d": "The internal organ in which the major part of the digestion of food occurs, being (in humans and many mammals) a pear-shaped enlargement of the alimentary canal linking the esophagus to the small intestine.",
+    "e": "severe stomach pains",
+    "t": "noun",
+    "a": "stomach_us_1.mp3"
+  },
+  {
+    "w": "tendon",
+    "p": "/ˈtɛndən/",
+    "s": [],
+    "d": "A flexible but inelastic cord of strong fibrous collagen tissue attaching a muscle to a bone.",
+    "e": "A physical examination will determine if damage to tissue, nerves, tendons, or bone has occurred.",
+    "t": "noun",
+    "a": "tendon_us_1.mp3"
+  },
+  {
+    "w": "thermometer",
+    "p": "/θərˈmɑmədər/",
+    "s": [],
+    "d": "An instrument for measuring and indicating temperature, typically one consisting of a narrow, hermetically sealed glass tube marked with graduations and having at one end a bulb containing mercury or alcohol that expands and contracts in the tube with heating and cooling.",
+    "e": "Narrow-range mercury thermometers were used to measure sand surface temperature.",
+    "t": "noun",
+    "a": "thermometer_us_1.mp3"
+  },
+  {
+    "w": "virus",
+    "p": "/ˈvaɪrəs/",
+    "s": [],
+    "d": "An infective agent that typically consists of a nucleic acid molecule in a protein coat, is too small to be seen by light microscopy, and is able to multiply only within the living cells of a host.",
+    "e": "a virus infection",
+    "t": "noun",
+    "a": "virus_us_1.mp3"
+  },
+  {
+    "w": "vomit",
+    "p": "/ˈvɑmət/",
+    "s": ["be sick", "spew", "spew up", "fetch up"],
+    "d": "Eject matter from the stomach through the mouth.",
+    "e": "the sickly stench made him want to vomit",
+    "t": "intransitive verb",
+    "a": "vomit_us_1.mp3"
+  },
+  {
+    "w": "waiting room",
+    "p": "",
+    "s": ["entrance hall", "hall", "hallway", "entrance"],
+    "d": "A room provided for the use of people who are waiting to be seen by a doctor or dentist or who are waiting in a station for a bus or train.",
+    "e": "Many ICUs do not have private rooms near waiting rooms where doctors and nurses can consult and inform family members in confidence.",
+    "t": "noun",
+    "a": "waiting_room_1_gb_1.mp3"
+  },
+  {
+    "w": "wound",
+    "p": "/wund/",
+    "s": ["injury", "lesion", "cut", "gash"],
+    "d": "An injury to living tissue caused by a cut, blow, or other impact, typically one in which the skin is cut or broken.",
+    "e": "a knife wound",
+    "t": "noun",
+    "a": "wound_us_2.mp3"
+  }
+]

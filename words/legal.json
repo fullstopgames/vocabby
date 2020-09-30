@@ -1,0 +1,775 @@
+[
+  {
+    "w": "arrest",
+    "p": "/əˈrɛst/",
+    "s": ["apprehend", "take into custody", "seize", "take in"],
+    "d": "Seize (someone) by legal authority and take into custody.",
+    "e": "the police arrested him for possession of marijuana",
+    "t": "transitive verb",
+    "a": "arrest_us_1.mp3"
+  },
+  {
+    "w": "accuse",
+    "p": "/əˈkjuz/",
+    "s": ["charge with", "indict for", "arraign for", "take to court for"],
+    "d": "Charge (someone) with an offense or crime.",
+    "e": "he was accused of murdering his wife's lover",
+    "t": "transitive verb",
+    "a": "accuse_us_1.mp3"
+  },
+  {
+    "w": "acquit",
+    "p": "/əˈkwɪt/",
+    "s": ["absolve", "clear", "exonerate", "exculpate"],
+    "d": "Free (someone) from a criminal charge by a verdict of not guilty.",
+    "e": "she was acquitted on all counts",
+    "t": "verb",
+    "a": "acquit_us_1.mp3"
+  },
+  {
+    "w": "adjourn",
+    "p": "/əˈdʒərn/",
+    "s": ["end", "bring to an end", "come to an end", "conclude"],
+    "d": "Break off (a meeting, legal case, or game) with the intention of resuming it later.",
+    "e": "the meeting was adjourned until December 4",
+    "t": "transitive verb",
+    "a": "adjourn_us_1.mp3"
+  },
+  {
+    "w": "adoption",
+    "p": "/əˈdɑpʃ(ə)n/",
+    "s": ["assumption", "assuming", "taking on", "acquiring"],
+    "d": "The action or fact of legally taking another's child and bringing it up as one's own, or the fact of being adopted.",
+    "e": "she placed a child for adoption when she was a teenager",
+    "t": "noun",
+    "a": "adoption_us_1.mp3"
+  },
+  {
+    "w": "alibi",
+    "p": "/ˈæləˌbaɪ/",
+    "s": [],
+    "d": "A claim or piece of evidence that one was elsewhere when an act, typically a criminal one, is alleged to have taken place.",
+    "e": "she has an alibi for the whole of yesterday evening",
+    "t": "noun",
+    "a": "alibi_us_1.mp3"
+  },
+  {
+    "w": "alimony",
+    "p": "/ˈæləˌmoʊni/",
+    "s": ["financial support", "maintenance", "support", "provision"],
+    "d": "Financial support that a person is ordered by a court to give to their spouse during separation or following divorce.",
+    "e": "he is said to have paid $300,000 alimony to his first wife",
+    "t": "noun",
+    "a": "alimony_us_1.mp3"
+  },
+  {
+    "w": "appeal",
+    "p": "/əˈpil/",
+    "s": [
+      "ask earnestly",
+      "ask urgently",
+      "request earnestly",
+      "request urgently"
+    ],
+    "d": "Make a serious or urgent request, typically to the public.",
+    "e": "police are appealing for information about the incident",
+    "t": "intransitive verb",
+    "a": "appeal_us_1.mp3"
+  },
+  {
+    "w": "attorney",
+    "p": "/əˈtərni/",
+    "s": ["deputy", "representative", "substitute", "delegate"],
+    "d": "A person appointed to act for another in business or legal matters.",
+    "e": "Other important intermediaries were legal attorneys, who represented the Christian groups in their dealings with the state.",
+    "t": "noun",
+    "a": "attorney_us_1.mp3"
+  },
+  {
+    "w": "bankrupt",
+    "p": "/ˈbæŋkˌrəpt/",
+    "s": ["insolvent", "bankrupted"],
+    "d": "(of a person or organization) declared in law unable to pay outstanding debts.",
+    "e": "his father went bankrupt and the family had to sell their home",
+    "t": "adjective",
+    "a": "bankrupt_us_1.mp3"
+  },
+  {
+    "w": "bankrupt",
+    "p": "/ˈbæŋkˌrəpt/",
+    "s": ["insolvent", "bankrupted"],
+    "d": "(of a person or organization) declared in law unable to pay outstanding debts.",
+    "e": "his father went bankrupt and the family had to sell their home",
+    "t": "adjective",
+    "a": "bankrupt_us_1.mp3"
+  },
+  {
+    "w": "bribe",
+    "p": "/braɪb/",
+    "s": ["buy off", "pay off", "suborn", "give an inducement to"],
+    "d": "Persuade (someone) to act in one's favor, typically illegally or dishonestly, by a gift of money or other inducement.",
+    "e": "an undercover agent bribed the judge into giving a lenient sentence",
+    "t": "transitive verb",
+    "a": "bribe_us_1.mp3"
+  },
+  {
+    "w": "brief",
+    "p": "/brif/",
+    "s": ["short", "flying", "fleeting", "hasty"],
+    "d": "Of short duration.",
+    "e": "the president made a brief visit to Moscow",
+    "t": "adjective",
+    "a": "brief_us_1.mp3"
+  },
+  {
+    "w": "case",
+    "p": "/keɪs/",
+    "s": ["instance", "occurrence", "occasion", "manifestation"],
+    "d": "An instance of a particular situation; an example of something occurring.",
+    "e": "a case of mistaken identity",
+    "t": "noun",
+    "a": "case_us_1.mp3"
+  },
+  {
+    "w": "common law",
+    "p": "",
+    "s": [],
+    "d": "The part of English law that is derived from custom and judicial precedent rather than statutes.",
+    "e": "Another is the common law, derived from precedent and judges' interpretations of the law.",
+    "t": "noun",
+    "a": "common_law_1_gb_1.mp3"
+  },
+  {
+    "w": "contract",
+    "p": "/ˈkɑntrækt/",
+    "s": ["agreement", "commitment", "arrangement", "settlement"],
+    "d": "A written or spoken agreement, especially one concerning employment, sales, or tenancy, that is intended to be enforceable by law.",
+    "e": "both parties must sign employment contracts",
+    "t": "noun",
+    "a": "xcontract_us_1.mp3"
+  },
+  {
+    "w": "copyright",
+    "p": "/ˈkɑpiˌraɪt/",
+    "s": ["copyright", "licence", "legal protection", "right"],
+    "d": "The exclusive legal right, given to an originator or an assignee to print, publish, perform, film, or record literary, artistic, or musical material, and to authorize others to do the same.",
+    "e": "he issued a writ for breach of copyright",
+    "t": "noun",
+    "a": "copyright_us_1.mp3"
+  },
+  {
+    "w": "court",
+    "p": "/kɔrt/",
+    "s": ["court of law", "law court", "bench", "bar"],
+    "d": "A tribunal presided over by a judge, judges, or a magistrate in civil and criminal cases.The place where a court meets.The judge or judges presiding at a court.",
+    "e": "she will take the matter to court",
+    "t": "noun",
+    "a": "court_us_1.mp3"
+  },
+  {
+    "w": "criminal",
+    "p": "/ˈkrɪm(ə)n(ə)l/",
+    "s": ["lawbreaker", "offender", "villain", "delinquent"],
+    "d": "A person who has committed a crime.",
+    "e": "these men are dangerous criminals",
+    "t": "noun",
+    "a": "criminal_us_1.mp3"
+  },
+  {
+    "w": "criminal",
+    "p": "/ˈkrɪm(ə)n(ə)l/",
+    "s": ["lawbreaker", "offender", "villain", "delinquent"],
+    "d": "A person who has committed a crime.",
+    "e": "these men are dangerous criminals",
+    "t": "noun",
+    "a": "criminal_us_1.mp3"
+  },
+  {
+    "w": "custody",
+    "p": "/ˈkəstədi/",
+    "s": ["care", "guardianship", "charge", "keeping"],
+    "d": "The protective care or guardianship of someone or something.",
+    "e": "the property was placed in the custody of a trustee",
+    "t": "noun",
+    "a": "custody_us_1.mp3"
+  },
+  {
+    "w": "da",
+    "p": "",
+    "s": [],
+    "d": "(in units of measurement) deca-.",
+    "e": "",
+    "t": "abbreviation",
+    "a": ""
+  },
+  {
+    "w": "damage",
+    "p": "/ˈdamɪdʒ/",
+    "s": ["harm", "injury", "destruction", "vandalization"],
+    "d": "Physical harm that impairs the value, usefulness, or normal function of something.",
+    "e": "bombing caused extensive damage to the town",
+    "t": "noun",
+    "a": "damage_gb_1.mp3"
+  },
+  {
+    "w": "defend",
+    "p": "/dəˈfɛnd/",
+    "s": ["protect", "guard", "safeguard", "keep from harm"],
+    "d": "Resist an attack made on (someone or something); protect from harm or danger.",
+    "e": "we shall defend our country, whatever the cost",
+    "t": "transitive verb",
+    "a": "defend_us_2.mp3"
+  },
+  {
+    "w": "defendant",
+    "p": "/dəˈfɛndənt/",
+    "s": ["accused", "prisoner at the bar"],
+    "d": "An individual, company, or institution sued or accused in a court of law.",
+    "e": "the defendant tried to claim that it was self-defense",
+    "t": "noun",
+    "a": "defendant_us_1.mp3"
+  },
+  {
+    "w": "defense",
+    "p": "/dəˈfɛns/",
+    "s": ["protection", "shielding", "safeguarding", "guarding"],
+    "d": "The action of defending from or resisting attack.",
+    "e": "she came to the defense of the eccentric professor",
+    "t": "noun",
+    "a": "defense_us_2.mp3"
+  },
+  {
+    "w": "district attorney",
+    "p": "",
+    "s": [],
+    "d": "(in the US) a public official who acts as prosecutor for the state in a particular district.",
+    "e": "The report examines the corruption of some of the union officials who have not been prosecuted by the district attorney's office.",
+    "t": "noun",
+    "a": "district_attorney_1_gb_1.mp3"
+  },
+  {
+    "w": "divorce",
+    "p": "/dəˈvɔrs/",
+    "s": [
+      "dissolution",
+      "annulment",
+      "official separation",
+      "judicial separation"
+    ],
+    "d": "The legal dissolution of a marriage by a court or other competent body.",
+    "e": "her divorce from her first husband",
+    "t": "noun",
+    "a": "divorce_us_1.mp3"
+  },
+  {
+    "w": "divorce",
+    "p": "/dəˈvɔrs/",
+    "s": [
+      "dissolution",
+      "annulment",
+      "official separation",
+      "judicial separation"
+    ],
+    "d": "The legal dissolution of a marriage by a court or other competent body.",
+    "e": "her divorce from her first husband",
+    "t": "noun",
+    "a": "divorce_us_1.mp3"
+  },
+  {
+    "w": "evidence",
+    "p": "/ˈɛvədəns/",
+    "s": ["proof", "confirmation", "verification", "substantiation"],
+    "d": "The available body of facts or information indicating whether a belief or proposition is true or valid.",
+    "e": "the study finds little evidence of overt discrimination",
+    "t": "noun",
+    "a": "evidence_us_1.mp3"
+  },
+  {
+    "w": "felon",
+    "p": "/ˈfɛlən/",
+    "s": ["criminal", "lawbreaker", "offender", "villain"],
+    "d": "A person who has been convicted of a felony.",
+    "e": "Such force was justifiable against 'felons', and a thief was a felon if he had two previous convictions.",
+    "t": "noun",
+    "a": "felon_us_1.mp3"
+  },
+  {
+    "w": "felony",
+    "p": "/ˈfɛləni/",
+    "s": ["crime", "lawbreaking", "lawlessness", "criminality"],
+    "d": "A crime, typically one involving violence, regarded as more serious than a misdemeanor, and usually punishable by imprisonment for more than one year or by death.",
+    "e": "he pleaded guilty to six felonies",
+    "t": "noun",
+    "a": "felony_us_1.mp3"
+  },
+  {
+    "w": "fine",
+    "p": "/faɪn/",
+    "s": ["excellent", "first-class", "first-rate", "great"],
+    "d": "Of high quality.",
+    "e": "this was a fine piece of filmmaking",
+    "t": "adjective",
+    "a": "fine_us_1.mp3"
+  },
+  {
+    "w": "fine",
+    "p": "/faɪn/",
+    "s": ["excellent", "first-class", "first-rate", "great"],
+    "d": "Of high quality.",
+    "e": "this was a fine piece of filmmaking",
+    "t": "adjective",
+    "a": "fine_us_1.mp3"
+  },
+  {
+    "w": "fraud",
+    "p": "/frɔd/",
+    "s": ["fraudulence", "sharp practice", "cheating", "swindling"],
+    "d": "Wrongful or criminal deception intended to result in financial or personal gain.",
+    "e": "he was convicted of fraud",
+    "t": "noun",
+    "a": "fraud_us_1.mp3"
+  },
+  {
+    "w": "guardian",
+    "p": "/ˈɡɑrdiən/",
+    "s": ["protector", "defender", "preserver", "champion"],
+    "d": "A defender, protector, or keeper.",
+    "e": "self-appointed guardians of public morality",
+    "t": "noun",
+    "a": "guardian_us_1.mp3"
+  },
+  {
+    "w": "guilty",
+    "p": "/ˈɡɪlti/",
+    "s": ["culpable", "to blame", "blameworthy", "blameable"],
+    "d": "Culpable of or responsible for a specified wrongdoing.",
+    "e": "he was found guilty of manslaughter",
+    "t": "adjective",
+    "a": "guilty_us_1.mp3"
+  },
+  {
+    "w": "illegal",
+    "p": "/ɪ(l)ˈliɡəl/",
+    "s": ["unlawful", "illicit", "illegitimate", "against the law"],
+    "d": "Contrary to or forbidden by law, especially criminal law.",
+    "e": "illegal drugs",
+    "t": "adjective",
+    "a": "illegal_us_1.mp3"
+  },
+  {
+    "w": "indict",
+    "p": "/ɪnˈdaɪt/",
+    "s": ["charge with", "accuse of", "arraign for", "take to court for"],
+    "d": "Formally accuse of or charge with a serious crime.",
+    "e": "his former manager was indicted for fraud",
+    "t": "transitive verb",
+    "a": "indict_us_1.mp3"
+  },
+  {
+    "w": "indictment",
+    "p": "/ɪnˈdaɪtmənt/",
+    "s": ["charge", "accusation", "arraignment", "citation"],
+    "d": "A formal charge or accusation of a serious crime.",
+    "e": "an indictment for conspiracy",
+    "t": "noun",
+    "a": "indictment_us_1.mp3"
+  },
+  {
+    "w": "inmate",
+    "p": "/ˈɪnˌmeɪt/",
+    "s": ["patient", "inpatient", "hospital case"],
+    "d": "A person confined to an institution such as a prison or hospital.",
+    "e": "inmates of the Louisiana State Penitentiary",
+    "t": "noun",
+    "a": "inmate_us_1.mp3"
+  },
+  {
+    "w": "intellectual property",
+    "p": "",
+    "s": [],
+    "d": "Intangible property that is the result of creativity, such as patents, copyrights, etc.",
+    "e": "The legal system protects intellectual property through patents and copyright.",
+    "t": "noun",
+    "a": "intellectual_property_1_gb_1.mp3"
+  },
+  {
+    "w": "judge",
+    "p": "/dʒədʒ/",
+    "s": ["justice", "magistrate", "Her Honour", "His Honour"],
+    "d": "A public official appointed to decide cases in a court of law.",
+    "e": "The judges made this particular aspect of public policy and the judges are entitled to change it.",
+    "t": "noun",
+    "a": "judge_us_1.mp3"
+  },
+  {
+    "w": "jurisdiction",
+    "p": "/ˌdʒʊrəsˈdɪkʃ(ə)n/",
+    "s": ["authority", "control", "power", "dominion"],
+    "d": "The official power to make legal decisions and judgments.",
+    "e": "federal courts had no jurisdiction over the case",
+    "t": "noun",
+    "a": "jurisdiction_us_1.mp3"
+  },
+  {
+    "w": "juror",
+    "p": "/ˈdʒʊrər/",
+    "s": [],
+    "d": "A member of a jury.",
+    "e": "A basic predicate of jury service is the juror's ability to render a fair and impartial verdict.",
+    "t": "noun",
+    "a": "juror_us_1.mp3"
+  },
+  {
+    "w": "jury",
+    "p": "/ˈdʒʊri/",
+    "s": [],
+    "d": "A body of people (typically twelve in number) sworn to give a verdict in a legal case on the basis of evidence submitted to them in court.",
+    "e": "the jury returned unanimous guilty verdicts",
+    "t": "noun",
+    "a": "jury_us_1.mp3"
+  },
+  {
+    "w": "justice",
+    "p": "/ˈdʒəstəs/",
+    "s": ["fairness", "justness", "fair play", "fair-mindedness"],
+    "d": "Just behavior or treatment.",
+    "e": "a concern for justice, peace, and genuine respect for people",
+    "t": "noun",
+    "a": "justice_us_1.mp3"
+  },
+  {
+    "w": "landlord",
+    "p": "/ˈlæn(d)ˌlɔrd/",
+    "s": [],
+    "d": "A person, especially a man, who rents land, a building, or an apartment to a tenant.",
+    "e": "The goal is to educate tenants about the legal amount their landlord can up their rent.",
+    "t": "noun",
+    "a": "landlord_us_1.mp3"
+  },
+  {
+    "w": "lawyer",
+    "p": "/ˈlɔɪər/",
+    "s": ["legal practitioner", "attorney", "legal officer", "legal adviser"],
+    "d": "A person who practices or studies law; an attorney or a counselor.",
+    "e": "Despite the pleas of defence lawyers, the attorney general appeared to do nothing to urge restraint.",
+    "t": "noun",
+    "a": "lawyer_us_1_rr.mp3"
+  },
+  {
+    "w": "legal",
+    "p": "/ˈliɡəl/",
+    "s": ["legal", "judiciary", "juridical", "judicatory"],
+    "d": "Of, based on, or concerned with the law.",
+    "e": "the American legal system",
+    "t": "adjective",
+    "a": "legal_us_1.mp3"
+  },
+  {
+    "w": "life sentence",
+    "p": "",
+    "s": ["prison term", "prison sentence", "jail sentence", "penal sentence"],
+    "d": "A punishment of life imprisonment or of imprisonment for a specified long period.",
+    "e": "He gives them the single best reason to extort the virtues of the death penalty over a life sentence.",
+    "t": "noun",
+    "a": "life_sentence_1_gb_1.mp3"
+  },
+  {
+    "w": "litigate",
+    "p": "/ˈlɪdəˌɡeɪt/",
+    "s": ["oppose", "object to", "challenge", "dispute"],
+    "d": "Go to law; be a party to a lawsuit.",
+    "e": "the plaintiff is prepared to litigate",
+    "t": "intransitive verb",
+    "a": "litigate_us_1.mp3"
+  },
+  {
+    "w": "mediation",
+    "p": "/ˌmidiˈeɪʃ(ə)n/",
+    "s": ["conciliation", "arbitration", "reconciliation", "intervention"],
+    "d": "Intervention in a dispute in order to resolve it; arbitration.",
+    "e": "the parties have sought mediation and it has failed",
+    "t": "noun",
+    "a": "mediation_us_1.mp3"
+  },
+  {
+    "w": "negligent",
+    "p": "/ˈnɛɡlədʒənt/",
+    "s": ["careless", "failing to take proper care", "remiss", "neglectful"],
+    "d": "Failing to take proper care in doing something.",
+    "e": "directors have been negligent in the performance of their duties",
+    "t": "adjective",
+    "a": "negligent_us_1.mp3"
+  },
+  {
+    "w": "negligence",
+    "p": "/ˈnɛɡlədʒəns/",
+    "s": [
+      "carelessness",
+      "lack of care",
+      "lack of proper care and attention",
+      "dereliction of duty"
+    ],
+    "d": "Failure to take proper care in doing something.",
+    "e": "some of these accidents are due to negligence",
+    "t": "noun",
+    "a": "negligence_us_1.mp3"
+  },
+  {
+    "w": "notary",
+    "p": "/ˈnəʊt(ə)ri/",
+    "s": [
+      "lawyer",
+      "legal representative",
+      "legal practitioner",
+      "legal executive"
+    ],
+    "d": "A person authorized to perform certain legal formalities, especially to draw up or certify contracts, deeds, and other documents for use in other jurisdictions.",
+    "e": "It was drawn up by a notary and was a binding contract.",
+    "t": "noun",
+    "a": "notary_gb_1.mp3"
+  },
+  {
+    "w": "oath",
+    "p": "/oʊθ/",
+    "s": ["vow", "sworn statement", "promise", "pledge"],
+    "d": "A solemn promise, often invoking a divine witness, regarding one's future action or behavior.",
+    "e": "they took an oath of allegiance to the king",
+    "t": "noun",
+    "a": "oath_us_1.mp3"
+  },
+  {
+    "w": "patent",
+    "p": "/ˈpætnt/",
+    "s": ["copyright", "licence", "legal protection", "right"],
+    "d": "A government authority or license conferring a right or title for a set period, especially the sole right to exclude others from making, using, or selling an invention.",
+    "e": "",
+    "t": "noun",
+    "a": "patent_us_1_rr.mp3"
+  },
+  {
+    "w": "patent",
+    "p": "/ˈpætnt/",
+    "s": ["copyright", "licence", "legal protection", "right"],
+    "d": "A government authority or license conferring a right or title for a set period, especially the sole right to exclude others from making, using, or selling an invention.",
+    "e": "",
+    "t": "noun",
+    "a": "patent_us_1_rr.mp3"
+  },
+  {
+    "w": "plea",
+    "p": "/pli/",
+    "s": ["appeal", "entreaty", "supplication", "petition"],
+    "d": "A request made in an urgent and emotional manner.",
+    "e": "he made a dramatic plea for disarmament",
+    "t": "noun",
+    "a": "plea_us_1.mp3"
+  },
+  {
+    "w": "plea bargaining",
+    "p": "",
+    "s": [],
+    "d": "An arrangement between prosecutor and defendant whereby the defendant pleads guilty to a lesser charge in exchange for a more lenient sentence or an agreement to drop other charges.",
+    "e": "The guilty plea procedure is sometimes the result of plea-bargaining between the prosecution and defence counsel.",
+    "t": "noun",
+    "a": "plea_bargaining_1_gb_1.mp3"
+  },
+  {
+    "w": "power of attorney",
+    "p": "",
+    "s": [],
+    "d": "The authority to act for another person in specified or all legal or financial matters.",
+    "e": "If he was told there was such a veto power or power of attorney, why did he not ask to see proof of same.",
+    "t": "noun",
+    "a": "power_of_attorney_1_gb_1.mp3"
+  },
+  {
+    "w": "prison",
+    "p": "/ˈprɪzən/",
+    "s": ["jail", "penal institution", "place of detention", "lock-up"],
+    "d": "A building in which people are legally held as a punishment for a crime they have committed or while awaiting trial.",
+    "e": "he died in prison",
+    "t": "noun",
+    "a": "prison_us_1.mp3"
+  },
+  {
+    "w": "prisoner",
+    "p": "/ˈprɪz(ə)nər/",
+    "s": ["convict", "inmate"],
+    "d": "A person legally held in prison as a punishment for crimes they have committed or while awaiting trial.",
+    "e": "a prisoner serving a life sentence",
+    "t": "noun",
+    "a": "prisoner_us_1.mp3"
+  },
+  {
+    "w": "probation",
+    "p": "/proʊˈbeɪʃ(ə)n/",
+    "s": [],
+    "d": "The release of an offender from detention, subject to a period of good behavior under supervision.",
+    "e": "I went to court and was put on probation",
+    "t": "noun",
+    "a": "probation_us_1.mp3"
+  },
+  {
+    "w": "probation officer",
+    "p": "",
+    "s": [],
+    "d": "A person appointed to supervise offenders who are on probation.",
+    "e": "At the time he saw the probation officer the appellant was still seeking to suggest that the victim was a consenting party.",
+    "t": "noun",
+    "a": "probation_officer_1_gb_1.mp3"
+  },
+  {
+    "w": "property",
+    "p": "/ˈprɑpərdi/",
+    "s": ["possessions", "belongings", "things", "goods"],
+    "d": "A thing or things belonging to someone; possessions collectively.",
+    "e": "she wanted Oliver and his property out of her house",
+    "t": "noun",
+    "a": "property_us_1.mp3"
+  },
+  {
+    "w": "prosecute",
+    "p": "/ˈprɑsəˌkjut/",
+    "s": [],
+    "d": "Institute legal proceedings against (a person or organization)",
+    "e": "they were prosecuted for obstructing the highway",
+    "t": "transitive verb",
+    "a": "prosecute_us_1.mp3"
+  },
+  {
+    "w": "prosecutor",
+    "p": "/ˈprɑsəˌkjudər/",
+    "s": [],
+    "d": "A person, especially a public official, who institutes legal proceedings against someone.",
+    "e": "prosecutors are fully entitled to bring any number of offenses against a single defendant",
+    "t": "noun",
+    "a": "prosecutor_us_1.mp3"
+  },
+  {
+    "w": "restraining order",
+    "p": "/rɪˈstreɪnɪŋ ɔːdə/",
+    "s": ["prohibition", "ban", "bar", "veto"],
+    "d": "A temporary court order issued to prohibit an individual from carrying out a particular action, especially approaching or contacting a specified person.",
+    "e": "Until the farmers and the cowboys can be friends, this court issues restraining orders against the two parties.",
+    "t": "noun",
+    "a": "restraining_order_1_gb_1.mp3"
+  },
+  {
+    "w": "sentence",
+    "p": "/ˈsɛn(t)əns/",
+    "s": [],
+    "d": "A set of words that is complete in itself, typically containing a subject and predicate, conveying a statement, question, exclamation, or command, and consisting of a main clause and sometimes one or more subordinate clauses.",
+    "e": "Start sentences with subjects and verbs, and let other words branch off to the right.",
+    "t": "noun",
+    "a": "sentence_us_1.mp3"
+  },
+  {
+    "w": "sentence",
+    "p": "/ˈsɛn(t)əns/",
+    "s": [],
+    "d": "A set of words that is complete in itself, typically containing a subject and predicate, conveying a statement, question, exclamation, or command, and consisting of a main clause and sometimes one or more subordinate clauses.",
+    "e": "Start sentences with subjects and verbs, and let other words branch off to the right.",
+    "t": "noun",
+    "a": "sentence_us_1.mp3"
+  },
+  {
+    "w": "statute",
+    "p": "/ˈstætʃut/",
+    "s": ["law", "regulation", "enactment", "act"],
+    "d": "A written law passed by a legislative body.",
+    "e": "violation of the hate crimes statute",
+    "t": "noun",
+    "a": "statute_us_1.mp3"
+  },
+  {
+    "w": "sue",
+    "p": "/su/",
+    "s": [
+      "take legal action against",
+      "take to court",
+      "bring an action against",
+      "bring a suit against"
+    ],
+    "d": "Institute legal proceedings against (a person or institution), typically for redress.",
+    "e": "she is to sue the baby's father",
+    "t": "verb",
+    "a": "sue_us_1.mp3"
+  },
+  {
+    "w": "tenant",
+    "p": "/ˈtɛnənt/",
+    "s": ["occupant", "resident", "inhabitant"],
+    "d": "A person who occupies land or property rented from a landlord.",
+    "e": "council-house tenants",
+    "t": "noun",
+    "a": "tenant_us_1.mp3"
+  },
+  {
+    "w": "testify",
+    "p": "/ˈtɛstəˌfaɪ/",
+    "s": [
+      "give evidence",
+      "bear witness",
+      "be a witness",
+      "give one's testimony"
+    ],
+    "d": "Give evidence as a witness in a law court.",
+    "e": "he testified against his own commander",
+    "t": "intransitive verb",
+    "a": "testify_us_1.mp3"
+  },
+  {
+    "w": "testimony",
+    "p": "/ˈtɛstəˌmoʊni/",
+    "s": ["evidence", "sworn statement", "attestation", "affidavit"],
+    "d": "A formal written or spoken statement, especially one given in a court of law.",
+    "e": "A strong case, according to this view, includes the testimony of an eyewitness.",
+    "t": "noun",
+    "a": "testimony_us_1.mp3"
+  },
+  {
+    "w": "trial",
+    "p": "/ˈtraɪ(ə)l/",
+    "s": ["court case", "case", "lawsuit", "suit"],
+    "d": "A formal examination of evidence before a judge, and typically before a jury, in order to decide guilt in a case of criminal or civil proceedings.",
+    "e": "the newspaper accounts of the trial",
+    "t": "noun",
+    "a": "trial_us_1.mp3"
+  },
+  {
+    "w": "verdict",
+    "p": "/ˈvərdɪkt/",
+    "s": ["judgement", "adjudication", "adjudgement", "decision"],
+    "d": "A decision on a disputed issue in a civil or criminal case or an inquest.",
+    "e": "the jury returned a verdict of ‘not guilty.’",
+    "t": "noun",
+    "a": "verdict_us_1.mp3"
+  },
+  {
+    "w": "will",
+    "p": "/wɪl/",
+    "s": [],
+    "d": "Expressing the future tense.",
+    "e": "you will regret it when you are older",
+    "t": "modal verb",
+    "a": "will_us_1.mp3"
+  },
+  {
+    "w": "witness",
+    "p": "/ˈwɪtnəs/",
+    "s": ["observer", "onlooker", "looker-on", "eyewitness"],
+    "d": "A person who sees an event, typically a crime or accident, take place.",
+    "e": "police are appealing for witnesses to the accident",
+    "t": "noun",
+    "a": "witness_us_1.mp3"
+  },
+  {
+    "w": "witness box",
+    "p": "",
+    "s": [],
+    "d": "The place in a court where a witness stands to give evidence.",
+    "e": "They involve each claimant getting into the witness box and giving evidence as to what happened to them.",
+    "t": "noun",
+    "a": "witness_box_1_gb_1.mp3"
+  }
+]

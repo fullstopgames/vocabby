@@ -1,0 +1,556 @@
+[
+  {
+    "w": "amateur",
+    "p": "/ˈæmədər/",
+    "s": ["non-professional", "non-specialist", "layman", "layperson"],
+    "d": "A person who engages in a pursuit, especially a sport, on an unpaid rather than a professional basis.",
+    "e": "it takes five years for a top amateur to become a real Tour de France rider",
+    "t": "noun",
+    "a": "amateur_us_7.mp3"
+  },
+  {
+    "w": "arena",
+    "p": "/əˈrinə/",
+    "s": ["stadium", "amphitheatre", "theatre", "coliseum"],
+    "d": "A level area surrounded by seats for spectators, in which sports, entertainments, and other public events are held.",
+    "e": "Whole towns could be surrounded, or a mile-wide dragnet thrown over an area which contained sporting arenas.",
+    "t": "noun",
+    "a": "arena_us_1.mp3"
+  },
+  {
+    "w": "athletic",
+    "p": "/ˌæθ(ə)ˈlɛdɪk/",
+    "s": ["muscular", "muscly", "sturdy", "strapping"],
+    "d": "Physically strong, fit, and active.",
+    "e": "big, muscular, athletic boys",
+    "t": "adjective",
+    "a": "athletic_us_1.mp3"
+  },
+  {
+    "w": "backboard",
+    "p": "/ˈbækbɔrd/",
+    "s": [],
+    "d": "A board placed at or forming the back of something, such as a collage or piece of electronic equipment.",
+    "e": "I nailed tour boards together as a frame with the backboard a few inches higher than the front, laid the storm windows on top and grew some delicious early spring and late fall salad greens for myself.",
+    "t": "noun",
+    "a": "backboard_us_1.mp3"
+  },
+  {
+    "w": "backhand",
+    "p": "/ˈbækˌhænd/",
+    "s": [],
+    "d": "(in tennis and other racket sports) a stroke played with the back of the hand facing in the direction of the stroke, with the arm across the body.",
+    "e": "he drove a backhand into the net",
+    "t": "noun",
+    "a": "backhand_us_1.mp3"
+  },
+  {
+    "w": "baseball",
+    "p": "/ˈbeɪsˌbɔl/",
+    "s": [],
+    "d": "A ball game played between two teams of nine on a field with a diamond-shaped circuit of four bases. It is played chiefly in the US, Canada, Latin America, and East Asia.",
+    "e": "a game of baseball",
+    "t": "noun",
+    "a": "baseball_us_1.mp3"
+  },
+  {
+    "w": "basketball",
+    "p": "/ˈbæskətˌbɔl/",
+    "s": [],
+    "d": "A game played between two teams of five players in which goals are scored by throwing a ball through a netted hoop fixed above each end of the court.",
+    "e": "You'll be able to watch live premiership games, basketball, golf, cricket, and all sorts.",
+    "t": "noun",
+    "a": "basketball_us_1.mp3"
+  },
+  {
+    "w": "bench",
+    "p": "/bɛn(t)ʃ/",
+    "s": ["pew", "form", "long seat", "seat"],
+    "d": "A long seat for several people, typically made of wood or stone.",
+    "e": "a park bench",
+    "t": "noun",
+    "a": "bench_us_2.mp3"
+  },
+  {
+    "w": "champion",
+    "p": "/ˈtʃæmpiən/",
+    "s": ["winner", "title-holder", "defending champion", "gold medallist"],
+    "d": "A person who has defeated or surpassed all rivals in a competition, especially in sports.",
+    "e": "a champion hurdler",
+    "t": "noun",
+    "a": "champion_us_1.mp3"
+  },
+  {
+    "w": "championship",
+    "p": "/ˈtʃæmpiənˌʃɪp/",
+    "s": ["competition", "contest", "championship", "series"],
+    "d": "A contest for the position of champion in a sport, often involving a series of games or matches.",
+    "e": "the final round of the championship will be in Japan",
+    "t": "noun",
+    "a": "championship_us_1.mp3"
+  },
+  {
+    "w": "coach",
+    "p": "/koʊtʃ/",
+    "s": ["horse-drawn carriage", "trap", "hackney", "hansom"],
+    "d": "A horse-drawn carriage, especially a closed one.",
+    "e": "It was a wonderful sight to see because many of the guests arrived in horse-drawn coaches and carriages.",
+    "t": "noun",
+    "a": "coach_us_1.mp3"
+  },
+  {
+    "w": "competitive",
+    "p": "/kəmˈpɛdədɪv/",
+    "s": ["ruthless", "merciless", "aggressive", "fierce"],
+    "d": "Relating to or characterized by competition.",
+    "e": "a competitive sport",
+    "t": "adjective",
+    "a": "competitive_us_1.mp3"
+  },
+  {
+    "w": "defense",
+    "p": "/dəˈfɛns/",
+    "s": ["protection", "shielding", "safeguarding", "guarding"],
+    "d": "The action of defending from or resisting attack.",
+    "e": "she came to the defense of the eccentric professor",
+    "t": "noun",
+    "a": "defense_us_2.mp3"
+  },
+  {
+    "w": "dribble",
+    "p": "/ˈdrɪbəl/",
+    "s": ["trickle", "drip", "fall in drops", "drop"],
+    "d": "(of a liquid) fall slowly in drops or a thin stream.",
+    "e": "rain dribbled down the window",
+    "t": "verb",
+    "a": "dribble_us_1.mp3"
+  },
+  {
+    "w": "dugout",
+    "p": "/ˈdəɡˌaʊt/",
+    "s": ["pit", "ditch", "trench", "cavity"],
+    "d": "A shelter that is dug in the ground and roofed over, especially one used by troops in warfare.",
+    "e": "the German gun crews kept in their dugouts",
+    "t": "noun",
+    "a": "dugout_us_1.mp3"
+  },
+  {
+    "w": "fan",
+    "p": "/fæn/",
+    "s": ["air cooler", "air conditioner", "ventilator", "blower"],
+    "d": "An apparatus with rotating blades that creates a current of air for cooling or ventilation.",
+    "e": "a couple of ceiling fans, lazily turning",
+    "t": "noun",
+    "a": "fan_us_1.mp3"
+  },
+  {
+    "w": "field goal",
+    "p": "",
+    "s": [],
+    "d": "A goal scored by a place kick, scoring three points.",
+    "e": "It was the second time in three years Brady set the stage for a field goal to win the Super Bowl.",
+    "t": "noun",
+    "a": "field_goal_1_gb_1.mp3"
+  },
+  {
+    "w": "finishing line",
+    "p": "/ˈfɪnɪʃɪŋ ˌlʌɪn/",
+    "s": ["finishing line", "finishing post", "tape", "end point"],
+    "d": "A line marking the end of a race.",
+    "e": "they crossed the finishing line",
+    "t": "noun",
+    "a": "finishing_line_1_gb_1.mp3"
+  },
+  {
+    "w": "football",
+    "p": "/ˈfʊtˌbɔl/",
+    "s": [],
+    "d": "A form of team game played in North America with an oval ball on a field marked out as a gridiron.",
+    "e": "a football club",
+    "t": "noun",
+    "a": "football_us_1.mp3"
+  },
+  {
+    "w": "forehand",
+    "p": "/ˈfɔrˌhænd/",
+    "s": [],
+    "d": "(in tennis and other racket sports) a stroke played with the palm of the hand facing in the direction of the stroke.",
+    "e": "a good forehand drive",
+    "t": "noun",
+    "a": "forehand_us_1.mp3"
+  },
+  {
+    "w": "free throw",
+    "p": "",
+    "s": [],
+    "d": "An unimpeded attempt at a goal awarded to a player following a foul or other infringement.",
+    "e": "Fouled shooters get two or three free throws and your players are eventually disqualified.",
+    "t": "noun",
+    "a": "free_throw_1_gb_1.mp3"
+  },
+  {
+    "w": "goal",
+    "p": "/ɡoʊl/",
+    "s": [],
+    "d": "(in football, soccer, rugby, hockey, and some other games) a pair of posts linked by a crossbar and often with a net attached behind it, forming a space into or over which the ball has to be sent in order to score.",
+    "e": "Mr Foxley said there were still some problems with organising the event including installing a set of rugby or American Football posts instead of the football goals.",
+    "t": "noun",
+    "a": "goal_us_1.mp3"
+  },
+  {
+    "w": "goal line",
+    "p": "",
+    "s": [],
+    "d": "A line across a football or hockey field at or near its end, on which the goal is placed or which acts as the boundary beyond which a try or touchdown is scored.",
+    "e": "The Cowboys returned it down near the goal line and then scored, giving them a 27-17 lead.",
+    "t": "noun",
+    "a": "goal_line_1_gb_1.mp3"
+  },
+  {
+    "w": "goalkeeper",
+    "p": "/ˈɡoʊlˌkipər/",
+    "s": [],
+    "d": "another term for goaltender",
+    "e": "I understand that the goalkeepers are the only players allowed to handle the ball.",
+    "t": "noun",
+    "a": "goalkeeper_us_2.mp3"
+  },
+  {
+    "w": "goalpost",
+    "p": "/ˈɡoʊlˌpoʊst/",
+    "s": [],
+    "d": "Either of the two upright posts of a goal.",
+    "e": "The distance between the goals and the goalposts shall be decided upon by the Captains of the sides playing.",
+    "t": "noun",
+    "a": "goal_post_1_us_1.mp3"
+  },
+  {
+    "w": "grand slam",
+    "p": "/ˌɡrand ˈslam/",
+    "s": [],
+    "d": "A set of major championships or matches in a particular sport in the same year, in particular tennis, golf, or rugby union.Any of the individual championships that comprise a Grand Slam.The winning of all the individual championships that comprise a Grand Slam.",
+    "e": "the tennis Grand Slam consists of the four most difficult major tournaments on the international circuit",
+    "t": "noun",
+    "a": "grand_slam_1_gb_2.mp3"
+  },
+  {
+    "w": "half-time",
+    "p": "/ˌhɑːfˈtʌɪm/",
+    "s": ["intermission", "interlude", "entr'acte", "break"],
+    "d": "The time at which half of a game or contest is completed, especially when marked by an interval.",
+    "e": "Spain led 9-7 at half-time",
+    "t": "noun",
+    "a": "half_time_1_gb_1.mp3"
+  },
+  {
+    "w": "hat-trick",
+    "p": "/ˈhattrɪk/",
+    "s": [],
+    "d": "Three successes of the same kind within a limited period, in particular (in soccer) the scoring of three goals in a game by one player or (in cricket) the taking of three wickets by the same bowler with successive balls.",
+    "e": "he scored a hat-trick",
+    "t": "noun",
+    "a": "hat_trick_1_gb_1.mp3"
+  },
+  {
+    "w": "hockey",
+    "p": "/ˈhɑki/",
+    "s": [],
+    "d": "short for ice hockey or field hockey",
+    "e": "Admittedly, hockey is a team game, and we cannot attribute all losses just to one person.",
+    "t": "noun",
+    "a": "hockey_us_1.mp3"
+  },
+  {
+    "w": "kickoff",
+    "p": "/ˈkɪkɑf/",
+    "s": [],
+    "d": "The start or resumption of a football game, in which a player kicks the ball from the center of the field.",
+    "e": "three minutes before kickoff",
+    "t": "noun",
+    "a": "kickoff_us_1.mp3"
+  },
+  {
+    "w": "league",
+    "p": "/liɡ/",
+    "s": ["alliance", "confederation", "confederacy", "federation"],
+    "d": "A collection of people, countries, or groups that combine for a particular purpose, typically mutual protection or cooperation.",
+    "e": "the League of Nations",
+    "t": "noun",
+    "a": "league_us_1.mp3"
+  },
+  {
+    "w": "locker room",
+    "p": "",
+    "s": [],
+    "d": "A room containing lockers, especially a sports changing room.",
+    "e": "He also is a strong influence in the locker room and an excellent student of the game.",
+    "t": "noun",
+    "a": "locker_room_1_gb_1.mp3"
+  },
+  {
+    "w": "offense",
+    "p": "/əˈfɛns/",
+    "s": ["crime", "illegal act", "unlawful act", "misdemeanour"],
+    "d": "A breach of a law or rule; an illegal act.",
+    "e": "neither offense violates any federal law",
+    "t": "noun",
+    "a": "offense_us_1.mp3"
+  },
+  {
+    "w": "opponent",
+    "p": "/əˈpoʊnənt/",
+    "s": ["rival", "adversary", "opposer", "the opposition"],
+    "d": "Someone who competes against or fights another in a contest, game, or argument; a rival or adversary.",
+    "e": "he beat his opponent by a landslide margin",
+    "t": "noun",
+    "a": "opponent_us_1.mp3"
+  },
+  {
+    "w": "outfield",
+    "p": "/ˈaʊtˌfild/",
+    "s": [],
+    "d": "The grassy area beyond the infield.",
+    "e": "He is learning to play the corner outfield positions.",
+    "t": "noun",
+    "a": "out_field_1_us_1.mp3"
+  },
+  {
+    "w": "penalty",
+    "p": "/ˈpɛn(ə)lti/",
+    "s": ["punishment", "sanction", "punitive action", "retribution"],
+    "d": "A punishment imposed for breaking a law, rule, or contract.",
+    "e": "the charge carries a maximum penalty of ten years' imprisonment",
+    "t": "noun",
+    "a": "penalty_us_1.mp3"
+  },
+  {
+    "w": "pro",
+    "p": "/proʊ/",
+    "s": ["professional player", "non-amateur", "paid player"],
+    "d": "A professional, especially in sports.",
+    "e": "",
+    "t": "noun",
+    "a": "pro_1_us_1.mp3"
+  },
+  {
+    "w": "preseason",
+    "p": "/ˌpriˈsizən/",
+    "s": [],
+    "d": "(of a sporting event) taking place before the regular season.",
+    "e": "a preseason tour of South Africa",
+    "t": "adjective",
+    "a": "preseason_us_2.mp3"
+  },
+  {
+    "w": "puck",
+    "p": "/pək/",
+    "s": [],
+    "d": "A black disk made of hard rubber, the focus of play in ice hockey.",
+    "e": "The players carry around hunks of lumber called sticks, which they used to hit a slab of hard rubber called a puck.",
+    "t": "noun",
+    "a": "puck_us_1.mp3"
+  },
+  {
+    "w": "quarterback",
+    "p": "/ˈkwɔrdərˌbæk/",
+    "s": [],
+    "d": "A player positioned behind the center who directs a team's offensive play.",
+    "e": "Rookie quarterbacks deal with offensive playbooks that dwarf the ones they studied in college.",
+    "t": "noun",
+    "a": "quarterback_us_2.mp3"
+  },
+  {
+    "w": "recreational",
+    "p": "/ˌrɛkriˈeɪʃ(ə)n(ə)l/",
+    "s": [],
+    "d": "Relating to or denoting activity done for enjoyment when one is not working.",
+    "e": "recreational facilities",
+    "t": "adjective",
+    "a": "recreational_us_1.mp3"
+  },
+  {
+    "w": "referee",
+    "p": "/ˌrɛfəˈri/",
+    "s": ["umpire", "judge", "referee's assistant", "assistant referee"],
+    "d": "An official who watches a game or match closely to ensure that the rules are adhered to and (in some sports) to arbitrate on matters arising from the play.",
+    "e": "the referee sent off two French players",
+    "t": "noun",
+    "a": "referee_us_1.mp3"
+  },
+  {
+    "w": "score",
+    "p": "/skɔr/",
+    "s": ["result", "outcome"],
+    "d": "The number of points, goals, runs, etc. achieved in a game or by a team or an individual.",
+    "e": "the final score was 25–16 in favor of Washington",
+    "t": "noun",
+    "a": "score_us_1.mp3"
+  },
+  {
+    "w": "score",
+    "p": "/skɔr/",
+    "s": ["result", "outcome"],
+    "d": "The number of points, goals, runs, etc. achieved in a game or by a team or an individual.",
+    "e": "the final score was 25–16 in favor of Washington",
+    "t": "noun",
+    "a": "score_us_1.mp3"
+  },
+  {
+    "w": "scoreboard",
+    "p": "/ˈskɔrˌbɔrd/",
+    "s": [],
+    "d": "A large board on which the score in a game or match is displayed.",
+    "e": "The athletes and swimmers got to compete in world class stadia and for most, seeing their names displayed on the giant scoreboards was a once in a lifetime experience.",
+    "t": "noun",
+    "a": "scoreboard_us_1.mp3"
+  },
+  {
+    "w": "semifinal",
+    "p": "/ˌsɛmiˈfaɪnl/",
+    "s": ["contest", "competition", "game", "tournament"],
+    "d": "A game or round immediately preceding the final, the winner of which goes on to the final.",
+    "e": "their semifinal defeat",
+    "t": "noun",
+    "a": "semifinal_us_4.mp3"
+  },
+  {
+    "w": "serve",
+    "p": "/sərv/",
+    "s": [
+      "work for",
+      "be in the service of",
+      "perform duties for",
+      "be employed by"
+    ],
+    "d": "Perform duties or services for (another person or an organization)",
+    "e": "Malcolm has served the church very faithfully",
+    "t": "transitive verb",
+    "a": "serve_us_1.mp3"
+  },
+  {
+    "w": "soccer",
+    "p": "/ˈsɑkər/",
+    "s": ["Association football"],
+    "d": "A game played by two teams of eleven players with a round ball that may not be touched with the hands or arms during play except by the goalkeepers. The object of the game is to score goals by kicking or heading the ball into the opponents' goal.",
+    "e": "Major team sports include rugby, soccer and cricket for boys and hockey and netball for girls.",
+    "t": "noun",
+    "a": "soccer_us_1.mp3"
+  },
+  {
+    "w": "spectator sport",
+    "p": "",
+    "s": [],
+    "d": "A sport that many people find entertaining to watch.",
+    "e": "Football is both a spectator sport and a participation sport.",
+    "t": "noun",
+    "a": "spectator_sport_1_gb_1.mp3"
+  },
+  {
+    "w": "stadium",
+    "p": "/ˈsteɪdiəm/",
+    "s": ["arena", "field", "ground"],
+    "d": "A sports arena with tiers of seats for spectators.",
+    "e": "In fact, it would be a fair point to state that mandatory seating in Premier League stadia has played a role in lessening trouble in the stands.",
+    "t": "noun",
+    "a": "stadium_us_1.mp3"
+  },
+  {
+    "w": "strike",
+    "p": "/straɪk/",
+    "s": ["bang", "beat", "hit", "pound"],
+    "d": "Hit forcibly and deliberately with one's hand or a weapon or other implement.",
+    "e": "he raised his hand, as if to strike me",
+    "t": "verb",
+    "a": "strike_us_1.mp3"
+  },
+  {
+    "w": "teammate",
+    "p": "/ˈti(m)ˌmeɪt/",
+    "s": ["friend", "companion", "boon companion", "comrade"],
+    "d": "A fellow member of a team.",
+    "e": "She stood there thinking about hockey, and the Olympics and her fellow teammates.",
+    "t": "noun",
+    "a": "teammate_us_1.mp3"
+  },
+  {
+    "w": "tennis court",
+    "p": "",
+    "s": [],
+    "d": "A rectangular area marked with lines on which tennis is played.",
+    "e": "The indoor stadium will feature a tennis court, four badminton courts or ten table-tennis tables.",
+    "t": "noun",
+    "a": ""
+  },
+  {
+    "w": "tie",
+    "p": "/taɪ/",
+    "s": ["bind", "tie up", "tether", "hitch"],
+    "d": "Attach or fasten (someone or something) with string or similar cord.",
+    "e": "they tied Max to a chair",
+    "t": "verb",
+    "a": "tie_us_1.mp3"
+  },
+  {
+    "w": "time out",
+    "p": "",
+    "s": [],
+    "d": "(of an operation) be cancelled automatically because a predefined interval of time has passed without a certain event happening.",
+    "e": "",
+    "t": "phrasal verb",
+    "a": ""
+  },
+  {
+    "w": "touchdown",
+    "p": "/ˈtətʃˌdaʊn/",
+    "s": [],
+    "d": "A six-point score made by carrying or passing the ball into the end zone of the opposing side, or by recovering it there following a fumble or blocked kick.",
+    "e": "",
+    "t": "noun",
+    "a": "touchdown_us_2.mp3"
+  },
+  {
+    "w": "tournament",
+    "p": "/ˈtərnəmənt/",
+    "s": ["competition", "contest", "championship", "series"],
+    "d": "(in a sport or game) a series of contests between a number of competitors, who compete for an overall prize.",
+    "e": "Can you foresee a time when gaming tournaments rival sports championships in terms of audience interest and ratings?",
+    "t": "noun",
+    "a": "tournament_us_2.mp3"
+  },
+  {
+    "w": "trainer",
+    "p": "/ˈtreɪnər/",
+    "s": ["instructor", "coach", "teacher", "mentor"],
+    "d": "A person who trains people or animals.",
+    "e": "a racehorse owner and trainer",
+    "t": "noun",
+    "a": "trainer_us_1.mp3"
+  },
+  {
+    "w": "trophy",
+    "p": "/ˈtroʊfi/",
+    "s": ["cup", "medal"],
+    "d": "A cup or other decorative object awarded as a prize for a victory or success.",
+    "e": "The age groups ranged from four to 20, with a trophy awarded for first prize and certificates for second and third.",
+    "t": "noun",
+    "a": "trophy_us_1.mp3"
+  },
+  {
+    "w": "umpire",
+    "p": "/ˈəmˌpaɪ(ə)r/",
+    "s": ["referee", "linesman", "referee's assistant", "assistant referee"],
+    "d": "(in some sports) an official who watches a game or match closely to enforce the rules and arbitrate on matters arising from the play.",
+    "e": "But the point here is that such a play does not give umpires the mandate to reverse any call.",
+    "t": "noun",
+    "a": "umpire_us_1.mp3"
+  },
+  {
+    "w": "underdog",
+    "p": "/ˈəndərˌdɔɡ/",
+    "s": ["weaker party", "victim", "prey"],
+    "d": "A competitor thought to have little chance of winning a fight or contest.",
+    "e": "we go into this game as the underdogs",
+    "t": "noun",
+    "a": "underdog_us_2.mp3"
+  }
+]
