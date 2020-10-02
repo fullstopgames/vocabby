@@ -1,7 +1,7 @@
 {
     "theme_color": "#2196f3",
     "background_color": "#ffffff",
-    "display": "standalone",
+    "display": "fullscreen",
     "lang": "en-GB",
     "start_url": "https://fullstopgames.github.io/vocabby/",
     "name": "Vocabby",
