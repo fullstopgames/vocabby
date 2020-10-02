@@ -4,6 +4,7 @@
     "display": "standalone",
     "lang": "en-GB",
     "start_url": "https://fullstopgames.github.io/vocabby/",
+    "name": "Vocabby",
     "app_name": "Vocabby",
     "short_name": "Vocabby",
     "description": "Vocabulary Flashcards and Quizzes",
