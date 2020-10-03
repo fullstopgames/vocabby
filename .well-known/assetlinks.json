@@ -1,5 +1,5 @@
 [{
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target" : { "namespace": "android_app", "package_name": "com.fullstopgames.vocabby",
-                 "sha256_cert_fingerprints": ["5B:FA:A9:6F:2C:2F:74:BE:B5:A0:AA:37:A7:2F:12:99:78:91:DC:62:F9:60:56:15:E4:B0:8A:1B:D4:87:85:EF"] }
+                 "sha256_cert_fingerprints": ["97:6A:42:2B:DB:D4:BF:8B:B3:69:18:0E:8A:D0:6A:D1:FD:35:BF:96:E3:B9:7C:0A:97:5E:CD:2B:A4:19:8E:4F"] }
   }]
