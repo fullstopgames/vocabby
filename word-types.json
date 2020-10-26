@@ -11,27 +11,27 @@
     },
     {
       "type": "air-travel",
-      "coins": 100
+      "coins": 500
     },
     {
       "type": "economics",
-      "coins": 100
+      "coins": 450
     },
     {
       "type": "emotions",
-      "coins": 100
+      "coins": 200
     },
     {
       "type": "environment",
-      "coins": 100
+      "coins": 350
     },
     {
       "type": "family-members",
-      "coins": 100
+      "coins": 500
     },
     {
       "type": "health",
-      "coins": 100
+      "coins": 400
     },
     {
       "type": "legal",
@@ -39,19 +39,19 @@
     },
     {
       "type": "professions",
-      "coins": 100
+      "coins": 250
     },
     {
       "type": "sports",
-      "coins": 100
+      "coins": 300
     },
     {
       "type": "time",
-      "coins": 100
+      "coins": 150
     },
     {
       "type": "weather",
-      "coins": 100
+      "coins": 500
     }
   ]
 }
